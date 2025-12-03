@@ -136,7 +136,7 @@ def main():
     model_name = "meta-llama/Llama-3.2-1B-Instruct"  # or "mistralai/Mistral-7B-Instruct-v0.2", etc.
     
     # Generation parameters
-    max_new_tokens = 200
+    max_new_tokens = 20
     temperature = 0.7
     
     # Device configuration
