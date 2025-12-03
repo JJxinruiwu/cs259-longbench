@@ -67,13 +67,17 @@ def load_model_gguf(model_path: str, n_gpu_layers: int = -1, n_ctx: int = 4096):
     if not os.path.exists(model_path):
         raise FileNotFoundError(f"GGUF model file not found: {model_path}")
     
-    if n_gpu_layers == -1 and TORCH_AVAILABLE and torch.cuda.is_available():
+    # Determine GPU layers: -1 means use all available GPU layers
+    # llama-cpp-python will automatically use GPU if available, CPU otherwise
+    if n_gpu_layers == -1:
         actual_n_gpu_layers = -1
-        print("Using GPU acceleration")
+        print("Attempting to use GPU acceleration (n_gpu_layers=-1)")
+    elif n_gpu_layers == 0:
+        actual_n_gpu_layers = 0
+        print("Using CPU only (n_gpu_layers=0)")
     else:
-        actual_n_gpu_layers = n_gpu_layers if n_gpu_layers >= 0 else 0
-        if actual_n_gpu_layers == 0:
-            print("Using CPU only")
+        actual_n_gpu_layers = n_gpu_layers
+        print(f"Using {n_gpu_layers} GPU layers")
     
     model = Llama(
         model_path=model_path,
@@ -83,6 +87,9 @@ def load_model_gguf(model_path: str, n_gpu_layers: int = -1, n_ctx: int = 4096):
     )
     
     print(f"GGUF model loaded successfully")
+    if actual_n_gpu_layers == -1:
+        print("Note: If GPU is not being used, ensure llama-cpp-python was compiled with CUDA support.")
+        print("      Install with: CMAKE_ARGS='-DGGML_CUDA=on' pip install llama-cpp-python")
     return None, model
 
 def run_one_hf(tokenizer, model, prompt_path: str, output_path: str, 
