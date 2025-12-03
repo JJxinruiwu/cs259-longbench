@@ -41,7 +41,7 @@ def load_model(model_name: str, device: str = "cuda"):
 
 def run_one(tokenizer, model, prompt_path: str, output_path: str, 
             max_new_tokens: int = 512, temperature: float = 0.7, 
-            device: str = "cuda"):
+            device: str = "cuda", use_cache: bool = True):
     """
     Run model inference on a prompt file, save output to file.
     Returns the latency (in seconds).
@@ -57,15 +57,34 @@ def run_one(tokenizer, model, prompt_path: str, output_path: str,
     if device == "cuda":
         inputs = {k: v.to(device) for k, v in inputs.items()}
     
-    # Generate response
+    # Generate response with error handling for DynamicCache issues (e.g., phi-3.5-moe-instruct)
     with torch.no_grad():
-        outputs = model.generate(
-            **inputs,
-            max_new_tokens=max_new_tokens,
-            temperature=temperature,
-            do_sample=temperature > 0,
-            pad_token_id=tokenizer.pad_token_id
-        )
+        try:
+            outputs = model.generate(
+                **inputs,
+                max_new_tokens=max_new_tokens,
+                temperature=temperature,
+                do_sample=temperature > 0,
+                pad_token_id=tokenizer.pad_token_id,
+                use_cache=use_cache
+            )
+        except AttributeError as e:
+            if "'DynamicCache' object has no attribute 'seen_tokens'" in str(e) or "seen_tokens" in str(e):
+                # Retry without cache for models with DynamicCache compatibility issues
+                if use_cache:
+                    print(f"  Warning: Cache error detected, retrying with use_cache=False")
+                    outputs = model.generate(
+                        **inputs,
+                        max_new_tokens=max_new_tokens,
+                        temperature=temperature,
+                        do_sample=temperature > 0,
+                        pad_token_id=tokenizer.pad_token_id,
+                        use_cache=False
+                    )
+                else:
+                    raise
+            else:
+                raise
     
     # Decode output
     generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
@@ -87,7 +106,7 @@ def run_one(tokenizer, model, prompt_path: str, output_path: str,
 
 def run_all(local_prompt_dir: str, output_dir: str, model_name: str,
             max_new_tokens: int = 512, temperature: float = 0.7, 
-            device: str = "cuda"):
+            device: str = "cuda", use_cache: bool = True):
     """
     Run model inference on all prompt files in the directory.
     """
@@ -117,7 +136,8 @@ def run_all(local_prompt_dir: str, output_dir: str, model_name: str,
         try:
             latency = run_one(tokenizer, model, prompt_path, out_path, 
                             max_new_tokens=max_new_tokens, 
-                            temperature=temperature, device=device)
+                            temperature=temperature, device=device,
+                            use_cache=use_cache)
             print(f"  latency: {latency:.3f} s")
             latencies.append((fname, latency))
         except Exception as e:
@@ -140,6 +160,8 @@ def main():
                         help="Directory containing prompt files (default: ./prompt_files)")
     parser.add_argument("--output_dir", type=str, default="./qmsum_outputs",
                         help="Directory to save output files (default: ./qmsum_outputs)")
+    parser.add_argument("--disable_cache", action="store_true",
+                        help="Disable KV cache (slower but fixes DynamicCache issues with some models)")
     
     args = parser.parse_args()
     
@@ -155,10 +177,13 @@ def main():
     if device == "cpu":
         print("Warning: CUDA not available, using CPU (will be slower)")
     
+    use_cache = not args.disable_cache
+    
     print(f"Using device: {device}")
     print(f"Model: {model_name}")
     print(f"Max new tokens: {max_new_tokens}")
     print(f"Temperature: {temperature}")
+    print(f"Use cache: {use_cache}")
     
     latencies, total_time = run_all(
         local_prompt_dir=local_prompt_dir,
@@ -166,7 +191,8 @@ def main():
         model_name=model_name,
         max_new_tokens=max_new_tokens,
         temperature=temperature,
-        device=device
+        device=device,
+        use_cache=use_cache
     )
     
     print("\n=== Benchmark Summary ===")
