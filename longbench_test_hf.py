@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import os
 import time
+import argparse
 from pathlib import Path
 import torch
 from transformers import AutoTokenizer, AutoModelForCausalLM
@@ -128,16 +129,26 @@ def run_all(local_prompt_dir: str, output_dir: str, model_name: str,
     return latencies, total
 
 def main():
+    parser = argparse.ArgumentParser(description="Run LongBench evaluation with Hugging Face models")
+    parser.add_argument("--max_new_tokens", type=int, default=512,
+                        help="Maximum number of new tokens to generate (default: 512)")
+    parser.add_argument("--temperature", type=float, default=1.0,
+                        help="Temperature for generation (default: 1.0)")
+    parser.add_argument("--model_name", type=str, default="meta-llama/Llama-3.2-1B-Instruct",
+                        help="Hugging Face model name (default: meta-llama/Llama-3.2-1B-Instruct)")
+    parser.add_argument("--prompt_dir", type=str, default="./prompt_files",
+                        help="Directory containing prompt files (default: ./prompt_files)")
+    parser.add_argument("--output_dir", type=str, default="./qmsum_outputs",
+                        help="Directory to save output files (default: ./qmsum_outputs)")
+    
+    args = parser.parse_args()
+    
     # Configuration
-    local_prompt_dir = "./prompt_files"
-    output_dir = "./qmsum_outputs"
-    
-    # Model configuration - change this to your desired Hugging Face model
-    model_name = "meta-llama/Llama-3.2-1B-Instruct"  # or "mistralai/Mistral-7B-Instruct-v0.2", etc.
-    
-    # Generation parameters
-    max_new_tokens = 512  # Increased from 20 to allow proper summaries
-    temperature = 1.0
+    local_prompt_dir = args.prompt_dir
+    output_dir = args.output_dir
+    model_name = args.model_name
+    max_new_tokens = args.max_new_tokens
+    temperature = args.temperature
     
     # Device configuration
     device = "cuda" if torch.cuda.is_available() else "cpu"
@@ -146,6 +157,8 @@ def main():
     
     print(f"Using device: {device}")
     print(f"Model: {model_name}")
+    print(f"Max new tokens: {max_new_tokens}")
+    print(f"Temperature: {temperature}")
     
     latencies, total_time = run_all(
         local_prompt_dir=local_prompt_dir,

@@ -2,6 +2,9 @@
 
 import os
 import re
+import json
+import argparse
+from datetime import datetime
 from datasets import load_dataset
 import evaluate
 
@@ -69,7 +72,25 @@ def evaluate_folder_outputs(output_dir: str, ref_map: dict):
     return results, result
 
 def main():
-    output_dir = "qmsum_outputs"
+    parser = argparse.ArgumentParser(description="Evaluate LongBench outputs and save results to JSON")
+    parser.add_argument("--output_dir", type=str, default="qmsum_outputs",
+                        help="Directory containing output files (default: qmsum_outputs)")
+    parser.add_argument("--model_name", type=str, default="meta-llama/Llama-3.2-1B-Instruct",
+                        help="Model name used for generation (default: meta-llama/Llama-3.2-1B-Instruct)")
+    parser.add_argument("--max_new_tokens", type=int, default=512,
+                        help="Max new tokens used for generation (default: 512)")
+    parser.add_argument("--temperature", type=float, default=1.0,
+                        help="Temperature used for generation (default: 1.0)")
+    parser.add_argument("--results_file", type=str, default=None,
+                        help="Output JSON file path (default: results_<timestamp>.json)")
+    
+    args = parser.parse_args()
+    
+    output_dir = args.output_dir
+    model_name = args.model_name
+    max_new_tokens = args.max_new_tokens
+    temperature = args.temperature
+    
     print("Loading references …")
     ref_map = load_references()
     print(f"Loaded {len(ref_map)} references.")
@@ -85,6 +106,34 @@ def main():
     # Print only rougeL, or print all metrics
     print(f"ROUGE-L (F1): {aggregated['rougeL']:.4f}")
     print(f"ROUGE-1: {aggregated['rouge1']:.4f}, ROUGE-2: {aggregated['rouge2']:.4f}, ROUGE-Lsum: {aggregated['rougeLsum']:.4f}")
+    
+    # Create results dictionary with timestamp
+    timestamp = datetime.now().isoformat()
+    results = {
+        "timestamp": timestamp,
+        "model_name": model_name,
+        "max_new_tokens": max_new_tokens,
+        "temperature": temperature,
+        "rougeL": aggregated['rougeL'],
+        "rouge1": aggregated['rouge1'],
+        "rouge2": aggregated['rouge2'],
+        "rougeLsum": aggregated['rougeLsum'],
+        "per_sample_scores": [{"sample_id": idx, "rougeL": float(rl)} for idx, rl in per_sample_scores]
+    }
+    
+    # Determine output file path
+    if args.results_file:
+        results_file = args.results_file
+    else:
+        # Create filename with timestamp
+        timestamp_safe = datetime.now().strftime("%Y%m%d_%H%M%S")
+        results_file = f"results_{timestamp_safe}.json"
+    
+    # Save to JSON file
+    with open(results_file, "w", encoding="utf-8") as f:
+        json.dump(results, f, indent=2, ensure_ascii=False)
+    
+    print(f"\n=== Results saved to {results_file} ===")
 
 if __name__ == "__main__":
     main()
