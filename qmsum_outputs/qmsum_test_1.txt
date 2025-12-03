@@ -199,15 +199,5 @@ Marketing: {vocalsound} Nice.
 Project Manager: Great.
 User Interface: And uh that is about it.
 Project Manager: Great, thanks Nathan.
-Industrial Designer: Thanks Nathan.
-Marketing: Thanks Nathan.
-Project Manager: Thanks Nathan.
-Industrial Designer: Thanks Nathan.
-User Interface: {vocalsound} Thanks Nathan. {vocalsound}
-Project Manager: {vocalsound}
-User Interface: {vocalsound}
-Marketing: {vocalsound}
-Industrial Designer: {vocalsound}
-User Interface: {vocalsound}
-Project Manager: {vocalsound}
-User Interface: {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocals
+Industrial Designer: Oh yeah, thanks Nathan.
+User Interface: {vocalsound

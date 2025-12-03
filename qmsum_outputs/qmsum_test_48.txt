@@ -255,20 +255,5 @@ Industrial Designer: Yeah something like that.
 Project Manager: Well then uh the serious uh stuff. We're we want to sell it at twenty five Euros internationally um so um but we dunno what exactly th i it is in dollars, but uh twenty five Euros. Our profit aim is, worldwide, fifty million Euros. So I didn't uh exactly uh calculate how much we have to sell.
 Industrial Designer: So {disfmarker} {vocalsound}
 Project Manager: {vocalsound} {gap} we want to keep it our costs at twelve and a half Euros so, keep uh that in mind when we uh talk about our uh materials an f and stuff, and uh marketing uh research.
-Industrial Designer: I understand. {vocalsound}
-Marketing: That's it, thanks. {vocalsound}
-Project Manager: {vocalsound} Thank you. {vocalsound}
-Industrial Designer: Yeah.
-User Interface: {vocalsound}
-Marketing: {vocalsound}
-Project Manager: {vocalsound} We're done. {vocalsound}
-Industrial Designer: {vocalsound}
-User Interface: {vocalsound}
-Marketing: {vocalsound}
-Project Manager: {vocalsound} {vocalsound} I think we're finished. {vocalsound}
-Industrial Designer: {vocalsound}
-User Interface: {vocalsound}
-Marketing: {vocalsound}
-Project Manager: {vocalsound} I think we're done. {vocalsound}
-Industrial Designer: {vocalsound}
-User Interface: {vocalsound
+Industrial Designer: Uh, uh {gap}.
+Project Manager: {vocalsound} And uh we

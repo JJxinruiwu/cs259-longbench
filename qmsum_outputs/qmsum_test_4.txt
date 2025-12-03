@@ -152,21 +152,4 @@ Professor C: OK. Anyway. So, the trip {disfmarker} the report on these {disfmark
 Grad B: Yeah. It's alright.
 Grad E: Um. {vocalsound} Well it was just amazing to {disfmarker} to see uh how {disfmarker} how instable the whole thing is,
 Professor C: Maybe you're done, then.
-Grad E: and if you just take the {disfmarker} And I g I got the feeling that we are {pause} the only ones right now who have a running system. I don't know what the guys in Kaiserslautern have running because e the version {disfmarker} that is, the full version that's on the server d does not work. And you need to do a lot of stuff to make it work. And so it's {disfmarker} And even Tilman and Ralf sort of said " yeah there never was a really working version that uh did it without th all the shortcuts that they built in for the uh October @ @ version ". So we're actually maybe ahead of the System Gruppe by now, the system {disfmarker} the integration group. And it was, uh {disfmarker} It was fun to some extent, but the uh the outcome that is sort of of scientific interest is that I think both Ralf and Tilman are going to be able to get their systems working, and we will be able to {pause} well, probably in the next year or so.
-Grad B: Mm - hmm.
-Grad E: Yeah, I think that's the case.
-Professor C: Right.
-Grad B: OK.
-Grad E: We have to {pause} uh, I think we should take some time to work on the demo, and then {disfmarker} and then we can have the next meeting, and so on.
-Grad B: Yeah.
-Professor C: Right.
-Grad E: And then we can have the next meeting, and so on.
-Grad B: OK.
-Grad E: We can then have the next meeting.
-Professor C: Right.
-Grad B: OK.
-Grad E: And then we can have the next meeting.
-Grad B: OK.
-Grad E: And then we can have the next meeting.
-Grad B: OK.
-Grad E: And then
+Grad E: and if you just take the {disfmarker} And I g I got the feeling that we are {pause} the only ones right now who have a running system. I don't know what the guys in Kaiserslautern have running because e the version {disfmarker} that is, the full version that's on the server d does not work. And you need to do a lot of stuff to make it work. And so it's {disfmarker} And even Tilman and Ralf sort of said " yeah there never was a really working version that uh did it without th all the shortcuts that they built in for the uh October @ @ version ". So we're actually maybe ahead of the System Gruppe by now, the system {disfmarker} the integration group. And it was, uh {disfmarker} It was fun to some extent, but the uh the outcome that is sort of of scientific interest is that I think both Ralf and Tilman are going to be leaving the group by the end of the year, and I

@@ -301,20 +301,7 @@ Industrial Designer: {vocalsound}
 Marketing: {vocalsound} {vocalsound} {disfmarker}
 Project Manager: {vocalsound} If it {disfmarker} if we want a r universal remote control that we sa like we say before it may may need more than three mm three button, three mm possibilities, ye yeah.
 User Interface: Sh sure, sure.
-Marketing: Yeah, more than three actions that you may want to do. {vocalsound}
-User Interface: Hmm.
-Marketing: So we need to have more than three button.
-Project Manager: Mm.
-User Interface: So we need to implement {disfmarker} more than three button.
-Marketing: Yes, that's correct.
-User Interface: Like three button {disfmarker} and one button to change the colour.
+Marketing: Yeah, more than three actions that you may want to do.
 Project Manager: Mm-hmm.
-User Interface: And what about the off button, is that going to be a separate button or an on/off switch? {vocalsound}
-Industrial Designer: Hmm.
-Project Manager: {vocalsound}
-User Interface: Uh-huh.
-Marketing: And that's where I am confused, the off button, it's supposed to be on the top right, but {vocalsound} I don't see the off button anywhere.
-Industrial Designer: Yeah, I thought that was a bug.
-Project Manager: Mm.
-Marketing: Mm-hmm.
-User
+User Interface: No.
+Marketing: {vocals

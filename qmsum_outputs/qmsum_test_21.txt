@@ -225,8 +225,5 @@ Marketing: we have L_C_D_.
 Project Manager: Change colour of t
 Industrial Designer: So you change colours.
 Marketing: Change colour of t
-Industrial Designer: Yeah, yes.
-Project Manager: {vocalsound} {vocalsound}
-Marketing: So we have uh uh uh, uh uh uh, uh uh uh, uh uh uh, uh uh uh.
-Industrial Designer: Yeah, we have uh uh uh uh, uh uh uh, uh uh uh, uh uh uh.
-Marketing: And what about {disfmarker} the {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker} {disfmarker}
+Project Manager: I mean, change colour of t.
+Marketing: And you can use

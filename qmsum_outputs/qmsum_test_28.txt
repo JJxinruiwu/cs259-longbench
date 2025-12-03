@@ -188,18 +188,5 @@ Professor B: we sort of set up a range of different degrees of liveness that you
 PhD D: Mm - hmm.
 Professor B: so it 'd be a good thing to get in there. But, um {disfmarker} Anyway, jus just looking for ways that we could actually show what you're doing, uh, in {disfmarker} {pause} to people.
 Grad E: Mm - hmm.
-Professor B: Cuz a lot of this stuff, particularly for Communicator, uh certainly a significant chunk of the things that we waved our arms about th originally had t had to do with prosodics, and the ability to hear the prosody, and so on.
-Grad A: So, uh {disfmarker} So, what is the next step for the demo?
-Grad E: Um {pause} Right.
-PhD C: Well, we've talked about that. But I think the next step is to get some of the demo stuff out to the participants and to get feedback from them.
-Grad A: Right.
-PhD D: And then we can work on the rest of the demo.
-Grad E: Yeah.
-PhD C: And then we can try to get it out to the whole audience.
-Grad A: Right.
-PhD D: So we can see how it goes.
-Grad E: Yeah.
-Grad A: Yeah.
-Grad E: So, uh {disfmarker} what is the next step?
-PhD C: Well, I think we should get some of the demo stuff out to the participants and get feedback from them.
-Grad A
+Professor B: Cuz a lot of this stuff, particularly for Communicator, uh certainly a significant chunk of the things that we waved our arms about th originally had t had to do with prosodial analysis. And that's just not really something that we want to do.
+PhD D:

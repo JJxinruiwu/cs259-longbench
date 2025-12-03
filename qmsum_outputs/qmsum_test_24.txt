@@ -268,20 +268,5 @@ Marketing: What do you what do you all think?
 Industrial Designer: Mm.
 Project Manager: Six.
 User Interface: Or maybe six, because it's just one one i one among the issues,
-Project Manager: Yeah, I think six is a good idea.
-Marketing: Yeah.
-Industrial Designer: Yeah.
-Marketing: So that'll be a six for A_.
-User Interface: {vocalsound} That's right, that's right.
-Project Manager: Mm-hmm.
-User Interface: And A_, yeah.
-Marketing: That's right.
-Project Manager: So we've got a seven for B_, a six for C_, and a five for D_.
-User Interface: Yeah.
-Marketing: And then we'll just put the rest on the B_, and the rest on the C_, and the rest on the D_, right?
-Project Manager: Right.
-Marketing: And the rest will be on the E_, and the rest will be on the F_, right?
-User Interface: Yeah.
-Marketing: And we'll just put the rest on the E_, and the rest on the F_, right?
-Project Manager: Right.
-User Interface: So we'll
+Project Manager: Yeah, I think it's six.
+Marketing: {vocalsound} {vocalsound} I think

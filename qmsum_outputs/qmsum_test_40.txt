@@ -231,15 +231,5 @@ Project Manager: yeah I've just thought about this that we could even put it muc
 Marketing: {vocalsound}
 Industrial Designer: Mm-hmm.
 User Interface: {vocalsound}
-Project Manager: there we go. Okay, so this is the um overall budget for our project. We've got {disfmarker} um we're planning to sell these remote controls for {disfmarker} let's make that go away, that means we've got five minutes. Um we're planning to sell the remote controls for twenty five Euros each. Um and with that we're aiming for a profit of fifty million Euros. And that's selling them on the international market, not just in the U_K_. Um so to do that our finance people estimate that we need production costs of maximum twelve and a half Euro so that we can reach that profit target. So that's something to keep in mind while you're designing. Okay. Hmm.
-Industrial Designer: {gap}
-User Interface: {vocalsound} That's it, that's it. {vocalsound}
-Project Manager: Mm-hmm.
-Marketing: {vocalsound}
-User Interface: {vocalsound} It looks like we're all done with the meeting.
-Project Manager: {vocalsound}
-Industrial Designer: Mm.
-User Interface: Mm. {vocalsound} Thank you all for your time. {vocalsound} {vocalsound} {vocalsound}
-Project Manager: That's all for today. {vocalsound}
-Industrial Designer: {vocalsound}
-User Interface: {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {
+Project Manager: there we go. Okay, so this is the um overall budget for our project. We've got {disfmarker} um we're planning to sell these remote controls for {disfmarker} let's make that go away, that means we've got five minutes. Um we're planning to sell the remote controls for twenty five Euros each. Um and with that we're aiming for a profit of fifty million Euros. And that's selling them on the international market, not just in the U_K_. Um so to do that our finance people estimate that we need production costs of maximum twelve and a half Euro so that we can reach that profit target. So that's something to keep in mind while you're designing. Okay. Hmm. {vocalsound}
+User Interface: {vocalsound} Okay, that's

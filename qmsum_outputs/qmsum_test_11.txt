@@ -218,13 +218,4 @@ Industrial Designer: {vocalsound}
 Marketing: {vocalsound}
 User Interface: It's a really good style, it going to be {disfmarker} look like like this. It is unbreakable and it is very universal. W we'll have a screen with a back light which can change colours,
 Marketing: Mm-hmm.
-User Interface: and we can put some buttons on it that can be easily {disfmarker} easy to press.
-Industrial Designer: {vocalsound} And also we can put some sensors on it that can detect the position of the buttons, so that we can make the remote control more {disfmarker} friendly.
-User Interface: And the best part is that it's completely {disfmarker} self-entitled, it can {vocalsound} the remote control on its own and we can just put it on the shelf.
-Marketing: {vocalsound}
-User Interface: That's the {disfmarker} ideal remote control.
-Industrial Designer: {vocalsound} {vocalsound}
-User Interface: But we also need to make it easy to use, so we can use it with {vocalsound} voice control.
-Marketing: {vocalsound}
-Project Manager: Mm-hmm. Okay. {vocalsound}
-User Interface:
+User Interface: and we can put a button on the side, and the button is a {vocalsound} little button,

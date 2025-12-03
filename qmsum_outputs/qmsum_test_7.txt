@@ -198,15 +198,5 @@ PhD B: Yeah.
 Professor D: OK.
 PhD A: Mmm.
 PhD B: We select these {disfmarker} these {disfmarker} these tasks because it's the more difficult.
-Professor D: Yes, good. OK? So then you're assuming multi - English is closer to the kind of thing that you could use since you're not using delta. Yeah.
-PhD B: Yeah.
-Professor D: Because of the noise in the Italian, {disfmarker} the noise in the Italian, uh, and the fact that we are not using delta, we can make a reasonable assumption that the results will be closer to the multi - English condition.
-PhD A: Mm - hmm.
-PhD B: Yeah.
-Professor D: So that's the {disfmarker} the idea behind this.
-PhD A: Yeah.
-PhD B: Yes.
-Professor D: Good. OK.
-PhD A: So we're going to do {disfmarker} we're going to do {disfmarker} the experiment with the multi - English condition. Uh.
-PhD B: Yeah.
-Professor D: Right? So we have to do {disfmarker} we have to do {disfmarker} the experiment on the {disfmarker} the French and Spanish, and the Italian
+Professor D: Yes, good. OK? So then you're assuming multi - English is closer to the kind of thing that you could use since you're using a larger dataset, and you have more experience with it.
+PhD A: Mm

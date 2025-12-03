@@ -262,7 +262,6 @@ Project Manager: We have the simple, regular and advanced.
 Industrial Designer: Advanced.
 Project Manager: We have the adva advanced. 'Kay, so uncurved or flat. Nope. Single curved or double curved? We have double curved. {gap} {disfmarker} {vocalsound}
 Industrial Designer: {vocalsound}
-Project Manager: So it's got two curved sides.
-User Interface: {vocalsound}
-Marketing: {vocalsound}
-Project Manager: So it's uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh uh
+Project Manager: No. {disfmarker} It's single curved.
+Industrial Designer: Yes.
+Project

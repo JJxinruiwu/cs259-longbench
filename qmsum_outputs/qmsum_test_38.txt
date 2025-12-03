@@ -252,17 +252,5 @@ User Interface: Mm-hmm, mm-hmm,
 Project Manager: but {disfmarker}
 Industrial Designer: Yeah.
 User Interface: so {disfmarker}
-Marketing: Because uh I think there are two kinds of people. Those for which the remote control is uh is to be uh used in a specific location, like for example in a home, and they want to use it in a home.
-User Interface: Okay.
-Marketing: And those who will use it in a specific location but in an {disfmarker} different location, like for example in an office, and they want to use it in an office.
-Industrial Designer: Mm.
-User Interface: {vocalsound} Like for example in a {disfmarker} a different room, like a different room.
-Marketing: Mm-hmm.
-User Interface: and they want to use it in a different room.
-Project Manager: Mm-hmm.
-Industrial Designer: Yeah.
-User Interface: and they want to use it in a different room.
-Marketing: And they want to use it in a different room.
-Project Manager: Mm-hmm.
-User Interface: {vocalsound} And that's why we have different remote control designs.
-Industrial Designer: {vocalsound}
+Marketing: Because uh I think there are two kinds of people. Those for which the remote control is uh is to be uh uh is to be changed and those who don't care {disfmarker}
+Project Manager: M

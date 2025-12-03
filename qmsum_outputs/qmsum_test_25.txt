@@ -224,13 +224,6 @@ Industrial Designer: And we have L_C_D_.
 Marketing: we have L_C_D_.
 Project Manager: Change colour of t
 Industrial Designer: So you change colours.
-Marketing: Change colour of the remote control.
-Industrial Designer: Yeah. You can change the colour of the remote control.
-User Interface: {vocalsound} It's a really {disfmarker} {vocalsound}
-Marketing: Yes. {vocalsound}
-Project Manager: {vocalsound} Okay. {vocalsound} Uh-huh.
-Marketing: {vocalsound} So we can make the remote control more {disfmarker} {vocalsound} {vocalsound} {vocalsound} {vocalsound}
-Industrial Designer: Yeah. We can make it more {disfmarker} {vocalsound}
-User Interface: Yeah. Yeah.
-Marketing: {vocalsound} It's a really {disfmarker} {vocalsound} {vocalsound} {vocalsound} {vocalsound}
-Industrial Designer: Yes. {vocalsound}
+Marketing: Change colour of the colour.
+Project Manager: So, uh, what do you think?
+Marketing: Uh,

@@ -250,12 +250,4 @@ Project Manager: Yeah, we're we're not quite uh objective about this.
 Marketing: Yeah {vocalsound} {disfmarker}
 User Interface: Well we designed it to be good-looking.
 Industrial Designer: Yeah.
-Marketing: No, I know, but {vocalsound} I know that it's not objectively good looking.
-User Interface: {vocalsound}
-Industrial Designer: I think we should {disfmarker} I think we should use a different metric, like uh uh uh uh uh the design quality.
-Marketing: Yeah, that's a great idea.
-Project Manager: Mm-hmm.
-User Interface: No, no no, no, no, no.
-Industrial Designer: {vocalsound} {disfmarker}
-User Interface: {vocalsound} So what do you think about the user interface? {disfmarker}
-Marketing: Uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh, uh,
+Marketing: No, I know, but {vocalsound} I don't think that's the point. The point is, we thought it was ugly, and

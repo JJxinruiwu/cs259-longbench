@@ -205,11 +205,5 @@ Marketing: Nah.
 Project Manager: it would have to be {disfmarker} seems like we'd have to go back to square one in a way. Um if we were gonna try to undo one bit we'd probably have to undo most of it, um {disfmarker}
 User Interface: {vocalsound}
 Industrial Designer: Yeah.
-Marketing: {vocalsound} Although we don't wanna get rid of the whole environmental {disfmarker} I mean obviously the solar cell is a big piece of the way we're marketing this as like a natural, new thing, but honestly if we cut that one piece out we're actually coming in under budget if I'm doing my math right.
-Project Manager: {vocalsound} Brilliant.
-Industrial Designer: {vocalsound}
-User Interface: {vocalsound}
-Marketing: {vocalsound} So what's the final product looking like? {vocalsound}
-Project Manager: {vocalsound} Let me {vocalsound} tell you. {vocalsound} We're looking at a product that is {disfmarker} actually quite unique, it's got a solar cell, a speaker and a sensor, and the case is a single-curved {disfmarker} material with a rubbery type material that's throughout, with a drop-down interface and a push button interface. {vocalsound} And the best part is it's all {disfmarker} eco-friendly, with a battery that's powered by a small solar cell on the back.
-User Interface: {vocalsound}
-Industrial Designer: {v
+Marketing: {vocalsound} Although we don't wanna get rid of the whole environmental {disfmarker} I mean obviously the solar cell is a big piece of the way we're marketing this as like a natural, new thing, but honestly if we cut that one piece out we're actually coming in under budget if I'm not mistaken.
+Project Manager: {vocalsound} That's right. {voc

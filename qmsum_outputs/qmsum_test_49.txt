@@ -218,14 +218,4 @@ Industrial Designer: {vocalsound}
 Marketing: {vocalsound}
 User Interface: It's a really good style, it going to be {disfmarker} look like like this. It is unbreakable and it is very universal. W we'll have a screen with a back light which can change colours,
 Marketing: Mm-hmm.
-User Interface: and we can put all the buttons on the front and we can even put some buttons for the volume and some buttons for the channels and the options. And it's very simple to make. It's easy to make a baby-proof remote control.
-Industrial Designer: {vocalsound} And we can make it using {disfmarker} materials.
-Marketing: {vocalsound}
-User Interface: And we can make it {disfmarker} very thin.
-Project Manager: {vocalsound}
-User Interface: So this is the baby-proof remote control. It's going to be very popular.
-Marketing: {vocalsound}
-User Interface: And it's going to be very good. {vocalsound}
-Industrial Designer: {vocalsound}
-Project Manager: {vocalsound}
-User Interface: And uh, we can use this remote control for other things as well, like {disfmarker} like {disfmarker} other {disfmarker}
+User Interface: and we can put some buttons on the front that can be easily accessible for a baby. {vocalsound}

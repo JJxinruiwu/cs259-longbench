@@ -162,6 +162,4 @@ Project Manager: Um I think this voice recognition thing is a we've got a market
 Marketing: Mm.
 Project Manager: we'd more or less be cornering the market on it as well, we don't have many um.
 Marketing: Yeah.
-Project Manager: {vocalsound} I appear to have lost my microphone. Mm. {vocalsound} Right um we don't have many people {vocalsound} or there's not very many competitors out there that do that so cool. Um right. I guess we've got a good plan for this remote control.
-Marketing: {vocalsound}
-Project Manager: {vocalsound} I think we've got a good plan for this remote control. Um yeah. {vocalsound} I think we've got a good plan for this remote control. {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {
+Project Manager: {vocalsound} I appear to have lost my microphone. Mm. {vocalsound} Right um we don't have many people {vocalsound} or there's not very many competitors out there that do that so cool. Um right. I guess we've got to make a decision on this. {vocalsound} I'm looking at my notes

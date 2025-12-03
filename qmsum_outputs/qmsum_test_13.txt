@@ -250,17 +250,4 @@ Project Manager: Yeah, we're we're not quite uh objective about this.
 Marketing: Yeah {vocalsound} {disfmarker}
 User Interface: Well we designed it to be good-looking.
 Industrial Designer: Yeah.
-Marketing: No, I know, but {vocalsound} that's why we made it look like this.
-Project Manager: Mm-hmm.
-Marketing: And what about the functionality? What's the most important thing to you?
-User Interface: Mm.
-Marketing: Well, I think the most important thing is the user experience. Because normal people thought that um earlier devices were ugly ugly. Seventy five percent of them. So what do we think?
-Industrial Designer: We designed it to be user-friendly. So of course we are very {disfmarker}
-Project Manager: Yeah, we're not quite objective about this.
-Marketing: Yeah {vocalsound} {disfmarker}
-User Interface: Well we designed it to be easy to use.
-Industrial Designer: Yeah.
-Marketing: No, I know, but {vocalsound} that's why we made it look like this.
-Project Manager: Mm-hmm.
-Marketing: And what about the performance? What's the most important thing to you?
-User Interface:
+Marketing: No, I know, but {vocalsound} {disfmarker} {vocalsound} {vocalsound} {voc

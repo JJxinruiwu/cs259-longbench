@@ -130,14 +130,4 @@ PhD A: Did you add {pause} this data to the training set, for the Aurora? Or you
 Grad E: Uh {disfmarker} Um. Did I w what?
 PhD A: Well, Morgan was just saying that, uh, as long as you do it in both training and testing, it shouldn't have any effect.
 Grad E: Sorry? Yeah.
-PhD A: But I {disfmarker} I was {pause} sort of under the impression that you had done it, and I was wondering if it was the same thing. So.
-Grad E: Yeah.
-PhD A: So, just to be clear, you {disfmarker} you did it, and it shouldn't have any effect.
-Grad E: Yeah.
-PhD A: That's good to know. So, uh, now that we have this data, we can try to {pause} apply it to the Aurora system, and see if it makes any difference.
-Grad E: Uh {disfmarker} Mm - hmm.
-Professor B: Yeah. And we should do a comparison of the {disfmarker} the results of the two systems. So.
-Grad E: Yeah.
-PhD A: So, uh, we can compare the {disfmarker} the performance of the two systems, and see if the addition of this data makes any difference. So.
-Grad E: Yeah.
-Professor B: Yeah. And that's a good idea
+PhD A: But I {disfmarker} I was {pause} sort of under the impression that you were going to test it on a different data set, and {pause} just see if it helped

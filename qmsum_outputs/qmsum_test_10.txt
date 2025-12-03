@@ -130,15 +130,6 @@ PhD A: Did you add {pause} this data to the training set, for the Aurora? Or you
 Grad E: Uh {disfmarker} Um. Did I w what?
 PhD A: Well, Morgan was just saying that, uh, as long as you do it in both training and testing, it shouldn't have any effect.
 Grad E: Sorry? Yeah.
-PhD A: But I {disfmarker} I was {pause} sort of under the impression that you had to do it in the training set only.
-Grad E: Yeah.
-PhD A: Yeah. So, did you add {pause} this data to the training set, or did you test on it only?
-Grad E: Uh {disfmarker} Uh, I did the training set only. I mean, uh, I was just testing on the data that was already there.
-PhD A: Right.
-Grad E: Yeah.
-PhD A: So, uh, I guess we can just add it to the training set, for the Aurora baseline system. Yeah.
-Grad E: Yeah.
-PhD A: And then we can do a test on it.
-Grad E: Yeah.
-Professor B: Yeah. So, uh, what {disfmarker} what would be the next step?
-Grad E: Um, we should start by doing a {disfmarker} a {disfmarker} a training set of {vocalsound} with the low -
+PhD A: But I {disfmarker} I was {pause} sort of under the impression that you might have had to do it in one or the other.
+Grad E: Oh.
+PhD A

@@ -273,28 +273,6 @@ PhD D: Trent Lott.
 PhD C: um I mean these are sort of funny ones,
 PhD D: It 'll get those though.
 PhD C: there's a lot of perfect ones and good ones and all the references, I mean you can read them and when we get more results you can look through and see
-Grad E: I and as I said I would like to look at the reference section and see if there's any more information about this bug.
-Grad F: I will do that.
-Grad E: I will look into it.
-Grad F: Okay.
-Grad E: I will do that.
+Grad E: I and as I said I would like to look at the reference for this one.
 PhD C: Yeah.
-PhD H: Yeah.
-Grad E: so
-Grad F: I will check the XML file again.
-Grad E: Yeah.
-Grad F: and I will look into the reference section.
-Grad E: I will do that.
-PhD C: Yeah.
-Grad F: So
-Grad E: I will check the XML file again.
-Grad F: and I will look into the reference section.
-Grad E: I will do that.
-PhD C: Yeah.
-Grad F: So
-Grad E: I will check the XML file again.
-Grad F: and I will look into the reference section.
-Grad E: I will do that.
-PhD C: Yeah.
-Grad E: So
-Grad F: I will check the
+Grad F: I {disfmarker

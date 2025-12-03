@@ -179,15 +179,6 @@ Industrial Designer: I'm not a designer. It's more {gap} three D_. Like, um when
 User Interface: Mm.
 Project Manager: {vocalsound} {gap}
 User Interface: {vocalsound} Yeah.
-Industrial Designer: {vocalsound} {vocalsound} It's like a gun. {vocalsound}
-User Interface: {vocalsound} So {disfmarker} So {disfmarker} {vocalsound}
-Project Manager: {vocalsound} {gap}
-Industrial Designer: {vocalsound} {vocalsound} Yeah. So {disfmarker} {vocalsound} {gap} {vocalsound}
-Project Manager: {vocalsound} So {disfmarker} {vocalsound} {gap} {vocalsound}
-Industrial Designer: {vocalsound} {gap}
-Marketing: Uh, yeah. So, uh, uh, uh, uh, uh, uh.
-Project Manager: {vocalsound} It's a 3D concept. So, we need to make a prototype.
-Industrial Designer: Yes. {vocalsound}
-User Interface: {vocalsound}
-Marketing: {vocalsound}
-Project Manager: {voc
+Industrial Designer: {vocalsound} {vocalsound} It's like a gun. {vocalsound} Yeah.
+Project Manager: {vocalsound} Okay.
+User Interface: {voc

@@ -140,30 +140,4 @@ PhD F: Yeah.
 Grad G: or {disfmarker} or is that just too sensitive?
 Professor E: No no, it isn't sensitive at all.
 Postdoc B: Well {disfmarker}
-Professor E: I was just {disfmarker} I was just {disfmarker} I was overreacting just because we were {disfmarker} talking about that.
-Grad G: Yeah.
-Postdoc B: Yeah.
-PhD C: Yeah.
-Postdoc B: Yeah.
-Grad G: Yeah.
-Professor E: I don't know, it seems like it was more than just a reaction to that.
-Grad G: Yeah.
-Postdoc B: Yeah.
-PhD F: Right.
-Grad G: Yeah.
-Professor E: Yeah.
-Postdoc B: Yeah.
-PhD C: Yeah.
-Grad G: Yeah.
-Professor E: So, uh.
-Grad G: We did have a lot of {disfmarker}
-Postdoc B: Yes.
-Grad G: Okay, that was {disfmarker}
-Postdoc B: Yeah.
-PhD C: And we did talk about {disfmarker}
-Grad G: Yeah.
-Postdoc B: Yeah.
-PhD F: Right.
-Grad G: Yeah.
-Professor E: So, uh.
-Grad G: We did have a lot of
+Professor E: I was just {disfmarker} I was just {disfmarker} I was overreacting just because we were having a {disfmarker} we were having a {disfmarker} uh, so

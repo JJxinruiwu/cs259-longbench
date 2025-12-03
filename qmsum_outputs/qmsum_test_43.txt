@@ -248,18 +248,5 @@ Project Manager: Well {disfmarker}
 User Interface: The buttons can be made of an uh a soft material.
 Industrial Designer: because {disfmarker}
 User Interface: Because people like that.
-Project Manager: This soft material thing is interesting.
-Industrial Designer: {vocalsound} Yeah, it's a good idea, because {disfmarker} it's soft, it's soft and feels good.
-Marketing: {vocalsound} I agree.
-User Interface: Yeah. {vocalsound}
-Industrial Designer: So we can make it more uh more tactile.
-Project Manager: Yeah, we can make it more uh more tactile.
-User Interface: Yeah. {vocalsound}
-Industrial Designer: And we can make it more uh more durable.
-Marketing: Yeah, we can make it more durable.
-User Interface: Yeah. {vocalsound}
-Industrial Designer: {vocalsound} And we can make it more uh more user friendly.
-Project Manager: Yeah, we can make it more uh more user friendly.
-User Interface: Yeah. {vocalsound}
-Industrial Designer: {vocalsound} And uh that's all for me.
-Project Manager: {v
+Project Manager: This soft material thing? {vocalsound}
+Industrial Designer: {vocalsound} That's uh uh

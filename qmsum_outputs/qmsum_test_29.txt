@@ -218,14 +218,4 @@ Industrial Designer: {vocalsound}
 Marketing: {vocalsound}
 User Interface: It's a really good style, it going to be {disfmarker} look like like this. It is unbreakable and it is very universal. W we'll have a screen with a back light which can change colours,
 Marketing: Mm-hmm.
-User Interface: and we can put buttons on the screen.
-Project Manager: {vocalsound}
-Industrial Designer: {vocalsound}
-Marketing: {vocalsound}
-User Interface: And we can also put some functions on the screen like, uh, the volume, and the channel selection.
-Industrial Designer: {vocalsound} And we can also put some other functions like, uh, the power button.
-User Interface: And uh it's going to be a {disfmarker} nice remote control.
-Marketing: {vocalsound}
-User Interface: But {vocalsound} we should be careful with the {disfmarker} {disfmarker} we should not make a remote control which is too {disfmarker} complex, because that will {vocalsound} make it {vocalsound} harder for people to use it.
-Industrial Designer: {vocalsound} Yeah.
-User Interface: And we should also {vocalsound}
+User Interface: and we can put the remote control in the middle of it, and that's going to be a very nice place to

@@ -198,22 +198,6 @@ Industrial Designer: {vocalsound}
 Marketing: {vocalsound} Nice.
 Project Manager: Great.
 User Interface: And uh that is about it.
-Project Manager: Great, thank you all.
-Industrial Designer: Thank you.
-Marketing: Thanks, thank you.
-User Interface: {vocalsound}
-Project Manager: {vocalsound}
-User Interface: {vocalsound}
-Marketing: {vocalsound} We'll have a new line of remote controls in the near future.
-Industrial Designer: {vocalsound}
-Marketing: Mm. Right. {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound}
-User Interface: {vocalsound}
-Project Manager: {vocalsound}
-User Interface: {vocalsound}
-Marketing: {vocalsound}
-User Interface: {vocalsound}
-User Interface: {vocalsound}
-Project Manager: {vocalsound}
-User Interface: {vocalsound}
-Marketing: {vocalsound}
-User Interface: {vocalsound}
+Project Manager: Great, thank you.
+Marketing: No problem.
+User Interface: {vocalsound} Thanks for the

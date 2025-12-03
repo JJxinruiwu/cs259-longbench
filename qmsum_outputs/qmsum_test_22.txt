@@ -268,24 +268,6 @@ Marketing: What do you what do you all think?
 Industrial Designer: Mm.
 Project Manager: Six.
 User Interface: Or maybe six, because it's just one one i one among the issues,
-Project Manager: Yeah, I think six is a good option.
-User Interface: And then it will be the maximum.
-Marketing: Okay.
-Project Manager: {vocalsound} So yeah, we'll put {disfmarker} six.
-Marketing: Yeah.
-Industrial Designer: Yeah.
-Project Manager: {vocalsound} Yeah, we'll put it {disfmarker} six.
-User Interface: And so it's all set then.
-Marketing: Yeah.
-Project Manager: Mm-hmm.
-User Interface: So, yeah.
-Marketing: {vocalsound} it's all set.
-Project Manager: Mm-hmm.
-User Interface: So, yeah.
-Marketing: {vocalsound} it's all set.
-Project Manager: Mm-hmm.
-User Interface: So, yeah.
-Marketing: {vocalsound} it's all set.
-Project Manager: Mm-hmm.
-User Interface: So, yeah.
-Marketing: {vocalsound} it's all set
+Project Manager: Yeah, I think six is okay.
+Marketing: Mm-hmm.
+User Interface: Yeah, I think six is

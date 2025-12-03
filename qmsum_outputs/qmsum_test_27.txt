@@ -121,21 +121,6 @@ Grad F: Well, except for their construction meaning, so it's not clear that, uh 
 Professor C: Oh, I see. Yeah, yeah, yeah. I'm sorry, you're right.
 Grad F: Yeah.
 Professor C: A construction type. Uh, that's fine. But it, um {disfmarker}
-Grad F: Right. A well, and a previous, um, you know, version of the notation certainly allowed you to single out the meaning part of the form. But it didn't allow you to single out the type.
-Grad E: Mm - hmm.
-Grad F: Yeah.
-Professor C: Because, um, the notation {disfmarker} the notation we use now is a bit different. It's actually a bit more like a construction type {disfmarker} construction type.
-Grad F: Mm - hmm.
-Grad E: Yeah.
-Professor C: Right.
-Grad F: So that's why you need to use the notation {disfmarker} the notation we use now.
-Grad E: Yeah.
-Grad F: Yeah.
-Professor C: OK, so that all looks good.
-Grad F: So basically this is the final block.
-Grad E: Yeah.
-Grad F: And, um, I think it looks pretty good.
-Grad B: Great.
-Grad E: Yeah.
-Grad F: Yeah.
-Grad B: I think we can agree on that. Let's take a look at
+Grad F: Right. A well, and a previous, um, you know, version of the notation certainly allowed you to single out the meaning from the form.
+Grad B: Yeah.
+Grad F: That was a pretty interesting change. I

@@ -147,10 +147,7 @@ User Interface: Yeah.
 Industrial Designer: and uh with um {disfmarker} because we do want something fancy and fashionable as well. So yeah? Cool.
 Project Manager: Mm-hmm.
 User Interface: Mm-hmm. Yep.
-Project Manager: Sure, we can discuss that further on the next meeting.
-User Interface: Yeah.
-Project Manager: Thanks, um that's all for today. {vocalsound} I hope we can all get some rest. {vocalsound} The meeting is now closed.
-User Interface: Okay, yeah. {vocalsound} Thanks.
-Project Manager: {vocalsound} You're welcome. {vocalsound} Thanks.
-User Interface: Thanks. {vocalsound} Thanks, thanks.
-Project Manager: Thanks, {vocalsound} thanks. {vocalsound} Yeah, thanks, {vocalsound} thanks. {vocalsound} Thanks, {vocalsound} thanks. {vocalsound} Thanks, {vocalsound} thanks. {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound
+Project Manager: Sure, we can discuss that further.
+User Interface: Okay, yeah. Thanks.
+Project Manager: Yeah, thanks.
+Industrial
