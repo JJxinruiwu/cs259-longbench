@@ -133,10 +133,10 @@ def main():
     output_dir = "./qmsum_outputs"
     
     # Model configuration - change this to your desired Hugging Face model
-    model_name = "meta-llama/Llama-3.2-1B-Instruct"  # or "mistralai/Mistral-7B-Instruct-v0.2", etc.
+    model_name = "meta-llama/Llama-3.2-7B-Instruct"  # or "mistralai/Mistral-7B-Instruct-v0.2", etc.
     
     # Generation parameters
-    max_new_tokens = 512
+    max_new_tokens = 200
     temperature = 0.7
     
     # Device configuration
