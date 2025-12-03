@@ -1,0 +1,11 @@
+of the {disfmarker} {vocalsound} {gap}
+User Interface: Red.
+Marketing: Red.
+Project Manager: Red.
+Industrial Designer: Red.
+User Interface: The {disfmarker} red. {vocalsound} {gap}
+Project Manager: Red is the colour of {disfmarker} red.
+Industrial Designer: So it looks like there is some {disfmarker} {gap} {vocalsound} technology.
+Marketing: That's uh yes.
+Project Manager: Ah. {vocalsound}
+Marketing: Now we {v

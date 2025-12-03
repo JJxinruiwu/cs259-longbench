@@ -1,0 +1,9 @@
+run it over the top of the waveform like {disfmarker} some of the waveform display systems for for for various speech recognizer
+PhD C: Yeah .
+PhD D: You could just use a subplot and overlay all of them .
+Grad A: But uh , but um I think what he 's referring to is like an animation .
+Professor B: Yeah .
+Grad A: Like {disfmarker} a real time display , real time .
+PhD D: Like uh an oscillogram of pitch .
+Professor B: Yeah .
+Ph

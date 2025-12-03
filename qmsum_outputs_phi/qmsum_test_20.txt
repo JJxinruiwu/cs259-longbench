@@ -1,0 +1,12 @@
+I thought maybe we were parsing the XML incorrectly .
+Grad E: Yeah .
+PhD C: so that wasn't it .
+Grad F: So {disfmarker}
+Professor B: We 'll fix it .
+Grad E: But if it's a simple time conversion , that 's
+PhD C: yeah
+PhD A: oh . But if it's just a time format thing then it can all be easily fixed .
+Professor B: Oh .
+PhD A: That's uh
+Professor B: Yeah , but
+PhD

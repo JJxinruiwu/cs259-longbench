@@ -1,0 +1,11 @@
+} What ?
+Project Manager: No .
+User Interface: {vocalsound} Yeah .
+Marketing: {vocalsound} I know it .
+Project Manager: {gap} {vocalsound}
+Industrial Designer: That's funny . That's a nice picture .
+Project Manager: I'm surprised . {disfmarker}
+Marketing: That's my best . {vocalsound}
+Project Manager: Your mum must be so proud .
+Marketing: I'm glad uh you guys like it .
+Project

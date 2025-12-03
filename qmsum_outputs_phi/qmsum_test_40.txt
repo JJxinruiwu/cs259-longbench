@@ -1,0 +1,7 @@
+: {vocalsound} Ah , no , it's a monster .
+Marketing: Yeah .
+User Interface: I had to think really quick .
+Project Manager: A dog with five legs .
+User Interface: {vocalsound} And it's got a little stinger on the end , right . What's the tummy , though , yeah . Yeah , I'm not too sure how that works . But that's a a monster .
+Marketing: {vocalsound} I've never seen one with one leg and one tail .
+Indust

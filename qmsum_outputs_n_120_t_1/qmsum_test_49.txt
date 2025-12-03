@@ -1,0 +1,9 @@
+some small {disfmarker} buttons there too.
+Project Manager: {vocalsound}
+Industrial Designer: {vocalsound}
+User Interface: Because we need to be {disfmarker} universal.
+Marketing: So {disfmarker} it has a titanium body and a screen with a back light that can change colours.
+User Interface: and that's really {disfmarker} really nice. That's really what we needed.
+Project Manager: {vocalsound}
+Marketing: {vocalsound}
+User Interface: You can put your fingers on the screen,

@@ -1,0 +1,7 @@
+: Oh, I see. {vocalsound}
+Marketing: So I think I can create a new {gap} project description. Project title : " A New Design for a Television Remote Control. {vocalsound}
+Industrial Designer: Right. Let's go uh start drawing.
+User Interface: {vocalsound}
+Marketing: So here's the new project description :
+A New Design for a Television Remote Control
+The goal of this project is to design a new television remote control. The objective is to create a television remote control that is original, trendy, and suitable for young

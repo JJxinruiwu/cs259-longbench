@@ -1,0 +1,14 @@
+thanks Sarah.
+Marketing: {vocalsound} No problem.
+User Interface: {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: Thanks, I appreciate that. {vocalsound}
+Project Manager: Alright, thanks.
+User Interface: Thanks, Sarah.
+Marketing: {vocalsound} Well, thank you.
+Project Manager: {vocalsound}
+User Interface: {vocalsound} No problem.
+User Interface: {vocalsound}
+Marketing: No problem.
+User Interface: {vocalsound}
+Industrial Designer:

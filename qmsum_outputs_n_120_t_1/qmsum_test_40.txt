@@ -1,0 +1,6 @@
+. {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: I think we should make sure that the product is {disfmarker} and that it has to be safe. Safety should be the top priority. {vocalsound}
+Project Manager: {vocalsound}
+User Interface: So, uh, what's our um, {vocalsound} target number for the project? I don't want to sell anything if I don't know what it is. {vocalsound}
+Marketing: I can {vocalsound} give

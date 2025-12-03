@@ -1,0 +1,8 @@
+might have to do it one way or the other.
+Grad E: Uh - huh. So if you {disfmarker} did training on the training set {disfmarker} and testing on the testing set, you wouldn't see a difference, right?
+PhD A: Uh.
+Grad E: Yeah.
+Professor B: So you have to do it in the same way {disfmarker} every time {disfmarker} every time.
+PhD A: Well, I think that's right.
+Grad E: Yeah.
+PhD A: And one more thing, Morgan

@@ -1,0 +1,9 @@
+. When you say {vocalsound} {vocalsound} change colour.
+User Interface: Y is blue.
+Industrial Designer: Yeah.
+Marketing: That is {disfmarker} So we are using colours and L_C_D_ to make our {disfmarker} prototype.
+Project Manager: {vocalsound}
+Industrial Designer: Yeah. It's really nice. {vocalsound}
+User Interface: Yeah. Yeah. It's really nice.
+Marketing: And we can also use different fonts. {vocalsound}
+Industrial Designer: And you can have

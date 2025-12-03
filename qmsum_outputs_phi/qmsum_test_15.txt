@@ -1,0 +1,6 @@
+a problem with that , you can compress the dynamic range after you do the mean subtraction .
+Grad E: Yes .
+Professor B: But you could still multiply it and then compress the dynamic range .
+Grad E: Yes . And you'd still have to have the dynamic range compression after that or you would get peaks , right .
+PhD C: Right . That that'd be a silly thing to do .
+Grad E: So I I didn't that wasn't that it was louder . I didn't actually look at the amplitude waveform . I just said
