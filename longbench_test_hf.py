@@ -67,8 +67,6 @@ def load_model_gguf(model_path: str, n_gpu_layers: int = -1, n_ctx: int = 4096):
     if not os.path.exists(model_path):
         raise FileNotFoundError(f"GGUF model file not found: {model_path}")
     
-    # Determine GPU layers: -1 means use all available GPU layers
-    # llama-cpp-python will automatically use GPU if available, CPU otherwise
     if n_gpu_layers == -1:
         actual_n_gpu_layers = -1
         print("Attempting to use GPU acceleration (n_gpu_layers=-1)")
@@ -132,8 +130,22 @@ def run_one_hf(tokenizer, model, prompt_path: str, output_path: str,
                 raise
     
     input_length = inputs['input_ids'].shape[1]
-    generated_ids = outputs[0][input_length:]
-    response = tokenizer.decode(generated_ids, skip_special_tokens=True).strip()
+    
+    if hasattr(outputs, 'sequences'):
+        full_sequence = outputs.sequences[0]
+    else:
+        full_sequence = outputs[0]
+    
+    generated_ids = full_sequence[input_length:]
+    response_token_level = tokenizer.decode(generated_ids, skip_special_tokens=True).strip()
+    
+    full_text = tokenizer.decode(full_sequence, skip_special_tokens=True)
+    input_text = tokenizer.decode(inputs['input_ids'][0], skip_special_tokens=True).strip()
+    
+    if full_text.startswith(input_text):
+        response = full_text[len(input_text):].strip()
+    else:
+        response = response_token_level
     
     end = time.time()
     latency = end - start
