@@ -70,10 +70,10 @@ def run_one(tokenizer, model, prompt_path: str, output_path: str,
     generated_text = tokenizer.decode(outputs[0], skip_special_tokens=True)
     
     # Extract only the newly generated part (remove the prompt)
-    if len(generated_text) > len(prompt_text):
-        response = generated_text[len(prompt_text):].strip()
-    else:
-        response = generated_text
+    # Use input_ids length to properly extract only new tokens
+    input_length = inputs['input_ids'].shape[1]
+    generated_ids = outputs[0][input_length:]
+    response = tokenizer.decode(generated_ids, skip_special_tokens=True).strip()
     
     end = time.time()
     latency = end - start
@@ -136,7 +136,7 @@ def main():
     model_name = "meta-llama/Llama-3.2-1B-Instruct"  # or "mistralai/Mistral-7B-Instruct-v0.2", etc.
     
     # Generation parameters
-    max_new_tokens = 20
+    max_new_tokens = 512  # Increased from 20 to allow proper summaries
     temperature = 0.7
     
     # Device configuration
