@@ -1,0 +1,141 @@
+Grad B: what things to talk about.
+Grad F: I'm {disfmarker} What? Really? Oh, that's horrible! Disincentive!
+Grad A: OK, we're recording.
+Grad F: Hello?
+Grad B: Check check {pause} check check.
+Grad D: Uh, yeah.
+Grad F: Hello? Which am I?
+Professor C: Oh right.
+Grad B: Alright. Good.
+Grad F: Channel fi OK. OK. Are you doing something? OK, then I guess I'm doing something. So, um, So basically the result of m much thinking since the last time we met, um, but not as much writing, um, is a sheet that I have a lot of, like, thoughts and justification of comments on but I 'll just pass out as is right now. So, um, here. If you could pass this around? And there's two things. And so one on one side is {disfmarker} on one side is a sort of the revised sort of updated semantic specification.
+Grad D: Um {disfmarker} The {disfmarker} wait.
+Grad F: And the other side is, um, sort of a revised construction formalism.
+Grad E: This is just one sheet, right?
+Grad D: Ah! Just one sheet.
+Grad F: It's just one sheet.
+Grad D: OK.
+Grad F: It's just a {disfmarker} Nothing else.
+Grad D: Front, back.
+Grad F: Um, Enough to go around? OK. And in some ways it's {disfmarker} it's {disfmarker} it's very similar to {disfmarker} There are very few changes in some ways from what we've, um, uh, b done before but I don't think everyone here has seen all of this. So, uh, I'm not sure where to begin. Um, as usual the disclaimers are there are {disfmarker} all these things are {disfmarker} it's only slightly more stable than it was before.
+Grad E: Mm - hmm.
+Grad F: And, um, after a little bit more discussion and especially like Keith and I {disfmarker} I have more linguistic things to settle in the next few days, um, it 'll probably change again some more.
+Grad E: Yeah.
+Grad F: Um, maybe I will {disfmarker} let's start b let's start on number two actually on the notation, um, because that's, I'm thinking, possibly a little more familiar to, um {disfmarker} to people. OK, so the top block is just sort of a {disfmarker} sort of abstract nota it's sort of like, um, listings of the kinds of things that we can have. And certain things that have, um, changed, have changed back to this. There {disfmarker} there's been a little bit of, um, going back and forth. But basically obviously all constructions have some kind of name. I forgot to include that you could have a type included in this line.
+Professor C: What I was gonna {disfmarker} Right.
+Grad F: So something like, um {disfmarker} Well, there's an example {disfmarker} the textual example at the end has clausal construction. So, um, just to show it doesn't have to be beautiful It could be, you know, simple old text as well. Um, there are a couple of {disfmarker} Uh, these three have various ways of doing certain things. So I 'll just try to go through them. So they could all have a type at the beginning. Um, and then they say the key word construction
+Professor C: Oh, I see.
+Grad F: and they have some name.
+Professor C: So {disfmarker} so the current syntax is if it s if there's a type it's before construct
+Grad F: Yeah, right.
+Professor C: OK, that's fine.
+Grad F: OK, and then it has a block that is constituents. And as usual I guess all the constructions her all the examples here have only, um, tsk {comment} one type of constituent, that is a constructional constituent. I think that's actually gonna turn out to m be certainly the most common kind. But in general instead of the word " construct ", th here you might have " meaning " or " form " as well. OK? So if there's some element that doesn't {disfmarker} that isn't yet constructional in the sense that it maps form and meaning. OK, um, the main change with the constructs which {disfmarker} each of which has, um, the key word " construct " and then some name, and then some type specification, is that it's {disfmarker} it's pro it's often {disfmarker} sometimes the case in the first case here that you know what kind of construction it is. So for example whatever I have here is gonna be a form of the word " throw ", or it's gonna be a form of the word, you know, I don't know, " happy ", or something like that. Or, you know, some it 'll be a specific word or maybe you 'll have the type. You 'll say " I need a p uh spatial relation phrase here " or " I need a directional specifier here ". So - uh you could have a j a actual type here. Um, or you could just say in the second case that you only know the meaning type. So a very common example of this is that, you know, in directed motion, the first person to do something should be an agent of some kind, often a human. Right? So if I {disfmarker} you know, the um, uh, run down the street then I {disfmarker} I {disfmarker} I run down the street, it's typed, uh, " I ", meaning category is what's there. The {disfmarker} the new kind is this one that is sort of a pair and, um, sort of skipping fonts and whatever. The idea is that sometimes there are, um, general constructions that you know, that you're going to need. It's {disfmarker} it's the equivalent of a noun phrase or a prepositional phrase, or something like that there.
+Grad E: Mm - hmm.
+Grad F: And usually it has formal um, considerations that will go along with it.
+Professor C: Mm - hmm.
+Grad F: And then uh, you might know something much more specific depending on what construction you're talking about, about what meaning {disfmarker} what specific meaning you want. So the example again at the bottom, which is directed motion, you might need a nominal expression to take the place of, you know, um, " the big th ", you you know, " the big {disfmarker} the tall dark man ", you know, " walked into the room ".
+Grad E: Mm - hmm.
+Grad F: But because of the nature of this particular construction you know not just that it's nominal of some kind but in particular, that it's some kind of animate nominal, and which will apply just as well to like, you know, a per you know, a simple proper noun or to some complicated expression. Um, so I don't know if the syntax will hold but something that gives you a way to do both constructional and meaning types. So. OK, then I don't think the, {comment} um {disfmarker} at least {disfmarker} Yeah. {comment} None of these examples have anything different for formal constraints? But you can refer to any of the, um, sort of available elements and scope, right? which here are the constructs, {comment} to say something about the relation. And I think i if you not if you compare like the top block and the textual block, um, we dropped like the little F subscript. The F subscripts refer to the " form " piece of the construct.
+Professor C: Good.
+Grad F: And I think that, um, in general it 'll be unambiguous. Like if you were giving a formal constraint then you're referring to the formal pole of that. So {disfmarker} so by saying {disfmarker} if I just said " Name one " then that means name one formal and we're talking about formal struc {comment} Which {disfmarker} which makes sense. Uh, there are certain times when we 'll have an exception to that, in which case you could just indicate " here I mean the meaningful for some reason ". Right? Or {disfmarker} Actually it's more often that, only to handle this one special case of, you know, " George and Jerry walk into the room in that order ".
+Grad E: Mm - hmm.
+Grad F: So we have a few funny things where something in the meaning might refer to something in the form. But {disfmarker} but s we're not gonna really worry about that for right now and there are way We can be more specific if we have to later on. OK, and so in terms of the {disfmarker} the relations, you know, as usual they're before and ends. I should have put an example in of something that isn't an interval relation but in form you might also have a value binding. You know, you could say that, um, you know, " name - one dot ", t you know, " number equals ", you know, a plural or something like that.
+Grad E: Mm - hmm.
+Grad F: There are certain things that are attribute - value, similar to the bindings below but I mean they're just {disfmarker} us usually they're going to be value {disfmarker} value fillers, right? OK, and then again semantic constraints here are just {disfmarker} are just bindings. There was talk of changing the name of that. And Johno and I {disfmarker} I {disfmarker} you {disfmarker} you and I can like fight about that if you like? but about changing it to " semantic {pause} n effects ", which I thought was a little bit too order - biased
+Grad B: Well {disfmarker} Th
+Grad F: and " semantic bindings ", which I thought might be too restrictive in case we don't have only bindings. And so it was an issue whether constraints {disfmarker} um, there were some linguists who reacted against " constraints ", saying, " oh, if it's not used for matching, then it shouldn't be called a constraint ". But I think we want to be uncommitted about whether it's used for matching or not. Right? Cuz there are {disfmarker} I think we thought of some situations where it would be useful to use whatever the c bindings are, for actual, you know, sort of like modified constraining purposes.
+Professor C: Well, you definitely want to de - couple the formalism from the parsing strategy. So that whether or not it's used for matching or only for verification, I {disfmarker}
+Grad E: Yeah.
+Grad F: Yeah, yeah. It's used shouldn't matter, right? Mm - hmm.
+Professor C: s For sure. I mean, I don't know what, uh, term we want to use
+Grad F: Mm - hmm.
+Professor C: but we don't want to {disfmarker}
+Grad F: Yeah, uh, there was one time when {disfmarker} when Hans explained why " constraints " was a misleading word for him.
+Professor C: Yep.
+Grad F: And I think the reason that he gave was similar to the reason why Johno thought it was a misleading term, which was just an interesting coincidence. Um, but, uh {disfmarker} And so I was like, " OK, well both of you don't like it?
+Professor C: It's g it's gone.
+Grad F: Fine, we can change it ". But I {disfmarker} I {disfmarker} I'm starting to like it again.
+Grad B: But {disfmarker}
+Grad F: So that that's why {disfmarker} {comment} That's why I 'll stick with it.
+Grad A: Well, you know what?
+Grad F: So {disfmarker}
+Grad A: If you have an " if - then " phrase, do you know what the " then " phrase is called?
+Professor C: Th
+Grad F: What? Con - uh, a consequent?
+Grad A: Yeah.
+Grad F: Yeah, but it's not an " if - then ".
+Grad A: No, but {disfmarker}
+Professor C: I know. Anyway, so the other {disfmarker} the other strategy you guys could consider is when you don't know what word to put, you could put no word,
+Grad F: Mm - hmm.
+Professor C: just meaning. OK? And the then let {disfmarker}
+Grad E: Yeah.
+Grad F: Yeah, that's true.
+Grad B: So that's why you put semantic constraints up top and meaning bindings down {disfmarker} down here?
+Grad F: Oh, oops! No. That was just a mistake of cut and paste from when I was going with it.
+Grad B: OK.
+Professor C: OK.
+Grad F: So, I'm sorry. I didn't mean {disfmarker} that one's an in unintentional.
+Grad B: So this should be semantic and {disfmarker}
+Grad F: Sometimes I'm intentionally inconsistent
+Grad B: 
+Grad F: cuz I'm not sure yet. Here, I actually {disfmarker} it was just a mistake.
+Grad B: Th - so this definitely should be " semantic constraints " down at the bottom?
+Grad E: Sure.
+Grad F: Yeah.
+Grad B: OK.
+Grad F: Well, unless I go with " meaning " but i I mean, I kind of like " meaning " better than " semantic "
+Grad B: Or {disfmarker}
+Professor C: Oh, whatever.
+Grad F: but I think there's {pause} vestiges of other people's biases.
+Professor C: Or {disfmarker} wh That - b
+Grad F: Like {disfmarker}
+Professor C: Right. Minor {disfmarker} min problem {disfmarker}
+Grad F: Minor point.
+Professor C: OK.
+Grad E: Extremely.
+Grad F: OK, um, so I think the middle block doesn't really give you any more information, ex than the top block. And the bottom block similarly only just illus you know, all it does is illustrate that you can drop the subscripts and {disfmarker} and that you can drop the, um {disfmarker} uh, that you can give dual types. Oh, one thing I should mention is about " designates ". I think I'm actually inconsistent across these as well. So, um, strike out the M subscript on the middle block.
+Professor C: Mm - hmm.
+Grad F: So basically now, um, this is actually {disfmarker} this little change actually goes along with a big linguistic change, which is that " designates " isn't only something for the semantics to worry about now.
+Professor C: Good.
+Grad F: So we want s " designates " to actually know one of the constituents which acts like a head in some respects but is sort of, um, really important for say composition later on. So for instance, if some other construction says, you know, " are you of type {disfmarker} is this part of type whatever ", um, the " designates " tells you which sort of part is the meaning part. OK, so if you have like " the big red ball ", you know, you wanna know if there's an object or a noun. Well, ball is going to be the designated sort of element of that kind of phrase.
+Grad E: Mmm.
+Grad F: Um, there is a slight complication here which is that when we talk about form it's useful sometimes to talk about, um {disfmarker} to talk about there also being a designated object and we think that that 'll be the same one, right? So the ball is the head of the phrase, " the r the {disfmarker} ", um, " big red ball ", and the entity denoted by the word " ball " is sort of the semantic head in some ways of {disfmarker} of this sort of, um, in interesting larger element.
+Professor C: A a and the {disfmarker} Yeah. And there's {disfmarker} uh there's ca some cases where the grammar depends on some form property of the head. And {disfmarker} and this enables you to get that, if I understand you right.
+Grad E: Yeah.
+Grad F: Mm - hmm.
+Grad E: Yeah.
+Grad F: Right, right.
+Grad E: That's the idea.
+Professor C: Yeah yeah.
+Grad E: Yeah.
+Grad F: And, uh, you might be able to say things like if the head has to go last in a head - final language, you can refer to the head as a p the, you know {disfmarker} the formal head as opposed to the rest of the form having to be at the end of that decision.
+Professor C: Right.
+Grad F: So that's a useful thing so that you can get some internal structural constraints in.
+Professor C: OK, so that all looks good. Let me {disfmarker} Oh, w Oh. I don't know. Were you finished?
+Grad F: Um, there was a list of things that isn't included but you {disfmarker} you can {disfmarker} you can ask a question. That might @ @ it.
+Professor C: OK. So, i if I understand this the {disfmarker} aside from, uh, construed and all that sort of stuff, the {disfmarker} the differences are mainly that, {vocalsound} we've gone to the possibility of having form - meaning pairs for a type
+Grad F: Mm - hmm.
+Professor C: or actually gone back to,
+Grad F: Right.
+Professor C: if we go back far enough {disfmarker}
+Grad F: Well, except for their construction meaning, so it's not clear that, uh {disfmarker} Well, right now it's a c uh contr construction type and meaning type. So I don't know what a form type is.
+Professor C: Oh, I see. Yeah, yeah, yeah. I'm sorry, you're right.
+Grad F: Yeah.
+Professor C: A construction type. Uh, that's fine. But it, um {disfmarker}
+Grad F: Right. A well, and a previous, um, you know, version of the notation certainly allowed you to single out the meaning part of the form. But it didn't allow you to single out the type.
+Grad E: Mm - hmm.
+Grad F: Yeah.
+Professor C: Because, um, the notation {disfmarker} the notation we use now is a bit different. It's actually a bit more like a construction type {disfmarker} construction type.
+Grad F: Mm - hmm.
+Grad E: Yeah.
+Professor C: Right.
+Grad F: So that's why you need to use the notation {disfmarker} the notation we use now.
+Grad E: Yeah.
+Grad F: Yeah.
+Professor C: OK, so that all looks good.
+Grad F: So basically this is the final block.
+Grad E: Yeah.
+Grad F: And, um, I think it looks pretty good.
+Grad B: Great.
+Grad E: Yeah.
+Grad F: Yeah.
+Grad B: I think we can agree on that. Let's take a look at

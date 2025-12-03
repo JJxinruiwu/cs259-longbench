@@ -1,0 +1,213 @@
+Marketing: {vocalsound} That went well, thank you.
+Project Manager: That's great.
+Industrial Designer: {vocalsound} 'Kay.
+Marketing: Perfect.
+Project Manager: Alright, let me just PowerPoint this up. {vocalsound} {vocalsound} {vocalsound} Right so um this meeting will be about the conceptual design, don't ask me s precisely what conceptual design is, it's just something important that we need to do. Um, think of it {disfmarker}'s kind of uh turning the abstract into slightly more concrete. In this meeting ideally we'll come to some final decisions on what we're gonna do for the prototype. Um. Right so um, apologies for the last meeting, it was brought to my attention that I did not make the roles clear enough, um, so I will attempt to do so more accurately in this particular meeting. Um, fair enough, thanks for the input,'s always good. Um. So, basically all we're gonna do is have some presentations again much like last time, um, and gonna go through you, uh whoever wants to go first is f fine by me um and we'll collate what we know about um what we discussed in the last meeting, possible directions. {vocalsound} And then we'll make some more decisions on um basic uh firm up our idea on how we want this remote control to look and work. So, perfect. So, without th further ado, whoever wants to go first is free to.
+Industrial Designer: I'll go first.
+Project Manager: Alright Nathan,
+Marketing: Go ahead.
+Project Manager: take it away. It is Nathan right? I'm not calling you the wrong name over and over again?
+Industrial Designer: No Nathan's fine.
+Marketing: {vocalsound}
+Project Manager: {vocalsound} Good.
+Industrial Designer: It's either Nathan or participant two.
+Project Manager: {vocalsound}
+Marketing: {vocalsound}
+User Interface: {vocalsound} Mister participant two that is. {vocalsound}
+Industrial Designer: Uh.
+Project Manager: {vocalsound}
+Marketing: Nice.
+Industrial Designer: Okay. Um,
+Project Manager: Nice.
+Industrial Designer: basically what I'm gonna have to talk to you about today is um component design and it's been brought to my attention that we may be somewhat limited as to what we can do because of what our manufacturer offers,
+Project Manager: Mm.
+Industrial Designer: so {disfmarker} Basically what I'm gonna be doing is talking to you about that. Um, components of a remote control, okay. We've already kind of gone over this but we're gonna have to get into more detail and probably have to reach some conclusions some time soon. Energy source, um, our manufacturer offers a variety of energy sources, your standard battery, solar cells. Our manufacturer didn't say anything about lithium so we might have to look {disfmarker} if we do go that route, we might have to look elsewhere. Um, and also there's a kinetic energy possibility. Basically, it's like a um {disfmarker} the idea of moving the remote would create enough energy to keep it running. So that's one possibility but I don't know whether that would be powerful enough to illuminate a touch screen.
+Project Manager: Hmm.
+Industrial Designer: So we'll have to look into that.
+Marketing: Mm.
+Industrial Designer: Um, the case, we have a few options, plastic, rubber or wood. Um and then as far as the way it's shaped, we can do standard boring flat, which we probably don't wanna do, curved or very sexy double curved.
+Project Manager: What kind of th thickness are we looking at?
+Industrial Designer: Um, I imagine that we could specify. Um, I don't see any reason to go outside of the convention of three or four millimetres. Yeah.
+Project Manager: Okay, brilliant.
+Industrial Designer: Um, the buttons, there are multiple scroll buttons available from our manufacturer, but to use those we'd have to use more chips, um and that would cost us more. And if we do go with the rubber doubled curved case um we'll have to use rubber push buttons because the other buttons aren't compatible with that.
+Project Manager: Hmm.
+Industrial Designer: Um and just a little note there,
+Marketing: Right.
+Industrial Designer: touch screen equals many chips which equals many Euro.
+Project Manager: {vocalsound}
+Marketing: {vocalsound} Right. Nice.
+Industrial Designer: Um, one thing that I noticed was that most remotes operate on a infrare on the infrared part of the spectrum. So you notice when you push a button on a remote you can't see anything coming out of it but in fact there is light coming out of the remote and you know the television can detect that. And if you were to record {disfmarker} if you were to make a video recording you could actually see the light. Uh one thing that I thought might be interesting was to use part {disfmarker} use visible light coming out of the remote, just kind of as a fun gimmick.
+Project Manager: Hmm.
+Industrial Designer: So you could actually see something coming out of the remote when you pushed it.
+Marketing: Interesting.
+Industrial Designer: Course it'd have to be a part of the spectrum that wouldn't damage the human eye or anything like that.
+Project Manager: {vocalsound} M Maybe {disfmarker}
+User Interface: {vocalsound}
+Marketing: Mm. Good call.
+Project Manager: is there an option that we can have that off or on so a person can select like {disfmarker}
+Industrial Designer: Yeah.
+Marketing: Choose it.
+Industrial Designer: I am sure that we could do that. Um, of course {disfmarker}
+Project Manager: Yeah I like the idea, it's a good idea.
+Industrial Designer: Yeah, just as a fun gimmick.
+Project Manager: Yeah.
+Industrial Designer: Just to set us apart a little bit. Um, and then on to the circuit board that we're gonna use, also known as the chip. Uh, we really don't have any way around the T_A_ one one eight three five.
+Project Manager: {vocalsound}
+User Interface: {vocalsound}
+Industrial Designer: Um findings, okay, we're very limited by what our current manufacturers can offer, um and my question to all of you is, should we look to other manufacturies or should we just make do with what we have available?
+User Interface: Interesting question.
+Industrial Designer: 'S a bit of a challenge question.
+Project Manager: Mm.
+User Interface: Yes.
+Marketing: Well I'd say shop around but with our time constraints, is that really a feasible option?
+Project Manager: Mm.
+Industrial Designer: Right, that's my concern too. Um, if we do go the lithium battery route then we'll have to go outside our current manufacturer. My personal preference is {disfmarker} I'll just throw my cards on the table, uh I think we should probably go the solar battery route, just to kinda keep with the environmentally friendly theme that we have going on. Uh, I like the idea of the visible light signalling, that's something to set us apart and uh I was thinking about {disfmarker} I was thinking of ways that we could produce the remote in a variety of different case materials to suit different tastes. So we're not so confined by one style and say some {disfmarker} you know, say our {disfmarker} the one {disfmarker}
+Marketing: Right.
+Industrial Designer: if we just go with one and it doesn't go over well then we're in a bad situation.
+Project Manager: Mm.
+Marketing: Right.
+Project Manager: Can we do marketing piloting too? Try to see what kind {disfmarker} before we launch {disfmarker} can we see how they're received?
+Marketing: Um {disfmarker} It's an option, uh but actually there's {disfmarker} I've got some research already on like what we're looking at and trends in casing right now
+Project Manager: Okay. Okay.
+Marketing: which actually might even come into play beforehand,
+Project Manager: Okay, perfect.
+Marketing: it may help us decide for now. Temporarily anyway.
+Project Manager: Great, thank you very much Nathan.
+Industrial Designer: Oh yeah, you're welcome.
+Project Manager: That's perfect, so I guess that makes sense for you to take it from here.
+Marketing: {vocalsound} I guess so, 'cause I found some interesting things. {vocalsound}
+Project Manager: {vocalsound}
+Industrial Designer: {vocalsound}
+User Interface: {vocalsound} Did you? {vocalsound}
+Marketing: You waiting for me? {vocalsound}
+Project Manager: Fascinating, compelling even.
+Marketing: I know, what a teaser ain't it. Um. {vocalsound} Right. So
+User Interface: {vocalsound}
+Marketing: current market trends. Screen. Um, basically I was looking at what's going on in the remote control market right now and what's going on in other design fields, to see sort of what's what's trendy, what's new, what's happening. Um, remote control right now {disfmarker} basically everybody says they want newer, fancier, more exciting {disfmarker} they're sick of this boring, normal, functional, um {disfmarker} that we need innovative design options and there needs to be an easy user interface. Um the challenge is that current trends right now, across the board in fashion, in furniture, in technology, is a very organic fruit and vegetable kind of thing.
+User Interface: {vocalsound}
+Project Manager: {vocalsound}
+User Interface: {vocalsound}
+Project Manager: {vocalsound}
+User Interface: {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: Now I'm not saying we should have, you know, tomato shaped remote controls or anything, but I think it is possible maybe to use um natural colours, like if wood is an option, that whole organic, sleek, clean,
+Industrial Designer: Mm.
+Marketing: v line thing may be something we can look into. Different skin options, or if we can't afford this touch plate thing, or touch face screen interface um, maybe having the b images be specific, like you could choose your menu bullets to be
+Project Manager: {vocalsound} Tomatoes. {vocalsound}
+Marketing: a different shape
+Industrial Designer: {vocalsound}
+User Interface: {vocalsound}
+Marketing: or {vocalsound} okay, not the example I would choose, but you know what I mean to t sort of {disfmarker} and th apparently the feel of the next couple of years is spongy,
+Project Manager: {vocalsound}
+Industrial Designer: Mm. {vocalsound}
+User Interface: {vocalsound} I like it, I like it. {vocalsound}
+Marketing: uh not something I I've come up with a {gap} though if we can get around to getting piloting, I thought maybe a casing option like uh not like a skin, but like a holder almost if you could do like um, leather options or wood options or something {disfmarker}
+Industrial Designer: Hmm. I should have mentioned this um. As far as the rubber that we can use {disfmarker} we can use a rubber as part of the case,
+Marketing: Mm-hmm.
+Industrial Designer: it has a consistency of those stress balls.
+User Interface: Yes.
+Marketing: Mm. {vocalsound}
+Project Manager: Slick, slick.
+User Interface: Fabulous.
+Marketing: Might be an interesting way to go. Um, yeah so something to sit on for now. So overall I think we should stick with what we're finding, everyone's looking for easy to use, technologically innovative and this fancy new {disfmarker} I think perhaps the double curve thing and maybe this rubber option is our best way to go for right now.
+Industrial Designer: Mm.
+Marketing: {vocalsound} Um.
+Project Manager: Interface, oh the interface graphics for the um {disfmarker}
+Marketing: {vocalsound} Yeah. Um. Well I d but then if the touch screen thing isn't gonna work out for us that's really a non-issue.
+Project Manager: Yeah.
+Industrial Designer: I like the idea of of rubber too because it's {disfmarker} tends to be associated with being durable, something that you can drop and it doesn't matter.
+Project Manager: Mm.
+Industrial Designer: 'Cause so many {disfmarker}
+Marketing: True.
+Industrial Designer: you go to so many houses these days and you see broken remote controls.
+Marketing: Very true. Very true.
+Project Manager: Yeah, it's like, yep {vocalsound}
+Industrial Designer: Taped with duck tape and what have you,
+Marketing: Very much so {vocalsound}. Um
+Industrial Designer: you wouldn't have that problem if you used rubber.
+Project Manager: it's ubiquitous isn't it?
+User Interface: We can have a duck tape casing.
+Project Manager: {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: We could.
+User Interface: {vocalsound}
+Marketing: I think that goes against the whole fancy something, a new line,
+Project Manager: {vocalsound}
+User Interface: {vocalsound} It could go with the granola crowd.
+Marketing: but worth a shot.
+Project Manager: {vocalsound}
+Industrial Designer: {vocalsound}
+User Interface: {vocalsound}
+Marketing: Ah, it could be, it could be,
+Project Manager: {vocalsound} Great,
+Marketing: um. Yeah that's what I know.
+Project Manager: thanks for that Sarah.
+Marketing: No problem.
+Project Manager: Ron?
+User Interface: Phew. Computer's adjusting. One moment please. So interme interface concept by your faithful user interface designer.
+Project Manager: {vocalsound}
+Industrial Designer: {vocalsound}
+Marketing: {vocalsound}
+User Interface: So yur user interface, guys, is basically aspects of a computer system that we can see or hear, or otherwise uh perceive. Uh, commands and mechanisms, that basically user uses to control the operator operating system. Here's a d series of different remote controls
+Industrial Designer: {vocalsound}
+User Interface: that are out on the market today. I think we're definitely trying to get away from this kind of a look.
+Project Manager: Yeah
+User Interface: Um, so the following are a bunch of different uh interface uh concepts. Uh voice recognition, we we um actually have some new uh information from our research design team but uh I'll get to that in a moment. Um, so current voice recognition starts up to about eighty speech samples, um and basically you record your own verbal labels c and connect them to the remote control. Now our design team, research team, has been able to uh set up a system in which uh you can teach the remote control voice c recognition system to respond to um {disfmarker} with standard responses. Like you could say good morning uh remote control and it'll say in a sexy female voice, Good morning Joe. Um.
+Project Manager: {vocalsound}
+Marketing: {vocalsound}
+Project Manager: {vocalsound}
+Industrial Designer: {vocalsound}
+User Interface: {vocalsound} In fact we already have this for a coffee maker line
+Marketing: {vocalsound} Mm.
+Project Manager: {vocalsound} Lot of single people on the um on the re on the remote control research team
+User Interface: {vocalsound} On the remote control
+Industrial Designer: {vocalsound} {vocalsound}
+Project Manager: at the {gap} {vocalsound}
+User Interface: right.
+Marketing: Yeah. Very true, very true.
+User Interface: Um, another concept is what uh Apple has come up with, the spinning wheel with uh L_C_ display like on the uh iPod
+Project Manager: Mm.
+User Interface: which I am sure most of you know about.
+Marketing: Mm.
+User Interface: Um and then we have the scroll button with integrated push-button, kind of like a modern {gap} a bit bulky, a bit crazy,
+Project Manager: Mm.
+Industrial Designer: Mm.
+User Interface: I don't think that's we're necessarily going for.
+Industrial Designer: No.
+User Interface: And uh some special components, uh ideas like uh blocking, having the ability to block channels from your {disfmarker} for your children um and uh dedicated buttons for for commonly used uh channels and even uh ideas like secured or hidden programming but uh I {disfmarker} again if we go with touch screen I don't think that's a big issue. Um and uh this is kind of the uh the big daddy of remote controls here.
+Project Manager: {vocalsound}
+Marketing: Hmm.
+Industrial Designer: {vocalsound}
+Marketing: {vocalsound}
+User Interface: Uh the jumbo universal remote control is almost impossible to misplace or lose.
+Project Manager: {vocalsound} {vocalsound} Yeah, I can see. {vocalsound}
+User Interface: Um, again probably not what we're going for
+Marketing: {vocalsound}
+User Interface: so I {disfmarker} I mean my ideas here and kind of where I think we're heading is something slightly larger than a regular iPod uh with a hard cla c uh plastic casing
+Marketing: Okay.
+User Interface: although I think some of the suggestions we've come up with are definitely uh very good ideas. Uh changeable casings uh {disfmarker} our design team was possibly talking about including one extra face plate with the package to kind of set the idea that you can change it and you can try changing it
+Marketing: Mm, right.
+User Interface: and kind of get used to thinking about maybe buying another one which can add value to our uh bottom line. Uh touch screen interface, um possibly having go-to buttons being uh stuck into the system so those don't move away from the screen, uh, the important ones like power, volume and jump between channels. Um, and of course our voice command system which I've talked a little bit about already
+Project Manager: Mm.
+User Interface: and uh the use of recognisable colours and shapes to aid recognition of the features um that are around so red for power, um arrows for different volume ups and downs and channels ups and downs and what not.
+Marketing: Mm.
+User Interface: And uh perhaps even adding in some stupid little jokes with the voice recognition idea like perh mm for instance my toastie maker that I got from my bank
+Marketing: {vocalsound}
+User Interface: has jokes when it's ready.
+Industrial Designer: {vocalsound}
+Marketing: {vocalsound} Nice.
+Project Manager: Great.
+User Interface: And uh that is about it.
+Project Manager: Great, thanks Nathan.
+Industrial Designer: Thanks Nathan.
+Marketing: Thanks Nathan.
+Project Manager: Thanks Nathan.
+Industrial Designer: Thanks Nathan.
+User Interface: {vocalsound} Thanks Nathan. {vocalsound}
+Project Manager: {vocalsound}
+User Interface: {vocalsound}
+Marketing: {vocalsound}
+Industrial Designer: {vocalsound}
+User Interface: {vocalsound}
+Project Manager: {vocalsound}
+User Interface: {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocals

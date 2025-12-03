@@ -1,0 +1,156 @@
+Project Manager: All hooked up. {vocalsound} Okay, so now we are here at the functional design meeting. Um {vocalsound} hopefully this meeting I'll be doing a little bit less talking than I did last time 'cause this is when you get to show us what you've been doing individually. The agenda for the meeting, I put it in the sh shared documents folder. I don't know if that meant that you could see it or not.
+User Interface: {vocalsound}
+Project Manager: Did anyone?
+Industrial Designer: Mm.
+User Interface: No.
+Project Manager: No. Oh well. Um I'll try and do that for the next meeting as well so if you check in there, there's a shared project documents folder. Um and it should be in there.
+User Interface: Mm. Um um wi on on a what? Oh project project documents, yeah, yeah, yeah, okay.
+Project Manager: Project documents, yeah. So I'll put it in there.
+User Interface: Oh okay, yeah.
+Project Manager: Is it best if I send you an email maybe, to let you know it's there?
+User Interface: Yes, I think so.
+Project Manager: Yep. I'll do that next time. Um {vocalsound} I'll act as secretary for this meeting and just take minutes as we go through, and then I'll send them to you after the meeting. The main the main focus of this meeting is your presentations that you've been preparing during the time, so we'll go through each of you one by one. Um then we need to briefly discuss the new project requirements that were sent to us. I just sent
+User Interface: Yeah, the last minute, yeah,
+Project Manager: at the last minute, I'm sorry about that,
+User Interface: yeah.
+Project Manager: but we can see how that affects what you were you were doing.
+User Interface: Yeah.
+Project Manager: Um and then we need to, by the end of the meeting come to some kind of decision on who our target group's going to be and what the functions of the remote control {disfmarker} that's the the main goal is to come up with those two things, target group and functions of the remote control. And we've got forty minutes to do that in. So I would say {disfmarker}
+Industrial Designer: You said uh targ target groups,
+Project Manager: yeah?
+Industrial Designer: what does that mean?
+Project Manager: As uh who it is that we're going to be trying to sell this thing to,
+User Interface: {vocalsound} Um {disfmarker}
+Industrial Designer: Uh okay, 'kay.
+Project Manager: yeah.
+Industrial Designer: So are {disfmarker}
+Project Manager: So we need to {disfmarker} yeah, we need to have a fairly defined group that that we want to focus on
+Industrial Designer: Okay.
+Project Manager: and then look at the functions um of the dem remote control itself. So with that I think it's best if I hand over to you. Does anyone have a preference for going first?
+Industrial Designer: Alright. {vocalsound} I can go first,
+Project Manager: You wanna go first?
+Industrial Designer: yeah.
+User Interface: Okay. Hmm.
+Project Manager: Okay, so we need to unplug my laptop and plug in yours.
+Industrial Designer: {vocalsound}
+Project Manager: I assume we just pull it out?
+User Interface: Mm.
+Industrial Designer: {vocalsound} {vocalsound} Right. Um {vocalsound} so f from the {disfmarker}
+Project Manager: Just before you start, to make it easier, would you three mind emailing me your presentations? Once we {disfmarker} you don't have to do it now but when {disfmarker} once you go back,
+User Interface: Okay, yeah, afterwards, yeah, okay.
+Industrial Designer: Right sure.
+Project Manager: just so that I don't have to scribble everything down.
+Industrial Designer: Uh okay. {vocalsound} {vocalsound} So n uh with uh with regard to the {vocalsound} uh working design of this uh uh remote control uh I've identified um {vocalsound} a few basic uh components of the remote and uh {vocalsound} se uh from the design, functional design perspective um w I c we can now uh know wha what exactly the components are and how how they work together with each other. {vocalsound} {vocalsound} So {vocalsound} {vocalsound} this is the method that uh I'll mostly be following in my um {vocalsound} in my uh role. Um the identification of the components, uh and uh since since I'm dealing only with the technical aspects, I would need feedback from the marketing person uh and {vocalsound} uh from the user interface person. Uh we'll then integrate this into the product design at a technical level
+Project Manager: Hmm.
+Industrial Designer: and uh basically update and come up with a new design, so it's a cyclical process. {vocalsound} Okay, so {vocalsound} these were the basic findings from today. The last three bullets have been integrated from uh the last minute uh email. Uh I just quickly jotted them down. Um {vocalsound} so basically uh the {disfmarker} as I told you the identification of how the remote control works and what are the various parts to it uh and what are the different processes um {vocalsound} and how the parts uh communicate with each other. Um {vocalsound} okay, so e the mee email said that teletext is now outdated, so we need to do away with that functionality of the remote control. Um also uh the remote control should be used only for television, because incorporating other features um makes it more comp complex. And the reason why teletext is outdated because uh of internet and uh the availability of internet over television. How however, our our remote control would only be dealing uh with the {vocalsound} the use for television, {vocalsound} in order to keep things simple. Um {vocalsound} also the management wants that um our design should be unique uh it {disfmarker} so {vocalsound} it should incorporate um colour and the slogan uh that our company um has it as its standard. {vocalsound} Okay, so he he here is a functional overview of the remote control. Um {vocalsound} there's basically an energy source at the heart uh which feeds into the chip and the user interface. The user interf interface communicates with the chip, so {vocalsound} I'll basic go over to the {disfmarker} Okay. {vocalsound} So {vocalsound} if uh if this is our energy source and this is a cell, uh it communicates {disfmarker} uh it feeds energy into the into the chip, which basically finds out h uh how how to do everything. There is a user interface here. {vocalsound} So whe when the user presses a button, it feeds into the chip and the chip then generates a response and takes the response to an infrared terminal, um which then {disfmarker} so the output of the chip is an infrared bit code, which is then communicated {vocalsound} to the remote site, which h has an infrared receiver. Um the there can be uh a bulb here or something to indicate whether the remote is on or communicating. Um so these are the essent so a all the functionality of the remote control, whatever new functions that we need to do, um make the chip more complicated uh and bigger, basically.
+Project Manager: Mm-hmm.
+Industrial Designer: {vocalsound} Okay. {vocalsound} Um so {vocalsound} i in my personal preferences um {vocalsound} I'm hoping that we can ke keep the design as simple and clear as possible. This would uh help us uh to upgrade our technology at a future point of time. And uh also if we can incorporate uh the latest features in our chip design, so that our um {vocalsound} uh remote control does not become outdated soon and it's compatible with mot most uh televisions. {vocalsound} That's about it. {vocalsound} So anything that you would like to know or {vocalsound} {disfmarker}
+Project Manager: Okay.
+User Interface: {vocalsound} Thanks.
+Project Manager: Do you have any um i idea about costs at this point?
+Industrial Designer: {vocalsound} No, I don't have any idea about what each component costs.
+Project Manager: {vocalsound} Br
+Industrial Designer: Um yeah.
+Project Manager: Okay. 'Cause that's something to consider, I guess, if we're if we're using more advanced technology, it might increase the price.
+Industrial Designer: Yeah. Certainly, yeah. So so tha yeah, {vocalsound} we definitely need to operate within our constraints,
+Project Manager: Yeah.
+Industrial Designer: but um {vocalsound} unfortunately I I do not have any data, so uh I just identified the functional components for that.
+Project Manager: That's fine. Are there any more questions, or shall we just skip straight to the next one and then we can discuss all of them together at the end?
+User Interface: {vocalsound} I think we need like some general discussion at the end probably.
+Industrial Designer: Yeah, okay.
+Project Manager: Yeah, I think that will do. Okay, so do you want to {disfmarker}
+User Interface: Yeah. Yeah, I think since since we were discussing some um design issues then I I I would like to continue {disfmarker}
+Project Manager: Yes, shall shall we pull this up?
+User Interface: okay, yeah.
+Project Manager: I think that has to come out of there.
+Industrial Designer: Yeah.
+Project Manager: Yeah.
+Industrial Designer: Mm 'kay.
+User Interface: {vocalsound} Thanks.
+Project Manager: Yeah, I thought those last minute things, they're gonna hit you the worst. {vocalsound}
+User Interface: Oh i {vocalsound} Okay, I hope {disfmarker} wait. Should it just {disfmarker}
+Industrial Designer: I it'll take some time.
+Project Manager: It ta takes a little {disfmarker} Oh, and have you {disfmarker}
+User Interface: There's just nothing.
+Project Manager: you need to then also press on yours, function F_ eight,
+User Interface: Oh right, right, right, um {disfmarker}
+Project Manager: so the blue function key at the bottom and F_ eight.
+User Interface: Okay. Nothin
+Industrial Designer: Oh, there it is, yeah.
+User Interface: okay, something is coming up.
+Project Manager: {vocalsound} Now it's coming,
+Industrial Designer: {vocalsound} It'll come up, it {disfmarker} um uh no signal.
+Project Manager: computer no signal.
+User Interface: No signal? Why?
+Project Manager: Maybe again?
+Industrial Designer: Yeah yeah, it says something now,
+User Interface: Oh. My my computer went blank now.
+Industrial Designer: adjusting {disfmarker}
+Project Manager: Okay, adjusting.
+User Interface: Adjusting. But {vocalsound} I don't see anything
+Industrial Designer: Okay.
+Project Manager: There we go, there we go.
+User Interface: I don't see anything on my computer now.
+Industrial Designer: Oh, that's strange.
+Project Manager: Oh, if you press if you press function and that again
+User Interface: This is the problem, but {disfmarker}
+Project Manager: there's there's usually three modes, one where it's only here, one where it's only there, and one where it's both.
+Industrial Designer: Okay.
+User Interface: Um {gap}.
+Industrial Designer: And one more time.
+Project Manager: Okay, so one more time.
+User Interface: Uh now it's {disfmarker} okay. No? No.
+Industrial Designer: Mm.
+Project Manager: Should {disfmarker} yeah just wait for a moment, adjusting.
+User Interface: Oh okay.
+Project Manager: {vocalsound} Okay.
+User Interface: Okay, that's fine, that's good. Okay, let's start from the beginning. So I'm going to speak about technical functions design uh just like some {vocalsound} some first issues that came up. Um 'kay, so the method I was um adopting at this point, it's not um for the for the whole um period of the um {vocalsound} all the project but it's just at th at this very moment.
+Project Manager: Mm-hmm.
+User Interface: Um uh my method was um to look at um other {vocalsound} um remote controls, uh so mostly just by searching on the web and to see what um functionality they used. And then um after having got this inspiration and having compared what I found on the web um just to think about what the de what the user really needs and what um what the user might desire as additional uh functionalities. {vocalsound} And yeah, and then just to um {vocalsound} put the main function of the remote control in in words.
+Project Manager: Mm-hmm.
+User Interface: Um so the findings uh were {vocalsound} um that the main function of the remote control is is just sending messages to the television set, so this quite straightforward. And uh w some of the main functions would be switching on, switching off, uh then the user would like to switch the channel um for example just m changing to the next channel to to flip through all all of the possible channels, or then mm {vocalsound} uh the other possibility would be that um she might just want to choose one particular channel, so we would need the numbers. And and also the volume is very important. Um {vocalsound} um {vocalsound} I als
+Industrial Designer: {vocalsound} Sorry, cou could you go back for a second?
+User Interface: okay.
+Industrial Designer: Uh switching on off channel, uh volume, {vocalsound} okay, that's great.
+User Interface: 'Kay. Um um among the findings I found that m m most of the curr mm presently available remote controls also include other mm {vocalsound} functionalities um in their design, like operating a V_C_R_, but they don't seem to be able to deal with D_V_D_ players, but then {vocalsound} there are {disfmarker} surely there are many other functionali functions that could possibly be added to them, but according to the last minute update um actually um we do not want to have all this complicated functions added to our design.
+Project Manager: Mm-hmm.
+Industrial Designer: {vocalsound}
+User Interface: So my personal preferences would be uh to keep the mm the whole remote control small um just like the physical size. And then it must be easy to use, so it must follow some conventions um like whereabouts you find the on off button and maybe the colour tends to be red or something. Um then {disfmarker} {vocalsound} yeah, the must-have buttons would be on off and then {vocalsound} the channel numbers and then um {vocalsound} the one that allows us to go to the next or the previous channel, and then volume has to be there. But then um other functionalities um {vocalsound} could be just {disfmarker} uh there could be a menu button and you could change things on the screen then, um for example brightness and mm similar functions could be just um {vocalsound} done through the menu. And yeah, the last question I had about whether we wanted to incorporate n uh more functionalities, the answer was already no because of the last minute update.
+Project Manager: Mm-hmm.
+User Interface: So at the {disfmarker} for the time being that's uh that's all.
+Project Manager: Yeah.
+User Interface: If you have questions {disfmarker}
+Project Manager: If {disfmarker} I mean that was the the directive that came through from management, but if we had a a decent case for {disfmarker} that we really think it's important to include video and D_V_D_, I could get back to them and see. It's w it's just whether it's worth arguing about.
+User Interface: Yeah, and also it's it's um {disfmarker} other question is uh because there are so many different {disfmarker} And there are so many different things that could possibly be included
+Marketing: {vocalsound}
+Project Manager: Mm-hmm.
+User Interface: because besides video and D_V_D_ there are the mm um video C_D_s and whatever, so it might be problematic to to choose between all these possible things.
+Project Manager: Yeah. Mm-hmm. Okay.
+Industrial Designer: {gap}
+Project Manager: Are there any questions for clarification of Maarika before we go on to the next one?
+Industrial Designer: {vocalsound} So in the u user interface requirements uh uh uh we we have been able to identify what are the basic buttons that we do want. Um but um {vocalsound} so so at this stage, uh how we go about implementing those button we will not identify or {disfmarker} I mean in {disfmarker} we can completely do away with buttons and uh have some kind of a fancy user interface or something like that. But uh is is there any uh uh any thoughts on that?
+User Interface: Um well, I think the buttons are still mm kind of the most um easy for the user to use,
+Industrial Designer: Right.
+User Interface: I mean um what other options would you have? A little screen or something, but this would be really kind of I think a lot of learning for the user
+Industrial Designer: Yeah, and it'll make the costs {disfmarker} yeah.
+User Interface: and and I mean the user just wants to get um get a result um quickly, not to spend time in like um giving several orders um I dunno.
+Industrial Designer: Right.
+Project Manager: Mm-hmm.
+User Interface: I think I th I would I would think the put the buttons, but if if you have other mm proposals um.
+Industrial Designer: Uh I think the co costs will also play a big role when we come to know about them.
+Project Manager: Mm.
+Industrial Designer: So well we can probably wait until t we have more knowledge on that.
+Project Manager: Mm.
+User Interface: Yeah.
+Industrial Designer: Uh i if the if the costs allow, we can have like an L_C_D_ display
+User Interface: Yeah.
+Industrial Designer: and uh with um {disfmarker} because we do want something fancy and fashionable as well. So yeah? Cool.
+Project Manager: Mm-hmm.
+User Interface: Mm-hmm. Yep.
+Project Manager: Sure, we can discuss that further on the next meeting.
+User Interface: Yeah.
+Project Manager: Thanks, um that's all for today. {vocalsound} I hope we can all get some rest. {vocalsound} The meeting is now closed.
+User Interface: Okay, yeah. {vocalsound} Thanks.
+Project Manager: {vocalsound} You're welcome. {vocalsound} Thanks.
+User Interface: Thanks. {vocalsound} Thanks, thanks.
+Project Manager: Thanks, {vocalsound} thanks. {vocalsound} Yeah, thanks, {vocalsound} thanks. {vocalsound} Thanks, {vocalsound} thanks. {vocalsound} Thanks, {vocalsound} thanks. {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound

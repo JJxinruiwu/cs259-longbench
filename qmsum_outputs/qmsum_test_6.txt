@@ -1,0 +1,117 @@
+Grad E: I guess.
+Grad A: OK, we're on. So just make sure that th your wireless mike is on, if you're wearing a wireless.
+Grad E: Check one. Check one.
+Grad A: And you should be able to see which one {disfmarker} which one you're on by, uh, watching the little bars change.
+Grad B: So, which is my bar? Mah! Number one.
+Grad A: Yep.
+Grad E: Sibilance. Sibilance.
+Grad A: So, actually, if you guys wanna go ahead and read digits now, as long as you've signed the consent form, that's alright.
+Grad E: Are we supposed to read digits at the same time?
+Grad A: No. No.
+Grad E: Oh, OK.
+Grad A: Each individually. We're talking about doing all at the same time but I think cognitively that would be really difficult. {vocalsound} To try to read them while everyone else is.
+Grad E: Everyone would need extreme focus.
+Grad A: So, when you're reading the digit strings, the first thing to do is just say which transcript you're on.
+Professor C: Other way. We m We may wind up with ver We {disfmarker} we may need versions of all this garbage.
+Grad B: For our stuff. Yeah.
+Professor C: Yeah.
+Grad A: Um. So the first thing you 'd wanna do is just say which transcript you're on.
+Professor C: Yeah.
+Grad A: So. You can see the transcript? There's two large number strings on the digits? So you would just read that one. And then you read each line with a small pause between the lines. And the pause is just so the person transcribing it can tell where one line ends and the other begins. And I 'll give {disfmarker} I 'll read the digit strings first, so can see how that goes. Um. Again, I'm not sure how much I should talk about {pause} stuff before everyone's here.
+Professor C: Mmm. Well, we have one more coming.
+Grad A: OK. Well, why don't I go ahead and read digit strings and then we can go on from there.
+Professor C: OK. Well, we can start doing it.
+Grad A: Thanks. So, uh, just also a note on wearing the microphones. All of you look like you're doing it reasonably correctly, but you want it about two thumb widths away from your mouth, and then, at the corner. And that's so that you minimize breath sounds, so that when you're breathing, you don't breathe into the mike. Um. Yeah, that's good. And uh {disfmarker} So, everyone needs to fill out, only once, the speaker form and the consent form. And the short form {disfmarker} I mean, you should read the consent form, but uh, the thing to notice is that we will give you an opportunity to edit a all the transcripts. So, if you say things and you don't want them to be released to the general public, which, these will be available at some point to anyone who wants them, uh, you 'll be given an opportunity by email, uh, to bleep out any portions you don't like. Um. On the speaker form just fill out as much of the information as you can. If you're not exactly sure about the region, we're not exactly sure either. So, don't worry too much about it. The {disfmarker} It's just self rating. Um. And I think that's about it. I mean, should I {disfmarker} Do you want me to talk at all about why we're doing this and what this project is?
+Professor C: Um, yeah.
+Grad A: or {disfmarker}?
+Professor C: No. There was {disfmarker} there was {disfmarker} Let's see. Oh {disfmarker}
+Grad E: Does Nancy know that we're meeting in here?
+Grad B: I sent an email.
+Professor C: She got an emai she was notified.
+Grad E: Oh yeah, she got an e Yeah, yeah.
+Professor C: Whether she knows {vocalsound} is another question. Um. So are the people going to be identified by name?
+Grad A: Well, what we're gonna {disfmarker} we 'll anonymize it in the transcript. Um, but not in the audio.
+Professor C: Right.
+Grad A: So the
+Professor C: OK. So, then in terms of people worrying about, uh, excising things from the transcript, it's unlikely. Since it {disfmarker} it does isn't attributed. Oh, I see, but the a but the {disfmarker} but the {disfmarker}
+Grad A: Right, so if I said, " Oh, hi Jerry, how are you? ", we're not gonna go through and cancel out the " Jerry "s.
+Professor C: Yeah. Sure.
+Grad A: Um, so we will go through and, in the speaker ID tags there 'll be, you know, M - one O seven, M - one O eight.
+Professor C: Right.
+Grad A: Um, but uh,
+Professor C: Right.
+Grad A: um, it w uh, I don't know a good way of doing it on the audio, and still have people who are doing discourse research be able to use the data.
+Professor C: OK. Mm - hmm. No, I {disfmarker} I wasn't complaining,
+Grad A: Yep.
+Professor C: I just wanted to understand.
+Grad A: Right.
+Professor C: OK.
+Grad B: Well, we can make up aliases for each of us.
+Grad A: Yeah, I mean, whatever you wanna do is fine,
+Professor C: Right.
+Grad F: OK.
+Grad A: but we find that {disfmarker} We want the meeting to be as natural as possible. So, we're trying to do real meetings.
+Professor C: OK.
+Grad A: And so we don't wanna have to do aliases
+Professor C: Right.
+Grad A: and we don't want people to be editing what they say.
+Grad B: Right.
+Grad A: So I think that it's better just as a pro post - process to edit out every time you bash Microsoft.
+Professor C: Right.
+Grad B: Mm - hmm.
+Grad A: You know?
+Professor C: Right. Um, OK. So why don't you tell us briefly
+Grad A: OK. So th
+Professor C: your {disfmarker} give {disfmarker} give your e normal schpiel.
+Grad A: Um. So this is {disfmarker} The project is called Meeting Recorder and there are lots of different aspects of the project. Um. So my particular interest is in the PDA of the future. This is a mock - up of one. Yes, we do believe the PDA of the future will be made of wood. Um. {comment} The idea is that you 'd be able to put a PDA at the table at an impromptu meeting, and record it, and then be able to do querying and retrieval later on, on the meeting. So that's my particular interest, is a portable device to do m uh, information retrieval on meetings. Other people are interested in other aspects of meetings. Um. So the first step on that, in any of these, is to collect some data. And so what we wanted is a room that's instrumented with both the table top microphones, and these are very high quality pressure zone mikes, as well as the close talking mikes. What the close talk ng talking mikes gives us is some ground truth, gives us, um, high quality audio, um, especially for people who aren't interested in the acoustic parts of this corpus. So, for people who are more interested in language, we didn't want to penalize them by having only the far field mikes available. And then also, um, it's a very, very hard task in terms of speech recognition. Um. And so, uh, on the far field mikes we can expect very low recognition results. So we wanted the near field mikes to at least isolate the difference between the two. So that's why we're recording in parallel with the close talking and the far field at the same time. And then, all these channels are recorded simultaneously and framed synchronously so that you can also do things like, um, beam - forming on all the microphones and do research like that. Our intention is to release this data to the public, um, probably through f through a body like the LDC. And, uh, just make it as a generally available corpus. Um. {vocalsound} There's other work going on in meeting recording. So, we're {disfmarker} we're working with SRI, with UW, Um. NIST has started an effort which will include video. We're not including video, obviously. And uh {disfmarker} and then also, um, a small amount of assistance from IBM. Is also involved. Um. Oh, and the digit strings, this is just a more constrained task. Um. So because the general environment is so challenging, we decided to {disfmarker} to do at least one set of digit strings to give ourselves something easier. And it's exactly the same digit strings as in TI - digits, which is a common connected digits corpus. So we 'll have some, um, comparison to be able to be made.
+Professor C: OK.
+Grad A: Anything else?
+Professor C: No.
+Grad A: OK, so when the l last person comes in, just have them wear a wireless. It should be on already. Um. Either one of those. And uh, read the digit strings and {disfmarker} and fill out the forms. So, the most important form is the consent form, so just be s be sure everyone signs that, if they consent.
+Grad B: I'm sure it's pretty usual for meetings that people come late,
+Grad A: Yeah.
+Grad B: so you will have to leave what you set.
+Grad A: Right. And uh, just give me a call, which, my number's up there when your meeting is over.
+Professor C: Yep.
+Grad A: And {disfmarker} I'm going to leave the mike here but it's n {nonvocalsound} Uh, but I'm not gonna be on so don't have them use this one. It 'll just be sitting here.
+Grad B: Input? Yeah. There we go.
+Professor C: By the way, Adam, we will be using the, uh, screen as well.
+Grad B: Yep.
+Professor C: So, you know. Wow! Organization. So you guys who got email about this {pause} oh f uh, Friday or something about what we're up to.
+Grad E: No.
+Grad F: No.
+Grad B: I got it.
+Grad E: What was the nature of the email?
+Professor C: Oh, this was about {pause} um, inferring intentions from features in context, and the words, like " s go to see ", or " visit ", or some
+Grad B: Wel - we I {disfmarker} uh {disfmarker} I {disfmarker} I {disfmarker}
+Professor C: You didn't get it?
+Grad E: I don't think I did.
+Professor C: I guess these g have got better filters. Cuz I sent it to everybody. You just blew it off.
+Grad E: Ah.
+Professor C: OK.
+Grad B: It's really simple though. So this is the idea. Um. We could pursue, um, if we thought it's {disfmarker} it's worth it but, uh, I think we {disfmarker} we will agree on that, um, to come up with a {disfmarker} with a sort of very, very first crude prototype, and do some implementation work, and do some {disfmarker} some research, and some modeling. So the idea is if you want to go somewhere, um, and focus on that object down {disfmarker} Oh, I can actually walk with this. This is nice. down here. That's the Powder - Tower. Now, um, {vocalsound} we found in our, uh, data and from experiments, that there's three things you can do. Um, you can walk this way, and come really, really close to it. And touch it. But you cannot enter or do anything else. Unless you're interested in rock climbing, it won't do you no good standing there. It's just a dark alley. But you can touch it. If you want to actually go up or into the tower, you have to go this way, and then through some buildings and up some stairs and so forth. If you actually want to see the tower, and that's what actually most people want to do, is just have a good look of it, take a picture for the family, {comment} you have to go this way, and go up here. And there you have a vre really view {disfmarker} It exploded, the {disfmarker} during the Thirty years - war. Really uh, interesting sight. And um, these uh {disfmarker} these lines are, um, paths,
+Grad E: Mmm.
+Grad B: or so That's ab er, i the street network of our geographic information system. And you can tell that we deliberately cut out this part. Because otherwise we couldn't get our GIS system to take {disfmarker} to lead people this way. It would always use the closest point to the object, and then the tourists would be faced, you know, in front of a wall, but it would do them absolutely no good. So, {vocalsound} what we found interesting is, first of all, intentions differ. Maybe you want to enter a building. Maybe you want to see it, take a picture of it. Or maybe you actually want to come as close as possible to the building. For whatever reason that may be.
+Grad E: What's it {disfmarker} what's it made out of?
+Grad B: Um, r red limestone.
+Grad E: So maybe you would wanna touch it.
+Grad B: Yeah, maybe you would want to touch it. Um. Okay, I {disfmarker} This, um {disfmarker} These intentions, we {disfmarker} w w we could, if we want to, call it the {disfmarker} the Vista mode, where we just want to {disfmarker} eh {disfmarker} s get the overview or look at it, the Enter mode, and the, well, Tango mode. I always come up with {disfmarker} with silly names. So this " Tango " means, literally translated, " to touch ". So {disfmarker} But sometimes the {disfmarker} the Tango mode is really relevant in the {disfmarker} in the sense that, um, if you want to, uh {disfmarker} If you don't have the intention of entering your building, but you know that something is really close to it, and you just want to approach it, or get to that building. Consider, for example, the Post Office in Chicago, a building so large that it has its own zip code. So the entrance could be miles away from the closest point. So sometimes it m m m makes sense maybe to d to distinguish there. So, um, I've looked, uh, through twenty some {disfmarker} Uh, I didn't look through all the data. um, and there {disfmarker} there's uh, a lot more different ways in people {disfmarker} uh, the ways people phrase how to g get {disfmarker} if they want to get to a certain place. And sometimes here it's b it's a little bit more obvious {disfmarker} Um. {vocalsound} Maybe I should go back a couple of steps and go through the {disfmarker}
+Professor C: No, OK come in, sit down. If you grab yourself a microphone.
+Grad B: You need to sign some stuff and read some digits.
+Professor C: Well, you can sign afterwards.
+Grad B: O or later.
+Grad E: You have to al also have to read some digits.
+Professor C: Afterwards.
+Grad D: OK. {comment} OK. Afterwards is fine.
+Grad B: They are uncomfortable. Mm - hmm.
+Grad D: Really small? OK. I see. OK.
+Grad B: Yep.
+Grad D: Thank you.
+Grad B: OK, but that was our idea.
+Professor C: And it {disfmarker} it {disfmarker} it {disfmarker} it it also has to be switched on, Nance.
+Grad B: Is {disfmarker} I {disfmarker} I think {disfmarker}
+Grad E: No, that one's already on, I thought he said.
+Professor C: It's on? OK, good.
+Grad D: OK. It's on.
+Grad E: Yeah.
+Grad B: OK. That was the idea. Um, people, when they w when they want to go to a building, sometimes they just want to look at it. Sometimes they want to enter it. And sometimes they want to get really close to it. That's something we found. It's just a truism. And the places where you will lead them for these intentions are sometimes ex in incredibly different. I {disfmarker} I gave an example where the point where you end up if you want to look at it is completely different from where {disfmarker} if you want to enter it. So, this is sort of how people may, uh {disfmarker} may phrase those requests to a {disfmarker} a {disfmarker} a mock - up system at least that's the way they did it. And we get tons of {disfmarker} of these " how do I get to ", " I want to go to ", but also, " give me directions to ", and " I would like to see ". And um, what we can sort of do, if we look closer a closer at the {disfmarker} the data {disfmarker} That was the wrong one. um, we can look at some factors that may make a difference. First of all, very important, and um, that {disfmarker} I've completely forgot that when we talked. This is of course a crucial factor, " what type of object is it? " So, some buildings you just don't want to take pictures of. Or very rarely. But you usually want to enter them. Some objects are more picturesque, and you {disfmarker} more f more highly photographed. Then of course the {disfmarker} the actual phrases may give us some idea of how people want to approach it. {disfmarker} But the most important factor is that there is a physical barrier. Um, so if you're trying to get to a building, you want to avoid any physical barriers, and then {disfmarker} it gets really interesting. So, um, the {disfmarker} the more you know about the object, the better off you are. {disfmarker} You get a better idea of how to approach it. {disfmarker} And then there's {disfmarker} the {disfmarker} the {disfmarker} the {disfmarker} the {disfmarker} the {disfmarker} the {disfmarker} the {disfmarker} the {disfmarker} the {disfmarker} the {disfmarker} the {disfmarker} the {disfmarker} the {disfmarker} the {disfmarker} the {

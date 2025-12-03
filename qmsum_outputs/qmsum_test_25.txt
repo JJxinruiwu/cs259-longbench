@@ -1,0 +1,236 @@
+Project Manager: Mm.
+Marketing: So,
+Project Manager: So, uh now {vocalsound}
+Marketing: Hi Christa. {vocalsound}
+Project Manager: it's the {disfmarker} {vocalsound} Hi Sammy. {vocalsound} It's the detail design meeting, so we're going {disfmarker} last meeting. So um, first uh Mark and Rama are going to present uh the prototype. Uh then uh Sammy will propose some uh crite cr criteria to evaluate this prototype. Then, w we {disfmarker} {vocalsound}
+User Interface: {vocalsound} {vocalsound} Yes. {vocalsound}
+Marketing: {vocalsound} Yes. {vocalsound}
+Project Manager: {vocalsound} And then we going to do some finance to see if uh it is uh feasible
+User Interface: And chocolate? {vocalsound}
+Project Manager: {vocalsound} and uh at the end we will we will um evaluate ourself as a team. {vocalsound} And that's all. Okay. So first, {vocalsound} let's uh see the prototype.
+Marketing: Mm.
+Industrial Designer: Yeah.
+Project Manager: {vocalsound}
+Industrial Designer: Uh, here we have our prototype model.
+Project Manager: Okay. And you have some slides then?
+User Interface: Mm-hmm.
+Industrial Designer: Yeah. Yeah, we have also some slides.
+Project Manager: {gap} Yeah. Mm.
+User Interface: Yes, and place some slides.
+Project Manager: Okay. Uh so in which uh {disfmarker}
+User Interface: Uh, participant three. {vocalsound} Prototype.
+Industrial Designer: In {disfmarker} Yeah.
+Project Manager: Mm okay. Mm.
+Industrial Designer: Five.
+Project Manager: {vocalsound}
+User Interface: {vocalsound} Uh, so this is our remote control.
+Industrial Designer: Him.
+Project Manager: {vocalsound}
+User Interface: It's a r working prototype. You can use it now by switching all these buttons. So first, I present as we came to this perfect model,
+Project Manager: {vocalsound}
+User Interface: and then we'll give some technical specifications.
+Marketing: Yeah.
+Project Manager: Mm-hmm.
+User Interface: That's {vocalsound} well {vocalsound} {vocalsound}, so that's that. Please, next slide. We analysed all the fruits
+Project Manager: {vocalsound}
+User Interface: and contacted NASA, and uh made some {vocalsound} real good {disfmarker}
+Project Manager: MASA? {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound}
+User Interface: Yeah. If you can see this, and the stars are showing that {gap}. And um, {vocalsound} s society will accept that. For sure.
+Marketing: Mm-hmm.
+User Interface: {vocalsound} And making some analysis of different fruits, we choose the ultimate form, ultimate colours, and uh ultimate smell of it. S please, next slide. But we still didn't want to go far from our titanium idea, 'cause it's the most of the moder the m the {gap} modern material we can p select. And it's practical. And it's still say it's for our needs, so please press something. And as I said, {vocalsound} it's perfect. {vocalsound}
+Project Manager: {vocalsound} Okay. {vocalsound} {vocalsound} {vocalsound}
+User Interface: {vocalsound} Please press it.
+Industrial Designer: Experience. Explanat
+User Interface: Everyone is {gap} f really uh really glad to obtain an {disfmarker} {vocalsound} s such a r such a device.
+Marketing: Such a nice thing. {vocalsound}
+Industrial Designer: See this {gap}. {vocalsound}
+User Interface: So you can touch it with your hands.
+Marketing: Can I?
+User Interface: Sure. Yes. {vocalsound}
+Industrial Designer: You can {disfmarker}
+Marketing: Ho-ho. {vocalsound} {vocalsound} {vocalsound} imitating flatulence] {vocalsound}
+Project Manager: What do you say? {vocalsound}
+User Interface: N
+Marketing: It says {vocalsound} {vocalsound}
+Project Manager: {vocalsound}
+User Interface: {vocalsound} You must say it.
+Industrial Designer: {vocalsound} Spongy.
+Marketing: I will uh {disfmarker}
+Project Manager: {vocalsound} One day.
+Marketing: I'll buy it. {vocalsound}
+User Interface: Yeah. {vocalsound}
+Marketing: If I if I need so. {vocalsound}
+Project Manager: He {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound}
+Marketing: Hopefully my daughter will like it. {vocalsound}
+User Interface: Okay. Y and we got the answer. Uh, it is, yes, of course.
+Marketing: Yes, of course. Of c course. {vocalsound}
+User Interface: {gap}, please next slide. Um, this is a prototype. You can have a look at it, and {disfmarker} That's all I wanted to say.
+Marketing: Ah.
+User Interface: Now it's technical specification by our colleague.
+Industrial Designer: Hmm.
+Project Manager: Hmm.
+Industrial Designer: So {disfmarker}
+Marketing: Oh, there is {vocalsound} a button missing.
+Project Manager: {vocalsound}
+Industrial Designer: Yeah.
+Marketing: {vocalsound} Okay. {vocalsound}
+Industrial Designer: This this is really flexible. You can add your buttons.
+Marketing: It's in option. {vocalsound}
+Industrial Designer: {vocalsound} Yeah. So function, mm {disfmarker}
+Project Manager: Mm-hmm.
+Industrial Designer: {vocalsound} So, as we discussed, we have to switch on switch off whenever we want. And so, we have buttons and using L_C_D_, or like you can use this {vocalsound} jog wheel and select which ever option on the L_C_D_, and then do on and off. {vocalsound} Then you ha you'll have volume control. So, you you can press these buttons to increase or decrease the volume.
+Project Manager: {vocalsound}
+Industrial Designer: And we have some L_C_D_ controls. Like, m switching the L_C_D_ display if you want to use L_C_D_, or you don't want you can just use normal button.
+Project Manager: Mm-hmm.
+Industrial Designer: And we have speech recognition. Here you have microphone, and then it date records your voice, and then it try to recognise.
+Marketing: Hmm.
+Project Manager: {vocalsound}
+Industrial Designer: And it can also do the action.
+Project Manager: {vocalsound}
+Industrial Designer: And location finder. And we want to do the location basically using speech recogniser. You can just say, where is my remote control.
+Marketing: Mm-hmm.
+Industrial Designer: Or uh, you can just give some nickname to your remote control, like Bobby {gap}.
+Project Manager: {vocalsound} Bobby. {vocalsound} Mm-hmm.
+Marketing: {vocalsound} Hey, babe.
+Industrial Designer: {vocalsound} And then, {vocalsound} it will say hi. {vocalsound}
+Marketing: {vocalsound} Bob. {vocalsound} Hey Bob. {vocalsound}
+Industrial Designer: {vocalsound} Yeah, hi, and then you can use it. {vocalsound}
+Marketing: Okay,
+Project Manager: Hmm. {vocalsound} 'Kay. {vocalsound} {vocalsound} {vocalsound} {vocalsound}
+Marketing: that's good.
+Industrial Designer: So, {vocalsound} um our team is now fruits. Mainly strawberry. So, you can {vocalsound} have {disfmarker} {vocalsound}
+Marketing: {vocalsound} Oh, these are strawberries. {vocalsound}
+Industrial Designer: And then you can see the look L_C_D_ and all the switches.
+Project Manager: {vocalsound} Are colourful. Yeah. {vocalsound} {vocalsound} {vocalsound}
+Industrial Designer: {vocalsound} Material, we want to stick to titanium. {vocalsound} We will send, we want to {disfmarker} {vocalsound}
+Marketing: {vocalsound} Fruit smelling spongy titanium. {vocalsound} I didn't know it exist, but that's great.
+Industrial Designer: Yeah, or s {vocalsound} So, we want to have {vocalsound} simple and perfect shapes, like I shown in these phones. You can have your own designs and and you can feel simple designs. {vocalsound} {vocalsound} And you can choose colours on your day for each day, or even many colours.
+Marketing: Ha.
+Project Manager: Ho-ho. That's for the L_C_D_ or for the titanium?
+Marketing: You mean we can change the colour uh of th
+Industrial Designer: For the L_C_D_.
+Marketing: Yeah. Yeah okay, for the L_C_D_.
+Industrial Designer: With titanium it's {disfmarker} it is silver.
+Marketing: Tit titanium is {disfmarker}
+User Interface: We are still working on titanium.
+Project Manager: Mm-mm.
+Industrial Designer: Yeah.
+User Interface: So, r we'll start with L_C_D_.
+Marketing: Uh, okay.
+Project Manager: {vocalsound}
+Industrial Designer: Mm, yeah. {vocalsound}
+User Interface: You can ask Bob. It's Tuesday. {vocalsound}
+Industrial Designer: Yeah.
+Project Manager: {vocalsound} Hey, you know you're theme today. {vocalsound}
+Marketing: {vocalsound} Yeah, Bob, please. {vocalsound} {gap} Tuesday colour. {vocalsound}
+Industrial Designer: Yeah. Even you can configure your colours for its {disfmarker} the {disfmarker} depending on your mood, or s
+Marketing: Okay.
+Project Manager: Hmm.
+Marketing: Mm-hmm.
+Project Manager: {vocalsound}
+Marketing: {vocalsound} Black for Sunday. {vocalsound}
+Industrial Designer: {vocalsound} And you can have many colours on weekends. Or {disfmarker} {vocalsound}
+Project Manager: And w wait, wh what are the strawberries for? {vocalsound} {vocalsound} Wh wh
+Industrial Designer: Huh?
+Marketing: On the L_C_D_?
+Industrial Designer: Ah, these are like sensors.
+Marketing: Oh.
+Project Manager: Mm-hmm. {vocalsound}
+User Interface: {vocalsound}
+Marketing: {vocalsound} Of course.
+User Interface: That's location sensors.
+Marketing: {vocalsound} What do you think? {vocalsound} Strawberry sensors. {vocalsound} Very useful.
+Project Manager: Okay. {vocalsound} Strawberries.
+Industrial Designer: So, {vocalsound}
+Marketing: {vocalsound} {vocalsound}
+Industrial Designer: after this meeting we'll propose a party for our success for {disfmarker}
+Project Manager: {vocalsound} Ah. {vocalsound}
+Marketing: Lounge meeting. {vocalsound}
+Industrial Designer: {vocalsound} So, if you are vegetarian or you have any options, please let us know.
+Marketing: {vocalsound}
+User Interface: Yeah, and we can just {gap} some strawberry first. Um {disfmarker}
+Industrial Designer: Yeah.
+Project Manager: {vocalsound} Okay. {vocalsound} Mm-hmm. {vocalsound}
+Marketing: Alright. Good. {vocalsound}
+User Interface: Oops.
+Industrial Designer: S
+Marketing: So, huh. Interesting. In interesting. Mm mm.
+Project Manager: {vocalsound} {vocalsound} Uh {disfmarker} {vocalsound}
+Industrial Designer: So, any specific questions for {disfmarker}
+Project Manager: we'll see in the financial part if uh {vocalsound} all {vocalsound} {gap} {vocalsound} gets into {disfmarker}
+User Interface: {vocalsound}
+Marketing: {vocalsound} It makes sense.
+Industrial Designer: Yeah. {vocalsound}
+User Interface: Let's make a party first maybe. {vocalsound} {vocalsound}
+Project Manager: {vocalsound} {vocalsound} W Who is the five uh {disfmarker} fifty millions we {vocalsound} first make a party in?
+Industrial Designer: Yeah. Then we can discuss {disfmarker} We can {disfmarker} {vocalsound} {vocalsound} Yeah, then we can have how much for how money is left. {vocalsound}
+Marketing: So uh, this is {disfmarker}
+Project Manager: Mm-hmm.
+Marketing: What a design.
+Project Manager: Okay. {vocalsound} Uh, so {disfmarker} Let's uh,
+Marketing: {vocalsound} It's my turn.
+Project Manager: yeah, let's see if uh th it's meet the evaluation criterium. {vocalsound}
+Marketing: Mm-hmm. Let's see if this {disfmarker} Yeah, if you meet {vocalsound} the evaluation criterion.
+Industrial Designer: {vocalsound} Yeah. {vocalsound}
+Project Manager: Oops.
+Marketing: {vocalsound}
+Industrial Designer: Fudge.
+Marketing: Yeah. So, evaluation please. So. You made a very nice prototype, and um, I think, we now need altogether to try to evaluate it to see if it makes sense to do it, if it fulfils our {disfmarker} what we want to do, and things like that. So mm {disfmarker} {vocalsound} Uh, next slide, please. {vocalsound} As you know, before going and uh creating and producing these strawberry {vocalsound} uh {vocalsound} remote control, it's very important to first verify if it makes sense, if we have a chance to sell it.
+Industrial Designer: {vocalsound} Yeah.
+Marketing: Uh, so we need to evaluate it um, try to do it in a constative way, and as much as we can. To {disfmarker} so what I propose is that we are going to to have this scale from one to seven. One meaning that, ye yes uh it fulfils uh the the criterion, whatever it is. And seven meaning, no it doesn't fulfil at all. And we're all l going to list all the criterion. I'm going to go to that next slide,
+Project Manager: Okay.
+Marketing: and together try to evaluate this according to this criterion and from one to seven. And then we are just going to have an average, which will give us the value of our uh remote control. So, maybe we can have a look at the criteria?
+Industrial Designer: Fancy.
+Marketing: So these are the criterion uh I'm {disfmarker} I thought were important. Of course, this can be discussed, but let's let's see, so let's vote. So we have fancy here and we have the scale from one to seven with four in the middle.
+Project Manager: Mm-hmm.
+Industrial Designer: Huh.
+Marketing: So,
+Industrial Designer: Yeah, what's is really {disfmarker}
+Marketing: what do you think, is it fancy? {vocalsound}
+Industrial Designer: Uh, it's really {disfmarker} {vocalsound}
+Project Manager: Uh, I think that fancy, we can say it is fancy. {vocalsound} {vocalsound}
+Marketing: {vocalsound} It is very very fancy. Or have you ever seen something like that? {vocalsound}
+Project Manager: {vocalsound} Oh. I am not the d the only one choosing, yeah.
+Marketing: Yeah, of course.
+Project Manager: Uh what do you think?
+Marketing: What do you think?
+User Interface: Feel the weight.
+Marketing: Is it {disfmarker} The weight is later.
+Industrial Designer: Yeah. Oh.
+User Interface: Really. {vocalsound}
+Project Manager: Uh-huh. {vocalsound}
+Marketing: {vocalsound} Now {vocalsound} we're {disfmarker} {vocalsound}
+User Interface: Okay.
+Marketing: We're on the fanciness now. I think it's quite fancy.
+Industrial Designer: Yeah, yeah.
+Project Manager: Yeah. Yeah.
+Industrial Designer: We can give at least five or six, seven.
+Marketing: It's uh {disfmarker} Yeah, so {disfmarker} No it's it's one.
+Project Manager: It's in the other {gap}.
+Industrial Designer: Oh, {gap} Oh. So {disfmarker} Oh, okay. Yeah, okay. Oh, okay. So {disfmarker}
+Marketing: Yeah, o one means it's, yes, a very fancy and seven mean no at all.
+Project Manager: Mm. {vocalsound}
+Marketing: So it's one or two.
+Project Manager: Two. Let's say two, yeah.
+Industrial Designer: M maybe two.
+Marketing: What do you think? Two?
+User Interface: Two. Two.
+Marketing: Okay. So here, two. Up.
+Industrial Designer: Technology.
+Marketing: Then we have uh technology.
+Industrial Designer: Yeah. Um {disfmarker}
+Marketing: So, what about technology? We have uh we have speech recognition, we have location based {gap},
+Industrial Designer: And we have L_C_D_.
+Marketing: we have L_C_D_.
+Project Manager: Change colour of t
+Industrial Designer: So you change colours.
+Marketing: Change colour of the remote control.
+Industrial Designer: Yeah. You can change the colour of the remote control.
+User Interface: {vocalsound} It's a really {disfmarker} {vocalsound}
+Marketing: Yes. {vocalsound}
+Project Manager: {vocalsound} Okay. {vocalsound} Uh-huh.
+Marketing: {vocalsound} So we can make the remote control more {disfmarker} {vocalsound} {vocalsound} {vocalsound} {vocalsound}
+Industrial Designer: Yeah. We can make it more {disfmarker} {vocalsound}
+User Interface: Yeah. Yeah.
+Marketing: {vocalsound} It's a really {disfmarker} {vocalsound} {vocalsound} {vocalsound} {vocalsound}
+Industrial Designer: Yes. {vocalsound}

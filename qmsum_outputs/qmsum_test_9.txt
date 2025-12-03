@@ -1,0 +1,189 @@
+Professor A:  Am I on? I guess so. Radio two. Hmm. Radio two.
+Grad E: Hello?
+Professor A: Wow.
+Grad E: Mm - hmm. Hi?
+PhD B: Blow into it, it works really well.
+Grad F: Channel B.
+Professor A: People say the strangest things when their microphones are on.
+PhD D: Channel four. Test.
+PhD C: Uh - oh.
+PhD D: OK.
+PhD C: Radio four.
+Grad E: Hello?
+Professor A: So everybody everybody's on?
+PhD D: Today's
+Professor A: Yeah. So y you guys had a {disfmarker} a meeting with uh {disfmarker} with Hynek which I unfortunately had to miss. Um and uh somebody
+PhD C: Mmm.
+Professor A: eh e and uh I guess Chuck you weren't there either, so the uh
+PhD B: I was there.
+Professor A: Oh you were there?
+PhD B: With Hynek?
+Professor A: Yeah.
+PhD B: Yeah.
+Professor A: So everybody knows what happened except me. OK. {vocalsound} Maybe somebody should tell me.
+PhD C: Oh yeah. Alright. Well. Uh first we discussed about some of the points that I was addressing in the mail I sent last week.
+Professor A: Uh - huh.
+PhD C: So. Yeah. About the um, well {disfmarker} the downsampling problem.
+Professor A: Yeah.
+PhD C: Uh and about the f the length of the filters and {disfmarker} Yeah.
+Professor A: What was the {disfmarker} w what was the downsampling problem again?
+PhD C: So we had {disfmarker}
+Professor A: I forget.
+PhD C: So the fact that there {disfmarker} there is no uh low - pass filtering before the downsampling. Well.
+Professor A: Uh - huh.
+PhD C: There is because there is LDA filtering but that's perhaps not uh the best w m
+Professor A: Depends what it's frequency characteristic is, yeah.
+PhD C: Well. Mm - hmm.
+Professor A: So you could do a {disfmarker} you could do a stricter one.
+PhD D: System on
+Professor A: Maybe. Yeah.
+PhD C: Yeah. So we discussed about this, about the um {disfmarker}
+Professor A: Was there any conclusion about that?
+PhD C: Uh " try it ". Yeah.
+Professor A: I see.
+PhD C: I guess.
+Professor A: Yeah. So again this is th this is the downsampling {vocalsound} uh of the uh {disfmarker} the feature vector stream
+PhD C: Uh.
+Professor A: and um Yeah I guess the {disfmarker} the uh LDA filters they were doing do have um {vocalsound} uh let's see, so the {disfmarker} the {disfmarker} the feature vectors are calculated every ten milliseconds so uh the question is how far down they are at fifty {disfmarker} fifty hertz. Uh. {vocalsound} Um.
+PhD C: Yeah. Mm - hmm.
+Professor A: Sorry at twenty - five hertz since they're downsampling by two. So. Does anybody know what the frequency characteristic is?
+PhD C: We don't have yet
+Professor A: Oh OK.
+PhD C: um {vocalsound} So, yeah.
+Professor A: OK.
+PhD C: We should have a look first at, perhaps, {vocalsound} the modulation spectrum.
+Professor A: Yeah.
+PhD C: Um. So there is this, there is the um length of the filters. Um. {vocalsound} {vocalsound} So the i this idea of trying to find filters with shorter delays. Um. We started to work with this.
+Professor A: Hmm - hmm.
+PhD C: Mmm. And the third point um {vocalsound} {vocalsound} was the um, yeah, {vocalsound} the on - line normalization where, well, the recursion f recursion for the mean estimation {vocalsound} is a filter with some kind of delay
+Professor A: Yeah.
+PhD C: and that's not taken into account right now. Um. Yeah. And there again, yeah. For this, the conclusion of Hynek was, well, " we can try it but {disfmarker} "
+Professor A: Uh - huh.
+PhD C: Um.
+Professor A: Try {disfmarker} try what?
+PhD C: So try to um {vocalsound} {vocalsound} um take into account the delay of the recursion for the mean estimation.
+Professor A: OK.
+PhD C: Mmm. And this {disfmarker} we've not uh worked on this yet. Um, yeah. And so while discussing about these {disfmarker} these LDA filters, some i issues appeared, like well, the fact that if we look at the frequency response of these filters it's uh, well, we don't know really what's the important part in the frequency response and there is the fact that {vocalsound} in the very low frequency, these filters don't {disfmarker} don't really remove a lot. {vocalsound} compared to the {disfmarker} to the uh standard RASTA filter. Uh and that's probably a reason why, yeah, on - line normalization helps because it {disfmarker} it,
+Professor A: Right.
+PhD C: yeah, it removed this mean. Um. Yeah, but perhaps everything could {disfmarker} should be {disfmarker} could be in the filter, I mean, uh the {disfmarker} the mean normalization and {disfmarker} Yeah. So. Yeah. So basically that was {disfmarker} that's {vocalsound} all we discussed about. We discussed about {vocalsound} good things to do also uh well, generally good stuff {vocalsound} to do for the research.
+Professor A: Mm - hmm.
+PhD C: And this was this LDA uh tuning perhaps and {vocalsound} Hynek proposed again to his uh TRAPS, so.
+Professor A: OK.
+PhD C: Yeah,
+Professor A: I mean I g I guess the key thing for me is {disfmarker} is figuring out how to better coordinate between the two sides
+PhD C: um.
+Professor A: cuz {disfmarker} because um
+PhD C: Mm - hmm.
+Professor A: uh I was talking with Hynek about it later and the {disfmarker} the {disfmarker} sort of had the sense sort of that {disfmarker} that neither group of people wanted to {disfmarker} to bother the other group too much. And {disfmarker} and I don't think anybody is, you know, closed in in their thinking or are unwilling to talk about things but I think that {vocalsound} you were sort of waiting for them to {vocalsound} tell you that they had something for you and {disfmarker} and that {disfmarker} and expected that they would do certain things and they were sor they didn't wanna bother you
+PhD C: Mm - hmm.
+Professor A: and {vocalsound} they were sort of waiting for you and {disfmarker} and {disfmarker} and uh we ended up with this thing where they {disfmarker} they were filling up all of the possible latency themselves, and they just had hadn't thought of that. So. Uh. {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound} I mean it's true that maybe {disfmarker} maybe no one really thought about that {disfmarker} that this latency thing would be such a {disfmarker} a strict issue
+PhD C: Yeah. Well, but. Yeah. Yeah. Well {disfmarker}
+Professor A: in {disfmarker} in uh {disfmarker} the other {disfmarker}
+PhD C: Yeah I don't know what happened really, but
+Professor A: Yeah.
+PhD C: I guess it's {disfmarker} it's also so uh the time constraints. Because, {vocalsound} well, we discussed about that {disfmarker} about this problem and they told us " well, we will do all that's possible to have enough space for a network " but then, yeah, perhaps they were too short with the time and
+Professor A: Then they couldn't. I see.
+PhD C: uh yeah. But there was also problem {disfmarker} perhaps a problem of communication. So, yeah. Now we will try to {disfmarker}
+Professor A: Just talk more.
+PhD C: Yeah, slikes and send mails.
+Professor A: Yeah.
+PhD C: u s o o Yeah.
+Professor A: Yeah.
+PhD C: Uh. OK.
+Professor A: So there's um {disfmarker} Alright. Well maybe we should just uh I mean you're {disfmarker} you're bus other than that you folks are busy doing all the {disfmarker} all the things that you're trying that we talked about before right? And this {disfmarker} machines are busy and {vocalsound} you're busy
+PhD C: Yeah.
+Professor A: and
+PhD C: Basically.
+Professor A: Yeah. OK. Oh.
+PhD C: Um.
+Professor A: Let's {disfmarker} let's, I mean, I think that as {disfmarker} as we said before that one of the things that we're imagining is that uh there {disfmarker} there will be {vocalsound} uh in the system we end up with there 'll be something to explicitly uh uh do something about noise
+PhD C: Mm - hmm.
+Professor A: in addition to the uh other things that we're talking about and that's probably the best thing to do. And there was that one email that said that {vocalsound} it sounded like uh uh things looked very promising up there in terms of uh I think they were using Ericsson's {vocalsound} approach or something and {vocalsound} in addition to {disfmarker} They're doing some noise removal thing, right?
+PhD C: Yeah, yeah. So yeah we're {disfmarker} will start to do this also.
+Professor A: Yeah.
+PhD C: Uh so Carmen is just looking at the Ericsson {disfmarker} Ericsson code.
+PhD D: Yeah. We modif
+Professor A: Mm - hmm.
+PhD C: And
+PhD D: Yeah, I modified it {disfmarker} well, modifying {disfmarker} {vocalsound} I studied Barry's sim code, more or less. to take @ @ the first step the spectral subtraction. and we have some {disfmarker} the feature for Italian database and we will try with this feature with the filter to find the result.
+Professor A: Mm - hmm. Mm - hmm.
+PhD D: But we haven't result until this moment.
+Professor A: Yeah, sure.
+PhD D: But well, we are working in this also
+Professor A: Yeah.
+PhD D: and maybe try another type of spectral subtraction, I don't {disfmarker}
+Professor A: When you say you don't have a result yet you mean it's {disfmarker} it's just that it's in process or that you {disfmarker} {vocalsound} it finished and it didn't get a good result?
+PhD D: No. No, no n we have n we have do the experiment only have the feature {disfmarker} the feature but the experiment have
+PhD C: Yeah.
+PhD D: we have not make the experiment
+Professor A: Oh. OK.
+PhD D: and maybe will be good result or bad result, we don't know.
+Professor A: Yeah. Yeah.
+PhD C: Yeah.
+Professor A: OK. So um I suggest actually now we {disfmarker} we {disfmarker} we sorta move on and {disfmarker} and hear what's {disfmarker} what's {disfmarker} what's happening in {disfmarker} in other areas like {vocalsound} what's {disfmarker} what's happening with your {vocalsound} investigations {vocalsound} about echos and so on.
+Grad F: Oh um Well um I haven't started writing the test yet, I'm meeting with Adam today
+Professor A: Mm - hmm.
+Grad F: um and he's going t show me the scripts he has for um {vocalsound} {vocalsound} running recognition on mee Meeting Recorder digits.
+Professor A: Mm - hmm.
+Grad F: Uh {vocalsound} I also um {vocalsound} {vocalsound} haven't got the code yet, I haven't asked Hynek for {disfmarker} for the {disfmarker} for his code yet. Cuz I looked at uh Avendano's thesis and {vocalsound} I don't really understand what he's doing yet but it {disfmarker} {vocalsound} it {disfmarker} it sounded like um {vocalsound} the channel normalization part {vocalsound} um of his thesis um {vocalsound} was done in a {disfmarker} a bit of I don't know what the word is, a {disfmarker} a bit of a rough way um {vocalsound} it sounded like he um he {disfmarker} he {disfmarker} it {disfmarker} it wasn't really fleshed out and maybe he did something that was {vocalsound} interesting for the test situation but I {disfmarker} I'm not sure if it's {vocalsound} what I 'd wanna use so I have to {disfmarker} I have to read it more, I don't really understand what he's doing yet.
+Professor A: OK. Yeah I haven't read it in a while so I'm not gonna be too much help unless I read it again,
+PhD D: It's my
+PhD C: Oh yeah?
+PhD D: I know this is mine here.
+Professor A: so. OK. Um. {vocalsound} The um {disfmarker} so you, and then {vocalsound} you're also gonna be doing this echo cancelling between the {disfmarker} the close mounted and the {disfmarker} {vocalsound} and the {disfmarker} the {disfmarker} the {disfmarker} what we're calling a cheating experiment uh of sorts between the distant {disfmarker}
+Grad F: Uh I I'm ho Right. Well {disfmarker} {vocalsound} or I'm hoping {disfmarker} I'm hoping Espen will do it.
+Professor A: Ah! OK.
+Grad F: Um
+Professor A: F um
+Grad F: u
+Professor A: Delegate. That's good. It's good to delegate.
+Grad F: I {disfmarker} I think he's at least planning to do it for the cl close - mike cross - talk and so maybe I can just take whatever setup he has and use it.
+Professor A: Great. Great. Yeah actually um he should uh I wonder who else is I think maybe it's Dan Ellis is going to be doing uh a different cancellation. Um. {vocalsound} One of the things that people working in the meeting task wanna get at is they would like to have cleaner {vocalsound} close - miked recordings. So uh this is especially true for the lapel but even for the close {disfmarker} close - miked uh cases um we 'd like to be able to have {vocalsound} um other sounds from other people and so forth removed from {disfmarker} So when someone isn't speaking you 'd like the part where they're not speaking to actually be {disfmarker} So {vocalsound} what they're talking about doing is using ec uh echo cancellation - like techniques. It's not really echo but {vocalsound} uh just um uh taking the input from other mikes and using uh {vocalsound} uh a uh {disfmarker} {vocalsound} an adaptive filtering approach to remove the effect of that uh other speech. So. Um what was it, there was {disfmarker} there was some {disfmarker} some {disfmarker} some point where {vocalsound} eh uh Eric or somebody was {disfmarker} was speaking and he had lots of {vocalsound} silence in his channel and I was saying something to somebody else uh {vocalsound} which was in the background and it was not {disfmarker} it was recognizing my words, which were the background speech {vocalsound} on the close {disfmarker} {vocalsound} close mike.
+Grad F: Hmm.
+PhD B: Oh the {disfmarker} What we talked about yesterday?
+Professor A: Yes.
+PhD B: Yeah that was actually my {disfmarker} I was wearing the {disfmarker} I was wearing the lapel and you were sitting next to me,
+Professor A: Oh you {disfmarker} it was you I was Yeah.
+PhD B: and I only said one thing but you were talking and it was picking up all your words.
+Professor A: Yeah. Yeah. So they would like clean channels. Uh and for that {disfmarker} mmm uh {disfmarker} that purpose uh they 'd like to pull it out. So I think {disfmarker} {vocalsound} I think Dan Ellis or somebody who was working with him was going to uh work on that. So. OK. Right? Um. {vocalsound} And uh I don't know if we've talked lately about the {disfmarker} the plans you're developing that we talked about this morning uh I don't remember if we talked about that last week or not, but {vocalsound} maybe just a quick reprise of {disfmarker} of what we were saying this morning.
+Grad E: OK.
+Professor A: Uh.
+Grad E: Um. {comment} So continuing to um extend
+PhD C: No.
+Grad E: No.
+Professor A: No.
+Grad E: No.
+PhD C: Yes.
+Grad E: No.
+Professor A: No.
+Grad E: No.
+PhD C: No.
+Grad E: No.
+PhD C: No.
+Grad E: No.
+PhD C: No.
+Grad E: No.
+PhD C: No.
+Grad E: No.
+PhD C: No.
+Grad E: No.
+PhD C: No.
+Grad E: No.
+Grad E: No.
+PhD C: No.
+Grad E: No.
+PhD C: No.
+Grad E: No.
+PhD C: No.
+Grad E: No.
+PhD C: No.
+Grad E: No.
+Grad E: No.
+PhD C: No.
+Grad E: No.
+PhD C: No.
+Grad E: No.
+Grad E: No.
+Grad E: No.
+Grad E: No.
+Grad E:
