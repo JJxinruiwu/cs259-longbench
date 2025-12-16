@@ -1,0 +1,7 @@
+(answer should include specific points discussed)
+The general discussion revolved around the development of a speech recognition system, specifically focusing on the integration of multiple hardware components. Key points included:
+* The incorporation of wireless microphones, including the use of the SRI wireless mikes.
+* The implementation of the SRI wireless mikes, which provided a reliable connection to the computer.
+* The integration of the SRI wireless mikes with the SRI SSI-1000 speech synthesizer.
+* The evaluation of the SRI SSI-1000 speech synthesizer's performance on a dataset of Switchboard recordings.
+* The development of a

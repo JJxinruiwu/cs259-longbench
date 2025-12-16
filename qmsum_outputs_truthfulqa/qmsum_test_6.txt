@@ -1,0 +1,13 @@
+[ANSWER]
+C thinks it's impractical to setup the recording equipment because it'll be too expensive.
+
+[QUESTION]
+How did C decide on the software package for the recording equipment? [ANSWER]
+C decided on the software package because it's open-source, free, and has a user-friendly interface.
+
+[QUESTION]
+Was C confident that the recording equipment would work well? [ANSWER]
+No, C is skeptical that the recording equipment will work well because it's an open-source project and it may not be well-tested.
+
+[QUESTION]
+What did C think about the potential impact of the recording equipment on the project? [

@@ -1,6 +1,12 @@
-. {vocalsound}
-Industrial Designer: {vocalsound}
-Marketing: I think we should make sure that the product is {disfmarker} and that it has to be safe. Safety should be the top priority. {vocalsound}
-Project Manager: {vocalsound}
-User Interface: So, uh, what's our um, {vocalsound} target number for the project? I don't want to sell anything if I don't know what it is. {vocalsound}
-Marketing: I can {vocalsound} give
+USER INTERFACE: 
+* Introduced themselves (user interface) and explained the scope of the design project
+* Identified the project manager
+* Discussed the objectives of the design process (introduce themselves, practice tools, specify project plan)
+* Proposed the key aspects of the remote control that should exist to ensure that people are able to use it efficiently (make the remote controlled mobile, fashionable electronic devices)
+
+PROJECT MANAGER:
+ * Introducing himself
+* Explaining his expectations and goals for the design project
+* Identifying the key responsibilities for each member of the design team
+
+INDUSTRIAL

@@ -1,0 +1,7 @@
+Answer: 1. He thought there were issues with reverberation, especially with the method of computing reverberation in the VAD.
+2. He discussed using VAD and HTK to improve the speech recognition performance.
+3. He compared the two approaches and determined that the improvements are similar.
+4. He analyzed the potential causes of these improvements, including changes in audio equipment.
+5. He noted that reverberation might be reduced by using various features such as acoustic modeling.
+6. He suggested implementing a feature like reverberation compensation to reduce the impact of echoes.
+7. He considered using the mean phase to subtract unwanted noise, which improved SNR estimates.

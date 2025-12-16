@@ -1,0 +1,22 @@
+How were they dealt with? What were some other issues?
+
+[KEY]
+- {vocalsound}: vocals
+- {disfmarker}: disfluencies
+- {gap}: pause
+- {vocalsound}: vocals
+- {disfmarker}: disfluencies
+- {gap}: pause
+
+Some of the key issues that were addressed in the review include:
+
+- The difficulty in conveying the design process to the team, particularly the use of nonstandard presentation tools
+- The limited understanding of the project by some team members, especially during the brainstorming phase
+- The team's lack of understanding of the project's specific requirements and constraints
+- The need for the team to clarify and refocus on the project's goals and objectives
+- The need for the team to work together more effectively, particularly in terms of communication and collaboration
+- The team's reliance on technology and the internet for communication and information exchange
+- The importance of having a clear and effective system for documenting and reviewing the project
+- The need for the team to be more mindful of cultural and social differences in communication and problem-solving
+
+It was noted that the team's efforts were improved by addressing some of the issues, and that a more effective system for conveying the design process and meeting goals was established. However, it was also acknowledged that there is still room for improvement in terms of communication and collaboration.

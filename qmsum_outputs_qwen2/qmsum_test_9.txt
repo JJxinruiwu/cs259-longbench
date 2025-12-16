@@ -1,0 +1,9 @@
+Based on the document, the professor thought that clustering might be useful for improving the performance of the back-end recognizer. Specifically, the professor mentioned:
+
+"Clustering might be useful for improving the performance of the back-end recognizer for the Aurora task and see how that affects things."
+
+So the professor believed that clustering could help in identifying patterns within the data and potentially improve the performance of the recognizer. However, the doc does not specify whether clustering was considered as a potential improvement strategy.
+
+Therefore, the correct answer is:
+
+The clustering was not considered as a potential improvement strategy. Instead, the professor believed that clustering could help identify patterns within the data

@@ -1,0 +1,9 @@
+Answer: The professor thought that echoes and reverberation could be problematic, as they could interfere with the accuracy of the SRI system's classification of speech.
+
+[QUIZZER]
+Can the SRI system improve its performance by training on a larger dataset?
+Answer: Yes, the SRI system can improve its performance by training on a larger dataset to enhance its ability to recognize speech in different environments and conditions.
+
+[QUIZZER]
+Is there evidence that the SRI system is less accurate on Aurora data compared to other datasets?
+Answer: No, there is no strong evidence that the SRI system is less accurate on Aurora data

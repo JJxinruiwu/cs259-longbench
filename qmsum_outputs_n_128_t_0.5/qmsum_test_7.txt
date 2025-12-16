@@ -1,0 +1,6 @@
+Answer:
+The professor thought that MSG was a good idea, but he also felt that it was not entirely clear what the benefits were. He suggested that the neural network should be able to handle the noise and the different languages, and that the training data should include the different languages.
+
+He also suggested that the neural network should be able to handle the different languages and the noise, and that the training data should include the different languages. He suggested that the neural network should be able to handle the different languages and the noise, and that the training data should include the different languages.
+
+He also suggested that the neural network should be able to handle

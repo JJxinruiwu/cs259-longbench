@@ -1,0 +1,10 @@
+[ANSWER]
+Industrial Design agreed with the Marketing because they had different presentations on appearance design, with Industrial Designer presenting on components design and Marketing presenting on conceptual design. They disagreed on the presentation of voice recognition.
+
+[QUESTION]
+What did the Marketing suggest as a solution to the voice recognition problem? [ANSWER]
+The Marketing suggested that the Marketing could stick with what they had and table the touch screen option until they could find a cheaper alternative. 
+
+[QUESTION]
+How much would the touch screen cost compared to the voice recognition option? [ANSWER]
+The touch screen would cost 175 Euros compared to the voice recognition option,

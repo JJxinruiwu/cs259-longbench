@@ -1,0 +1,23 @@
+What issues are mentioned, and how are they addressed?
+
+[ANSWER]
+The project manager's perspective on the prototype is negative, citing issues such as high costs, poor design, lack of functionality, and unrealistic expectations. The project manager expresses frustration with the team's lack of creativity, poor design decisions, and failure to address concerns about cost, functionality, and user experience. The project manager also expresses disappointment with the team's inability to meet deadlines, and their frustration with the team's unrealistic expectations and poor communication.
+
+Key issues mentioned:
+
+* High costs: The project manager mentions that the costs are too high and the team is not delivering value.
+* Poor design: The project manager expresses frustration with the poor design of the prototype.
+* Lack of functionality: The project manager notes that the prototype does not meet the required functionality.
+* Unrealistic expectations: The project manager expresses frustration with the team's unrealistic expectations about the project's success.
+* Poor communication: The project manager notes that the team's communication is poor, with unclear requirements and expectations.
+* Unrealistic promises: The project manager expresses disappointment with the team's failure to meet their own unrealistic promises.
+
+Addressed issues:
+
+* The project manager addresses the high costs by suggesting that the team should consider a cost-saving strategy.
+* The project manager addresses the poor design by suggesting that the team should revisit the design and consider using a more feasible solution.
+* The project manager addresses the lack of functionality by suggesting that the team should prioritize the requirements and deliver a more functional prototype.
+* The project manager addresses the unrealistic expectations by suggesting that the team should set realistic expectations and communicate clearly with stakeholders.
+* The project manager addresses the poor communication by suggesting that the team should improve their communication and ensure that all stakeholders are informed and up-to-date.
+
+Overall, the project manager's perspective is that the team has failed to deliver a high-quality prototype that meets the required standards. The team's poor design, high costs, and unrealistic expectations have all contributed to this failure, and the project manager is committed to identifying and addressing these issues in future projects.

@@ -1,0 +1,7 @@
+[ANSWER]
+They thought that the voice recognition idea was simple, they thought that they should stick with the rubber button, and they thought that they could have a round remote control that looks like a paperweight.
+
+[QUESTION]
+Did the User Interface design consider any cost factors when creating the prototype? 
+[ANSWER]
+No, the User Interface did not consider any cost factors when creating the prototype. They were focusing on the design and functionality of the remote control, rather than the cost of production.

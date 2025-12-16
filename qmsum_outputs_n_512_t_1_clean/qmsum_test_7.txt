@@ -1,0 +1,5 @@
+(1-3)
+a) MSG has a significant impact on overall network performance.
+b)MSG is worth investigating further, as it provides valuable insights into improving the network's adaptability.
+c) MSG leads to a better result in experimental trials.
+Answer: c) MSG leads to a better result in experimental trials.

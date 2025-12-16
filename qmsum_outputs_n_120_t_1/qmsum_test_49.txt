@@ -1,9 +1,4 @@
-some small {disfmarker} buttons there too.
-Project Manager: {vocalsound}
-Industrial Designer: {vocalsound}
-User Interface: Because we need to be {disfmarker} universal.
-Marketing: So {disfmarker} it has a titanium body and a screen with a back light that can change colours.
-User Interface: and that's really {disfmarker} really nice. That's really what we needed.
-Project Manager: {vocalsound}
-Marketing: {vocalsound}
-User Interface: You can put your fingers on the screen,
+{disfmarker} No.
+
+Answer:
+Because they wanted to sell it for $12{Eurs}, so that's 30 Euros, whereas a traditional TV remote costs around $50. That makes it seem reasonable, and also young people are more likely to buy gadgets. Another reason is they are younger when consumers start buying remotes, because 5/20th year olds are closer to retirement age. Finally, in their perception {disfmarker} their vision for future remote controls is as a "smart" remote control, with advanced speech recognition, gesture recognition and integration of various applications

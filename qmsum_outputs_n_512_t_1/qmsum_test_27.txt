@@ -1,0 +1,22 @@
+?
+Grad E: Well {disfmarker} {vocalsound} so we concluded that semantic specification includes the notion of {disfmarker} {pause} {disfmarker} the information structure or information structure {disfmarker} is, {disfmarker} it's not always clear from the beginning, and there's not always a {disfmarker} and it's definitely not just a matter of mapping {disfmarker} between something, some semantic {disfmarker} in the {disfmarker} semantic meaning, where there's only one meaning {disfmarker} no matter what.
+Grad A: Yeah. Yeah.
+Grad F: Yeah.
+Grad B: Uh, so, um, what's the main point about the semantic specification??
+Grad A: Well {disfmarker} {vocalsound} it seems to be more about the way to structure the sentences, in that, uh {disfmarker} {pause} it seems to be about the way to {disfmarker} the structure of the sentence rather than the meaning of the sentence, right? Right?
+Grad F: Yeah.
+Grad B: And, uh, I think we should focus on the {disfmarker} the way we handle the case of, uh {disfmarker} like inference or, you know, inference in general.
+Grad E: Yeah.
+Grad A: And we need a way to go from the meaning to the {disfmarker} the context-dependent information, right? Right?
+Grad F: Yeah.
+Grad B: And that's definitely what {disfmarker} we will be doing for the next part.
+Grad A: Right.
+Grad B: For the next part.
+Grad A: So we will focus on the {disfmarker} the way we handle inference or, you know, inference in general.
+Grad F: Right.
+Grad B: And that's definitely what {disfmarker} we will be doing for the next part.
+Grad E: So the next part is going to be the details of the information structure, which includes the notions of {disfmarker} the {disfmarker} semantics, {disfmarker} the {disfmarker} the meaning of {disfmarker} the {disfmarker} the context-dependent information.
+Grad F: Mm - hmm.
+Grad A: Right.
+Grad B: And we will use a form of frame semantics.
+Grad E: And the {dis

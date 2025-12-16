@@ -1,0 +1,26 @@
+The system is supposed to implement a belief-net and will need to provide a parser, analyzer, and generator for the English and German languages.
+
+The system will need to:
+
+* Parse input text to extract relevant information
+* Analyze this information to determine the semantic meaning
+* Generate output text based on the semantic meaning
+* Provide a working system demonstration
+
+The system will be used in a group project with Keith, a student in computer science, and John, another student in computer science. The system will be used to model and evaluate a hypothetical smartkom project, and will be used to create a working system demonstration for the demonstration. The system will also be used to develop a working version of the system, which will be used to evaluate the effectiveness of the system in modeling and generating the desired output.
+
+The system will be developed using object-oriented programming and will be built on top of existing systems. The system will be implemented using a combination of natural language processing and computer science techniques, including parsing, analysis, and generation. The system will be used to create a working system demonstration that can be used to evaluate the effectiveness of the system in modeling and generating the desired output.
+
+The system will be implemented in a version control system and will be tested using a variety of evaluation metrics, including accuracy, fluency, and coherence. The system will be used to develop a working version of the system that can be used to model and generate the desired output.
+
+The system will be used to evaluate the effectiveness of the system in modeling and generating the desired output, and will be used to develop a working system demonstration that can be used to evaluate the effectiveness of the system.
+
+The system will be used to evaluate the effectiveness of the system in modeling and generating the desired output, and will be used to develop a working system demonstration that can be used to evaluate the effectiveness of the system.
+
+The system will be used to develop a working system demonstration that can be used to evaluate the effectiveness of the system.
+
+The system will be used to evaluate the effectiveness of the system in modeling and generating the desired output, and will be used to develop a working system demonstration that can be used to evaluate the effectiveness of the system.
+
+The system will be used to evaluate the effectiveness of the system in modeling and generating the desired output, and will be used to develop a working system demonstration that can be used to evaluate the effectiveness of the system.
+
+The system will be used to evaluate the effectiveness of the system in modeling and generating the desired output, and will be used to develop a working system demonstration that

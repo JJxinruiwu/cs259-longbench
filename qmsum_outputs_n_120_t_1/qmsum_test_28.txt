@@ -1,9 +1,11 @@
-ics and so on.
-Grad A: I guess it does make it easier to do some stuff, like {disfmarker} uh, just to be able to hear someone talk in the background, for example.
-Grad E: Yeah.
-PhD C: Yeah.
-Grad A: Uh, uh.
-Grad E: and uh, um
-Grad A: to make some changes for some of the {disfmarker} meetings.
-PhD C: Yeah.
-Grad E: like in {disfmarker} the ICSI, we have to {disfmarker} use a lot of extra
+.
+
+Summary:
+
+The group met to discuss progress on several projects, including:
+
+1. Recognition in Hub-5: Discussing the performance on digits, comparing the performance of Hybrid System (with embedded training) to a standard system.
+2. Analog-to-Digital Conversion (ADC): Reviewing progress on ADC implementation.
+3. Analog Input Interface (AI): Discussion of setting up a new AI device to replace an older model.
+4. Tandem System: Exploring options for developing a tandem system that incorporates features of both ALF and PLP.
+5. Embedded Training: Discussing the idea

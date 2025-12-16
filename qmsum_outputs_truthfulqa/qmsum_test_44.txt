@@ -1,0 +1,3 @@
+The document discusses the design goals of a new remote control, including functionality, concept, and detail design. The document mentions that the remote control needs to be original, trendy, and user-friendly. It also suggests that the remote control should be small and robust, adaptable to various uses, and have multiple action options. The document concludes that the remote control should be adaptable to standard actions and have a history feature. 
+
+The document provides a summary of the decisions made during the discussion, focusing on the importance of each point mentioned in the document. It highlights the key aspects of the remote control design, such as its originality, popularity,

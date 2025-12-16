@@ -1,0 +1,8 @@
+Answer: User Interface introduced the prototype of the remote control by saying, "Well uh {disfmarker} Well uh {disfmarker} Uh , what this just an example . So , this not very important . But um , if I can get a number in here . Hmm ." 
+
+So User Interface presented the prototype of the remote control without showing it to the rest of the team. 
+
+Question: Was the prototype of the remote control reviewed by the finance team before being presented?
+Answer: No, the prototype of the remote control was not reviewed by the finance team before being presented. 
+
+Question: Who made the decision to

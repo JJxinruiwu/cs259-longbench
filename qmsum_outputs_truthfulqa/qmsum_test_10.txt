@@ -1,0 +1,13 @@
+[ANSWER]
+Grad F said that he had gone through old emails and discussed his proposal with people about what they were doing, but he thought they were doing themselves.
+
+[QUESTION]
+What did Grad F propose? [ANSWER]
+Grad F proposed using a method called VAD (Voice Activity Detection) to identify speech in recordings, possibly using spectral subtraction and other techniques.
+
+[QUESTION]
+How did Grad F get the information about the Aurora baseline? [ANSWER]
+Grad F obtained the baseline by testing the SRI system on the Aurora dataset and comparing the results with the baseline system trained on the same data.
+
+[QUESTION]
+Was there

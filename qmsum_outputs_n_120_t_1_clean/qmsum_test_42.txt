@@ -1,0 +1,5 @@
+{ gap } {disfmarker} The users want a remote that works like a real remote control. So it could have buttons that do different functions like the old TV remote had, with no or minimal use of voice commands.
+This remote control, or “piano keyboard controller” will have keys arranged like those on a piano keyboard. These keys have various sizes and arrangements depending on the model. [vocalsound] Industrial designer: Yeah, right. Yeah.
+User Interface: Whoa.
+MARKETING
+The project is making a presentation based on their discussion and decision-making process.

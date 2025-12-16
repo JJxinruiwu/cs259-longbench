@@ -1,7 +1,15 @@
-uh you can tell by the design.
-Project Manager: Yeah, we designed it to be good-looking.
-Industrial Designer: So uh because of the good-looking, we think that's an important criterion.
-User Interface: Yeah.
-Marketing: And we also think that {disfmarker} uh the device is {vocalsound} um easy to use.
-Project Manager: Yeah, that's a good idea.
-Marketing: And we also think that it's {vocalsound} um affordable. Because {vocalsound} we all think {vocalsound} uh that we
+What did the Project Manager think about the quality of the final product?
+
+Were they satisfied with the outcome of the project?
+
+Did they wish they had handled certain aspects differently? Were they happy with the changes?
+
+Did they wish the team had been more responsive to his concerns? Did he feel any responsibility for the delays?
+
+Did they appreciate any aspect of the product, even though ultimately not usable due to delays and problems?
+
+Did they feel satisfied with the end result? Would they accept a revised version of the product?
+
+Final thoughts
+
+Would the company be more likely to invest in similar projects given this experience

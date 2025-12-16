@@ -1,0 +1,57 @@
+They decided to:
+
+* Design a simple and sleek design for the remote control
+* Use a faceplate on the remote control to make it more accessible
+* Put the company logo on the remote control
+* Put the fashion in electronics onto the remote control
+* Design a touch screen with a black and red interface
+* Put the logo and company name in the boot-up mode of the remote control
+
+[ANSWER]
+a
+
+[QUESTION]
+Who recommended that they go for a touch screen for the remote control, and what was the specific requirement?
+
+* The group was recommended to go for a touch screen by the Industrial Designer
+* The specific requirement was to include a battery backup to extend the battery life of the remote control, and to include a faceplate to make it more accessible and aesthetically pleasing
+
+[ANSWER]
+b
+
+[QUESTION]
+Who recommended that they put the fashion in electronics onto the remote control?
+
+* The group was recommended to put the fashion in electronics onto the remote control by Sarah (User Interface)
+* The statement is attributed to the Industrial Designer, but the exact reason is not specified
+
+[ANSWER]
+b
+
+[QUESTION]
+What was the outcome of the group's consideration of the voice recognition option for the remote control?
+
+* The voice recognition option was deemed unnecessary for the primary functions of the remote control
+* The group considered the voice recognition option, but ultimately decided to focus on simpler functions such as channel, volume, and on/off
+* The group's thoughts on the voice recognition option were not recorded or discussed in the report
+
+[ANSWER]
+d
+
+[QUESTION]
+Who is responsible for putting the logo and company name in the boot-up mode of the remote control?
+
+* The group is responsible for putting the logo and company name in the boot-up mode of the remote control
+* The logo and company name are to be placed in the boot-up mode of the remote control
+
+[ANSWER]
+d
+
+[QUESTION]
+What was the main point of discussion on the television remote design?
+
+* The main point of discussion was the use of touch screen technology
+* The main point of discussion was the use of a faceplate on the remote control
+* The main point of discussion was the use of a black and red interface on the touch screen
+* The main point of discussion was the use of a logo and company name in the boot-up mode of the remote control
+* The main point of discussion was the use of a battery backup and a faceplate to make the remote control more accessible and

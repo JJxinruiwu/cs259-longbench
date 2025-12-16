@@ -1,8 +1,10 @@
-might have to do it one way or the other.
-Grad E: Uh - huh. So if you {disfmarker} did training on the training set {disfmarker} and testing on the testing set, you wouldn't see a difference, right?
-PhD A: Uh.
-Grad E: Yeah.
-Professor B: So you have to do it in the same way {disfmarker} every time {disfmarker} every time.
-PhD A: Well, I think that's right.
-Grad E: Yeah.
-PhD A: And one more thing, Morgan
+(2)
+
+[ANSWER]
+He mentioned it's going to take a lot of work to implement it and is uncertain if it's the best solution.
+
+PhD A:
+The proposal was related to the development of a Voice Activity Detection (VAD) system, which aims to detect whether speech is present in an audio signal. One approach considered is using a linear predictive coherence (LPC) analysis. Another approach discussed was a Wiener-based filtering technique to improve detection accuracy.
+It seems that the discussion centered around implementing improvements to the existing VAD algorithms, such as:
+
+1. Applying on-line

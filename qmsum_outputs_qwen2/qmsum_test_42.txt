@@ -1,0 +1,23 @@
+Based on the document, the decision of remote feature design is:
+
+Industrial Designer: "It has to be original, trendy, and user-friendly."
+
+User Interface: "I will try making an example." 
+
+Marketing: "Okay." 
+
+Project Manager: "So I'll make an example." 
+
+Industrial Designer: "Alright." 
+
+User Interface: "Mm-hmm." 
+
+Project Manager: "Now we can make a new one." 
+
+Marketing: "Oh. {vocalsound}" 
+
+Industrial Designer: "A parrot." 
+
+Project Manager: "That's interesting." 
+
+User Interface: "Uh {disf

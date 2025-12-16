@@ -1,12 +1,4 @@
-all these references.
-PhD C: And it looks like we have a lot of good ones that you can use.
-Grad E: Yeah.
-PhD C: so that means we can get a really high quality {disfmarker} transcript.
-Postdoc G: Yeah.
-Grad E: Yeah.
-PhD C: which is great.
-Grad F: That's a good point.
-Grad E: You know, I {disfmarker} I was actually wondering about the speaker identification.
-PhD A: Yeah.
-Grad E: Um could you show me the speaker identification.
-Grad F:
+.
+
+[ANSWER] 
+The researchers obtained audio recordings from participants, including {disfmarker} acoustic analysis tools such as {disfmarker} pitch detector and {disfmarker} harmonic analyzer. The data showed that there were multiple {disfmarker} variations in the way that individuals spoke, ranging from {disfmarker} slight variations in the way that words were pronounced to the way that phrases were constructed. Specifically, the audio records indicated {disfmarker} a lack of clear separation of the source and the target microphone in some cases, and a significant delay in {disf

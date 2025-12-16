@@ -1,0 +1,5 @@
+Based on the document, the group thought of the locator when presenting the functional requirements because:
+
+The group felt that the locator would be a convenient feature that could be easily accessed by the user. They believed that it would provide a quick way to navigate around the device, making it easier to use and reducing the chances of losing the remote control.
+
+So the group thought of the locator because it seemed to address the practicality aspect of needing a quick access feature while maintaining the aesthetics of the remote control. It was seen as a desirable addition that would simplify the user experience.

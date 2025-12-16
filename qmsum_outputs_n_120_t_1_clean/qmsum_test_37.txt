@@ -1,0 +1,5 @@
+.
+* Discussion started with the speaker providing some insight on how important recognition algorithms require detailed annotations of features such as gender, dialects, and accents.
+* A speaker mentioned a prototype of a new method of speech classification that involves using the audio signal directly in machine learning. However, concerns were raised regarding potential noise reduction effects, particularly when faced with audio signals containing static and background noises.
+* Discussions were focused on speech datasets that needed to be classified accurately, as misclassification would lead to poor speech recognition outcomes.
+* Discussions centered around the integration of multiple datasets, including acoustic data, mel-frequency cepstral

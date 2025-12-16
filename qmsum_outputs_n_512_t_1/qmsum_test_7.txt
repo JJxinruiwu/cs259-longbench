@@ -1,0 +1,10 @@
+He thinks that if you use delta and delta-delta, it decreases the accuracy. When you combine multi-English MLP, the accuracy decreases. 
+
+Answer:
+We still have a mismatched condition in the training set for the multi-English configuration. So, using the training set with a matching condition, the accuracy is better. Therefore, the accuracy for the multi-English configuration is worse than for the training set with a matching condition. 
+
+When you use delta and delta-delta, it decreases the accuracy. This can be because the training data for the multi-English configuration is not aligned correctly with the testing data. So, if you change the variance of the streams, it might affect the scaling of the features. To avoid this, we need to use less memory. 
+
+When you combine multi-English MLP, it decreases the accuracy. This might be because the accuracy is determined by the accuracy of the MLP, and the accuracy of the MLP is affected by the accuracy of the multi-English configuration. To improve the accuracy of the multi-English configuration, we need to use less data. 
+
+The author mentions that when they used the TIMIT database for training and testing, they found that the multi-English configuration performed better than the training set with a matching condition. This is likely because the training data for the multi-English configuration is not aligned correctly with the testing data.

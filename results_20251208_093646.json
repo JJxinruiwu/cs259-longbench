@@ -1,0 +1,212 @@
+{
+  "timestamp": "2025-12-08T09:36:46.671476",
+  "model_name": "Qwen/Qwen2-0.5B-Instruct",
+  "max_new_tokens": 128,
+  "temperature": 0.5,
+  "rougeL": 0.042161955741372,
+  "rouge1": 0.05983217723730125,
+  "rouge2": 0.014476582149618368,
+  "rougeLsum": 0.04031851061937061,
+  "per_sample_scores": [
+    {
+      "sample_id": 0,
+      "rougeL": 0.17592592592592596
+    },
+    {
+      "sample_id": 1,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 10,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 11,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 12,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 13,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 14,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 15,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 16,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 17,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 18,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 19,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 2,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 20,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 21,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 22,
+      "rougeL": 0.1342281879194631
+    },
+    {
+      "sample_id": 23,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 24,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 25,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 26,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 27,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 28,
+      "rougeL": 0.1693121693121693
+    },
+    {
+      "sample_id": 29,
+      "rougeL": 0.14906832298136646
+    },
+    {
+      "sample_id": 3,
+      "rougeL": 0.1756756756756757
+    },
+    {
+      "sample_id": 30,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 31,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 32,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 33,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 34,
+      "rougeL": 0.2625
+    },
+    {
+      "sample_id": 35,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 36,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 37,
+      "rougeL": 0.12222222222222222
+    },
+    {
+      "sample_id": 38,
+      "rougeL": 0.16058394160583941
+    },
+    {
+      "sample_id": 39,
+      "rougeL": 0.174496644295302
+    },
+    {
+      "sample_id": 4,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 40,
+      "rougeL": 0.13749999999999998
+    },
+    {
+      "sample_id": 41,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 42,
+      "rougeL": 0.11042944785276074
+    },
+    {
+      "sample_id": 43,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 44,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 45,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 46,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 47,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 48,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 49,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 5,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 6,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 7,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 8,
+      "rougeL": 0.16901408450704225
+    },
+    {
+      "sample_id": 9,
+      "rougeL": 0.16541353383458646
+    }
+  ]
+}

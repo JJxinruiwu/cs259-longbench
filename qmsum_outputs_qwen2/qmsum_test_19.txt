@@ -1,0 +1,11 @@
+Based on the document, the key points regarding speech overlap are:
+
+1. The speaker overlaps occurred in 30-45 minutes of the session.
+
+2. The overlap was 70% in 15 minutes of the session.
+
+3. The overlap was 80% in 30 minutes of the session.
+
+4. The overlap was 90% in 60 minutes of the session.
+
+So the speaker overlaps occurred in 30-45 minutes of the session, ranging from 70% to 90%.

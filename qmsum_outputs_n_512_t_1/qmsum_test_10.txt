@@ -1,0 +1,43 @@
+(Answer below) 
+
+[ANSWER]
+Grad F said that his proposal was {disfmarker} that he would first train a speech recognition system on Macrophone and then test it on noisy TI digits, and if it was {disfmarker} not helpful, then he would try a different approach.
+
+Grad F said that his plan is to improve the quality of the speech recognition system by combining different approaches.
+
+Grad F's main goals for his proposal are to: 
+
+1. Improve the performance of the speech recognition system
+2. Use different methods to find bugs and improve the system
+
+Grad F's plan includes:
+
+1. Creating a new speech recognition system by combining different methods, such as VAD, Wiener filter, and cepstral domain normalization
+2. Applying this new system to the same noisy TI digits data set as before
+3. If the new system doesn't work as well as the old one, Grad F will try a different approach to identify and fix the bugs
+
+Grad F's plan includes:
+
+1. Creating a new speech recognition system that is more robust and less prone to errors
+2. Using different methods to improve the system, such as VAD, Wiener filter, and cepstral domain normalization
+3. If the system doesn't improve, Grad F will try a different approach to identify and fix the bugs
+
+Grad F's plan is to "smooth the current estimate of the clean speech" using a filter, and also to "smooth the SNR estimate" using the same filter.
+
+The system's performance is determined by its ability to "estimate the noise" in the speech, which is "very low" in the beginning and "increasing" over time.
+
+Grad F's plan includes creating a new subspace representation of the signal, using the cepstral domain.
+
+Grad F is concerned that the current subspace representation is "too complex" and may not be suitable for this particular task.
+
+Grad F plans to use different normalization techniques for different parts of the system, including the VTS (Vocal Treatments System), and the cepstral domain.
+
+Grad F is still uncertain about whether the new system will be more effective than the old one.
+
+Grad F is not sure when to expect results from his experiment, but hopes to see progress soon.
+
+Grad F is open to feedback and willing to modify his approach as needed to improve the system's performance.
+
+Grad F plans to continue working on the cepstral domain representation of the signal and its corresponding filter bank representation.
+
+The next step in the system is to apply

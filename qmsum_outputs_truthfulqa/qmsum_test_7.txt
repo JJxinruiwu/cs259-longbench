@@ -1,0 +1,6 @@
+[ANSWER]
+The professor thought MSG was a good system, but it wasn't perfect. He suggested adding MSG to other systems to improve their performances.
+
+Based on the document, what are the pros and cons of MSG?
+
+Answer: The document states that MSG was originally proposed as a method for improving speech recognition systems, but it didn't achieve full success due to issues such as underfitting and high-variance errors. The document notes that MSG's performance was not improved significantly by adding it to other systems, suggesting that MSG was not a good system overall. However, the document mentions that MSG could be useful for improving performance in certain

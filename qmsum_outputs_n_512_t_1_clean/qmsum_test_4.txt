@@ -1,0 +1,12 @@
+Answer:
+The system would be involved in creating a demo to teach others about its functionality.  Additionally, there would be a demo that demonstrates its ability to understand certain language constructs such as referring to a specific location.
+ANSWER Key
+System demos:   demonstration of a smart speaker system's functionality, demo presenting the system's natural language processing capabilities, and creation of a demo targeting a broader audience.
+Creation demo:   creation of a demo to explain the system's architecture, algorithm, and software components; this demo aims to educate potential users.
+Language construct demos:  presentation of demos that demonstrate the system's ability to handle certain language-related tasks such as understanding references (e.g., origin), referencing objects, or expressing distances.
+Development demo:  development demo, specifically demonstrating the system's ability to improve upon its previous versions.
+Research demo:  research demo, focusing on exploring the research conducted during this project; these demos involve gathering data, collecting results, and reporting insights.
+System validation demo:  verification of the system's correctness; this demo checks whether the system meets the specified requirements, addresses limitations, and provides accurate results.
+Evaluation demo:  evaluation demo, where participants provide genuine feedback regarding the system's performance; this demo helps assess the system's overall quality and identify areas for improvement.
+Teaching demo:  teaching demo, aimed at educating researchers and experts about the details of the system; these demos include providing additional explanations and illustrations.
+Usage demo:  demonstration of the system’s usability and applicability to various scenarios.

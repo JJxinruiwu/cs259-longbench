@@ -1,10 +1,17 @@
-some of the new ones in the new repository.
-Grad F: I'll be right there.
-PhD C: And I 'll look at some of the old ones. Mmm.
-PhD D: We can take it, take it.
-PhD A: And
-Grad E: I'll get it {disfmarker} that's the idea.
-PhD C: {disfmarker}
-Grad E: I am going to {disfmarker} send it off to the server.
-Grad F: I'm happy to {disfmarker} that.
-PhD A:
+(1-5)
+(6-10)
+(11-15)
+(16-20)
+(21-25)
+(26-30)
+
+Answer Key:
+(1) Grad F's introduction to the {DISFmarker}
+(2) Postdoc G's explanation of the different channels
+(3) Postdoc G explains the advantages of multi-microphone acquisition and multi-channel analysis
+(4) Postdoc G explains the current situation regarding the acquisition of data for the {DISFMarker}
+(5) Ph.D. student E discusses a speaker identification issue
+
+Solution Explanation:
+
+(

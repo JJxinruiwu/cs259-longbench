@@ -1,6 +1,4 @@
-type of certain construction, especially for those constructions which have a {pause} {disfmarker} well, so this new notation {disfmarker}
-Grad F: Right.
-Professor C: Yeah. Right.
-Grad E: But uh, this change is what the big change in the way we do things now, right?
-Grad F: That's right. So, um, I think we're going to stick with " designates " for the {disfmarker} the meaning type, even if {pause} it is a {disfmarker} bit different.
-Grad E
+A) the speaker's meaning is determined by the context, B) the sentence can be segmented into smaller units based on grammatical structure, C) the meaning is composed of a combination of different components including words, phrases, and clauses.
+The correct answer is B) the sentence can be segmented into smaller units based on grammatical structure. 
+
+ANSWER: B

@@ -1,11 +1,10 @@
-#!/usr/bin/env python3
 import os
 import re
 from datasets import load_dataset
 import evaluate
 
 def load_references():
-    ds = load_dataset("zai-org/LongBench", "qmsum", split="test")
+    ds = load_dataset("zai-org/LongBench", "qmsum", split="test", trust_remote_code=True)
     ref_map = {}
     for i, rec in enumerate(ds):
         ans = rec["answers"]

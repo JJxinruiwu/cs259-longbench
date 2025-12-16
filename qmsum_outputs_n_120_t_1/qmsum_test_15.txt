@@ -1,5 +1,5 @@
-did it for the training set only. Because you only did the training set {disfmarker} on TIMIT, which is more like a speech processing tool, and then you tested it on Meeting Recorder. So, in the test, you were just testing it on some different data, not training it.
-Grad E: Oh.
-PhD A: Right. So if you change the training data, for the Aurora, you still need to do the test {pause} on the same data to avoid the effect. Right?
-Grad E: Uh - huh. Yeah.
-Grad F: Mm
+He felt like they were {disfmarker} as {vocalsound} bad. 
+
+That's not accurate, as he actually thought they were {disfmarker} great! He was excited about the potential for improving the {disfmarker} the SRI system.
+
+Regarding echoes and reverberation, he liked the fact that they were removed using a specific procedure involving channel adaptation, such as adjusting the gains and attenuations of individual channels based on the perceived echo locations.

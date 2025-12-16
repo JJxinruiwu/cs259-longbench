@@ -1,8 +1,14 @@
-some small microphones on it and it can hear you. And it's also got a little bit of sensors that can detect that you're wearing a smartwatch or something.
-Industrial Designer: {vocalsound} Yeah.
-Marketing: And we can have some special buttons on it that can {disfmarker} it like the phone.
-User Interface: We can make a remote control {disfmarker} for this baby's room.
-Marketing: {vocalsound}
-Industrial Designer: Yeeeah.
-Project Manager: Mm-hmm, great.
-Marketing: {vocals
+* A remote control * The Internet 
+* Personalized remote control *
+* Users needing assistance *
+
+ANSWER]
+C) Personalized remote control 
+
+The group discussed the possibility of speech recognition for personalization, such as:
+"The user will just be able to say 'ok, I'm watching [channel]', 'ok, I'm listening'..."
+
+They discussed the potential applications of speech recognition, including:
+"It's possible to build a remote control that responds to voice commands."
+
+However, they didn't discuss "users needing assistance".

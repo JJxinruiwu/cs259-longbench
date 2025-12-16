@@ -1,0 +1,15 @@
+(Answer)
+Semantic specification was concluded on constructing the final semantic specification.
+
+What did Professor C propose to do with the constructed semantic specification?
+Based on the doc, Professor C proposed to:
+
+1) Separate the problem of semantic specification into smaller steps and focus on getting it right gradually. 
+
+2) Focus on getting it right first before tackling more complex issues like multiple inheritance.
+
+3) Work on the construction of the semantic specification itself, rather than trying to solve more complex issues like multiple inheritance. 
+
+4) Develop a framework that allows for flexible instantiation of the constructed semantic specification in each case.
+
+So in summary, Professor C proposed to separate the

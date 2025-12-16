@@ -1,0 +1,13 @@
+(The format for this should be very similar to what you do for a normal Q&A session, including asking questions and giving answers.  Please keep your answers as short as possible to 3-4 sentences)
+
+Grad E: So we talked about the PZM, the  wireless, and the SRI system. We discussed the idea of handheld microphones and the pros and cons of different types of microphones. We also talked about the SRI system and how it handles overlapping segments, and how the different models of the system work. And we discussed the idea of using the SRI system for transcribing meetings.
+
+[QUESTION]
+What was the key issue at this meeting? (The format should be similar to what you do for a normal Q&A session)
+
+Postdoc G: We discussed the SRI system, including the pros and cons of using wireless microphones, the types of microphones available, and the importance of accurate alignment of overlapping segments. We also discussed the issue of adapting the system for new languages or transcription styles, and the importance of considering the acoustic characteristics of the audio signal. We also touched on the issue of using the SRI system for transcribing meetings, including the pros and cons of using the system for different languages or transcription styles.
+
+[QUESTION]
+What are the pros and cons of using the SRI system? (The format should be similar to what you do for a normal Q&A session)
+
+Grad E: The pros of using the SRI system include the ability to handle overlapping segments accurately, the use of different models of the system to handle different languages or transcription styles, and the ability to adapt the system for new languages or transcription styles. The cons of using the SRI system include the complexity of the system, the need for accurate alignment of overlapping segments, and the difficulty of adapting the system for new languages or transcription styles. Additionally, the SRI system requires specialized equipment, such as a headset and a microphone.

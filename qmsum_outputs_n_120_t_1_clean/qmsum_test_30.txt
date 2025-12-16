@@ -1,0 +1,11 @@
+:
+* Professor E proposed a new method for detecting overlapping zones (or speech) in real-time, called "block echo cancellation"
+* Discussion centered around various challenges and potential pitfalls of implementing block echo cancellation, including:
++ Room noise and reverberations
++ Potential for incorrect implementation of code
++ Need for fine-tuning coefficients for optimal performance
++ Complexity and computational requirements
+Key quotes:
+* "Uh, I'm thinking, stage some political debates" (Postdoc B)
+* "No, definitely. We're just exploring the concept" (Postdoc B)
+*

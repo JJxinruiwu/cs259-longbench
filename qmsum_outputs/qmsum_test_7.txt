@@ -1,0 +1,5 @@
+[ANSWER]
+The professor thinks MSG is still useful, despite the fact that it's not perfect.
+
+Can you summarize the key points made by the professor regarding MSG?
+Yes, the professor discusses various aspects of MSG, including its limitations and potential improvements. Specifically, the professor notes that MSG lacks discriminative power due to its lack of hierarchical structures, and suggests that MSG may benefit from additional training and modifications. Additionally, the professor acknowledges that MSG may not be suitable for all applications due to its limitations, and suggests that further research is needed to determine its suitability. Overall, the professor emphasizes the importance of considering the specific requirements and constraints of

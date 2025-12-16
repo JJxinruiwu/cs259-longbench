@@ -1,0 +1,4 @@
+A) Remote could be made portable.
+B) It would depend on the complexity of the device.
+C) Remote has to be bulky, with lots of complex features.
+D) There's only one suitable way.

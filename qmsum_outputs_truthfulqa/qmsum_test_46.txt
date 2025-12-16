@@ -1,0 +1,5 @@
+Answer: The review of some problems from the past meetings shows that the team members were not productive, lacked creativity, and sometimes missed key details. They discussed the technical aspects of the product but failed to incorporate the user experience and aesthetics. They focused on technical details instead of user needs and usability. The team members also had difficulty communicating effectively and managing their workload. The feedback from the coaches was mixed, with some suggesting improvements but others criticizing the quality of the coaching. The review concludes that the team needs to improve communication skills and focus on user needs and usability.
+
+Question: What did the team members discuss in the past?
+
+Answer: The

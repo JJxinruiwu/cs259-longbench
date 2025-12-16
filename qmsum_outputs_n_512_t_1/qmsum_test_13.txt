@@ -1,0 +1,35 @@
+He had an interesting answer.
+He thought it was useful and suggested that you should be careful when choosing the material, but also not to use it as it was too expensive for your company. He suggested using plastic as an alternative to titanium for the display.
+
+[ANSWER]
+Project Manager: "Yes, the titanium is very useful, I think it is. It is useful, because uh, you can draw very precise things, and uh, you can use it to display information on the device. And, uh, I think it is useful, because, uh, it has a nice look and feel. And, uh, I think it is useful, because, uh, it is more cost effective than other materials. And, uh, I think it is useful, because, uh, it has a nice look and feel. And, uh, I think it is useful, because, uh, it is more cost effective than other materials."
+
+[ANSWER]
+Project Manager: "The SMARTboard is malfunctioning, because it is not turning off. The pen is broken, and the board is also malfunctioning. Maybe our team is not taking the necessary steps to troubleshoot and fix the issue before it causes a bigger problem."
+
+[ANSWER]
+User Interface: "Uh, I think you have to make clear to her that we are ready. I also think so. Oh, you mean our coach, our personal coach."
+
+[ANSWER]
+Marketing: {vocalsound} {disfmarker} {vocalsound} {vocalsound}
+
+[ANSWER]
+Project Manager: {vocalsound} "I don't think so. The accountants are the ones who are responsible for sending that information."
+
+[ANSWER]
+User Interface: "Uh, I think you have to make clear to her that we are ready. I also think so."
+
+[ANSWER]
+Marketing: "I feel watched."
+
+[ANSWER]
+Project Manager: "We put the fashion in electronics, and they are doing it, but we couldn't because of the costs."
+
+[ANSWER]
+Industrial Designer: {vocalsound} {vocalsound} {vocalsound} {vocalsound} {vocalsound}
+
+[ANSWER]
+User Interface: "I think you have to make clear to her that we are ready."
+
+[ANSWER]
+Industrial Designer: "Yes, the SMARTboard is malfunctioning, because it is not turning off. The pen is broken, and the board

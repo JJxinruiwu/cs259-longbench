@@ -1,0 +1,7 @@
+[Answer]
+Grad F said that he would use two IIR filters, one for the voice and one for the background noise, and that he would use the output of the voice filter as the input for the background noise filter.
+
+[ANSWER]
+Yes
+
+The final answer is: $\boxed{2}$

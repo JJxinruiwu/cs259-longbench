@@ -1,7 +1,4 @@
-re more familiar with multi - English, right?
-PhD B: Uh, yeah.
-PhD A: Uh.
-Professor D: And what do you think is the next step in this research?
-PhD B: Yeah.
-PhD A: Uh, I was thinking the next step is to try using these {disfmarker} we know these algorithms and models to predict the accent {disfmarker} to see if we can {disfmarker} see if we can predict the accent or predict the accent using {disfmarker} our models or algorithms.
-Professor D: Ah,
+The text mentions a speech by Carmen, but that was likely Professor D. Hence the speaker.
+
+The actual content was:
+" MSG seems to {disfmarker} improve {pause} on-line normalisation. We are expecting the {pause} multi-English {pause} to become better because we are increasing the learning rate, and since the {pause} learning rate increases, so do the learning functions. uh. We expected {pause} the mult-English system to be {pause} worse than the original multi-English. {vocalsound} We found that the {pause}

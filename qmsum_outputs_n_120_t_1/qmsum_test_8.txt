@@ -1,6 +1,8 @@
-, I'm not sure if I understand how much more expensive that would be. Um but our finance team thinks that it's not a problem. {vocalsound}
-User Interface: Um yeah.
-Project Manager: {vocalsound}
-Industrial Designer: {vocalsound} This is the uh what the rough estimates of the production costs were, uh and they showed that the total cost would be approximately six and a half hundred thousand dollars. {vocalsound}
-Marketing: {vocalsound} Is that a lot of money to raise money?
-Project Manager: {
+(V.O.)
+
+User Interface: When marketing expressed dissatisfaction with the buttons, the Industrial Designer realized that he needed to explain how the buttons were eliminated to facilitate the user interface.
+Marketing: We need buttons! Like why? (V.O.)
+The industrial designer added several explanations for the removal of buttons:
+- As a new design concept, it’s unlikely that we’ll ever have a button-heavy design. However,
+- The idea of having multiple buttons could lead to confusion among users.
+- By eliminating buttons, you can prevent unnecessary features being used 90% of the time; instead, you want the

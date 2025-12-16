@@ -1,0 +1,4 @@
+The post-doc's (E, G) primary concern was to integrate the phonetic recognition system of SWV into a more comprehensive system for transcribing spoken dialects. However, their interactions with others, including Professors B and C, revealed that integrating multiple systems into a single system would be challenging.
+The integration of multiple systems presented several challenges:
+* Integrating different systems' databases: SWV needed to match its existing database with another phonetic system's database to ensure compatibility.
+* Aligning the databases: SWV's dataset needed to be matched against the other system's database to identify

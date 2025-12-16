@@ -1,0 +1,24 @@
+[VOCALSOUND]
+
+"I think that we should stick with the touch screen in favour of voice recognition because it's simpler, we already have the technology in-house, it's ready to go, it's packaged, it's rubber. I like that idea a lot. That seems to be selling well and we can incorporate menu things. They're really versatile and everybody's already got them to some extent on the remotes they already own, so it's not like we're dealing with everybody relearning things." - Industrial Designer
+"I was just gonna step on to uh {vocalsound} {vocalsound}, {vocalsound} Well, it wasn't in the way but {disfmarker} yeah, whatever. I wasn't?" - User Interface
+
+"I think to a certain extent we have to stick with uh kind of uh a little bit traditional in terms of the buttons and then and then make our unique feature our casing and what not and our voice command." - Marketing
+
+"What are our broad constraints before we deve design a prototype? {vocalsound}" - Project Manager
+
+"Using um {vocalsound} prototype building materials um {vocalsound}." - User Interface
+
+"Specific instructions will be sent to you by your coaches as well." - Project Manager
+
+"What to start with for now, is that alright, you guys feel clear about this? {vocalsound}" - Project Manager
+
+"I guess we'll just hit the bricks. Thanks guys." - Project Manager
+
+"I'm thinking that's uh definitely a good idea and I also think that we could probably come up with some sort of a cheaper {vocalsound} uh means to to go about this kind of production, my my team in the uh {disfmarker} guy down the hall. Sounds good." - Industrial Designer
+
+"No I mean, you just c you could just put it {disfmarker} literally put it on the {gap} thing, it'd be easy to have a compartment in there. Or you know, a b a b a a series of three or four buttons with a menu button and then a side and s up and down type of thing, like on um {disfmarker} like on a D_V_D_ player. You know you see the modern D_V_D_ players'll just have um a menu button on the side and then four buttons around them." - Industrial Designer
+
+"That sounds good." - User Interface
+
+[KEY: {v

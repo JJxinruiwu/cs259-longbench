@@ -4,16 +4,46 @@ Tool for running LongBench QMSum evaluations with HuggingFace or GGUF models, in
 
 ## Installation
 
+### Basic Installation
+
+For CUDA 12.6 (RTX 3090 and compatible GPUs):
 ```bash
-pip install transformers torch datasets evaluate
+# Install PyTorch with CUDA 12.1 support (compatible with CUDA 12.6)
+# Note: torchaudio not available for Python 3.13, but not needed for this project
+pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+
+# Install other dependencies
+pip install transformers datasets evaluate
 ```
 
-For GGUF models:
+Or install from requirements.txt:
 ```bash
-pip install llama-cpp-python
-# With CUDA: export CMAKE_ARGS="-DGGML_CUDA=on" && pip install llama-cpp-python
-# With Metal: pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/metal
+pip install -r requirements.txt
+# Note: For PyTorch with CUDA, use the command above instead
 ```
+
+### GGUF Models
+
+For GGUF models with CUDA support (RTX 3090):
+```bash
+# With CUDA support for RTX 3090
+CMAKE_ARGS="-DGGML_CUDA=on" pip install llama-cpp-python
+```
+
+For CPU-only or Metal (macOS):
+```bash
+# CPU only
+pip install llama-cpp-python
+
+# Metal (macOS)
+pip install llama-cpp-python --extra-index-url https://abetlen.github.io/llama-cpp-python/whl/metal
+```
+
+### GPU Requirements
+
+- **RTX 3090**: 24GB VRAM, CUDA Compute Capability 8.6
+- **CUDA Version**: 12.6 (driver supports CUDA 12.6)
+- **PyTorch**: Use CUDA 12.1 build (compatible with CUDA 12.6)
 
 ## Usage
 

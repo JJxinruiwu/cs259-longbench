@@ -1,5 +1,6 @@
-C: Uh. We can do this part.
-PhD C: {vocalsound} Yeah.
-Grad E: So like, how {disfmarker} would we do this to get to clean channels, uh {vocalsound} uh that uh is what they wanted.
-PhD C: Uh.
-Grad E: Well. We could do that with the {vocalsound} uh uh the echoc cancelling part and {vocalsound} uh the {vocalsound} and we could use the {vocalsound} uh uh the gain settings
+He mentioned that he wanted to look at the distribution of the models and determine whether to use six or nine states. However, when he took this analysis further, he realized that six was still too complex.
+
+PHYSICS
+One person was given an auditory device that converted his voice into electrical signals. When listened to as a signal he could hear his own voice. The person's hearing loss in his left ear was diagnosed as sensorineural hearing loss (SNHL), and he wore a receiver in his head. 
+
+An audio recording of SNHL was obtained through MRI scans. It showed several regions

@@ -1,0 +1,16 @@
+A. He thought buttons were unnecessary.
+B. He thought buttons were essential for simplicity.
+C. He thought buttons were necessary for functionality.
+D. He thought buttons were important for aesthetics.
+
+[B]{gap}{/B}
+
+Based on the conversation, what did the Marketing think of buttons when discussing the functional design of the remote control?
+
+The Marketing thought buttons were necessary for simplicity.
+
+So the correct answer is B. He thought buttons were essential for simplicity. 
+
+[A] is incorrect because the text states that the Marketing thinks buttons were essential for simplicity.
+
+[C] is also incorrect because the text states that the Marketing thinks buttons were necessary

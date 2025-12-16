@@ -1,6 +1,14 @@
-torch>=2.0.0
+# PyTorch with CUDA 12.1 support (compatible with CUDA 12.6)
+# Install with: pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+# Note: torchaudio not available for Python 3.13, but not needed for this project
+torch>=2.1.0
 transformers>=4.30.0
 datasets>=2.0.0
 evaluate>=0.4.0
-llama-cpp-python>=0.2.0
+accelerate
+# llama-cpp-python with CUDA support for RTX 3090 (OPTIONAL - only needed for GGUF models)
+# Note: Building from source on Python 3.13 may fail due to conda compiler compatibility issues
+# If you need GGUF support, try: export PATH=/usr/local/cuda/bin:$PATH && export CUDACXX=/usr/local/cuda/bin/nvcc && CMAKE_ARGS='-DGGML_CUDA=on' pip install llama-cpp-python
+# For now, HuggingFace models work without this package
+# llama-cpp-python>=0.2.0
 

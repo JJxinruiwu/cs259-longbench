@@ -1,0 +1,7 @@
+transcript.
+The meeting was about developing a new communication system, including recognizing spoken words. The system's strengths include using existing libraries (MLP) and leveraging acoustic modeling techniques. The attendees discussed various aspects of the project, including:
+1. Alignments between the speaker and the intended listener.
+2. Error rates and the impact of adding additional data sources.
+3. Feature extraction and processing.
+4. Network architectures and convergence analysis.
+The participants concluded by highlighting the importance of collaboration, especially considering the complexity and time commitment required to develop such a sophisticated system. The conversation ended abruptly, suggesting a sudden departure

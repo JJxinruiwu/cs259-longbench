@@ -1,8 +1,4 @@
-six is the way to go. {vocalsound}
-Industrial Designer: {vocalsound} Yeah.
-User Interface: {vocalsound} Yeah, yeah.
-Marketing: We're all {vocalsound} we're all happy with it, we're all {vocalsound} we're all {vocalsound}.
-Industrial Designer: {vocalsound} That's a good note.
-User Interface: So let's give it a six and a seven, then.
-Project Manager: {vocalsound} Right.
-Industrial Designer: Yeah
+A) He genuinely believed marketing was wrong and wanted to make him see his point of view.
+B) He agreed because he felt he needed to balance his perspective, giving Mark clear indication on their findings.
+C)  He simply agreed, thinking that marketing would give a favorable review.
+D) Marketing tried to manipulate him, and so the Project Manager followed suit.

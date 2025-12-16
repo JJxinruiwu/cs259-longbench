@@ -1,7 +1,4 @@
-alf and Tilman have done something that's quite good. And the other one and I think this is more complicated and difficult.
-Grad B: Okay. Mm - hmm.
-Grad E: And I mean. It's an incredible thing. Because they got it so close to the end, and they had to do so many, uh many compromises along the way. And, uh I think we're all right to say that it was actually better than we thought it would be.
-Grad B: Mm - hmm.
-Professor C: Yeah.
-Grad D: Yeah.
-Grad E
+The system would be providing the interface for users to interact with the system, so I would expect the system to provide a menu driven system where the users could choose options and receive responses.
+The system would need to be able to perform complex tasks such as writing documents, answering questions, and generating text. I would anticipate that the system would include features such as syntax highlighting, auto-completion, and spell checking.
+
+The system would need to handle a variety of inputs such as natural language, emails, and plain text. I would anticipate that the system would include features such as entity recognition, sentiment analysis

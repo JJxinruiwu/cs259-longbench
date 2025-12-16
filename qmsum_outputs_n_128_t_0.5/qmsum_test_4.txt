@@ -1,0 +1,10 @@
+(Answer: The system would be involved in the following demos)
+A) The German SmartKom project
+B) The development of the belief net
+C) The application of the belief net to a specific problem
+D) The creation of a prototype
+
+[ANSWER]
+D) The creation of a prototype
+
+The system would be involved in creating a prototype, as stated in the introduction. The system would be used to create prototypes of various systems, including the German SmartKom project, the belief net, and others. The system's purpose is to provide a framework for prototyping and testing ideas, rather than to perform the actual prot

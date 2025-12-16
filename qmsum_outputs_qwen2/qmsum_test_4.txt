@@ -1,0 +1,7 @@
+Based on the document, the system would be involved in several demos:
+
+1) The system would be involved in a " belief - net " (belief network) demonstration. This would involve designing and implementing a belief network to capture semantic relationships among words in a natural language processing system.
+
+2) The system would be involved in a " formalization " (formalization) demonstration. This would involve developing a formal specification of the system's capabilities and behavior, including rules for generating human-readable output.
+
+3) The system would be involved in a " translation " (translation) demonstration. This would involve translating the system's outputs into a target

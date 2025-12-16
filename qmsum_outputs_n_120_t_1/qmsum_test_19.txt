@@ -1,8 +1,15 @@
-were talking about the {disfmarker} in that context.
-Grad G: So he did {pause}
-Professor E: Yeah, just because I {disfmarker} so it was, {disfmarker} I mean, the {disfmarker} that we would say " ahead of the game " was " we have built - in downsampling " and that's {disfmarker}
-Postdoc B: Uh - huh.
-Grad G: Mm - hmm.
-Postdoc B: It was just
-Professor E: Yeah.
-PhD C: We are {disfmarker
+(1.6 KB)
+
+Phrases:
+
+* [vocalsound] : (multiple)
+* {disfmarker} : multiple
+
+Discussion:
+The main discussion revolves around the topic of speech overlap, specifically what Professor E is referring to as "overlap zones" or "speech overlaps". He explains that these are regions of a recording where speech overlaps with non-speech sounds, and that he aims to determine which sounds are present.
+
+He discusses his approach to detecting speech overlaps, including:
+
+1. Looking at transcripts of speeches for clues.
+2. Checking for gaps in the data.
+3.

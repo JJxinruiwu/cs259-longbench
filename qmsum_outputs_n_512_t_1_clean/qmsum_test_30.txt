@@ -1,0 +1,14 @@
+* Data analysis
++ Analyzing 1,000 acoustic events (overlaps) in 12-hour transcripts
++ Using energy detection and noise filtering
++ Investigating noise sources
+* Echo cancellation
++ Understanding echoes
++ Methods for removing echoes
++ Practical limitations
+* Meetings at ICSI
++ Lunch meetings
++ Additional meetings (possible scenarios)
++ Potential solutions (e.g., catering lunches, providing free equipment)
+* Audio/video acquisition
+These were the main discussion points.

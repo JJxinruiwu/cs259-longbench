@@ -1,0 +1,18 @@
+1. {Disfmarker} : “you’re talking in English, but you’re being recorded as non-native speaker’s”
+2. {Disfmarker} : “there’s usually an opportunity to establish contact between participants in terms of prior familiarity or mutual acquaintance”
+3. {Disfmarker} : “no indication of overlapping zone or overlap with previous utterances exists”
+4. {Disfmarker} : “typically the speaker overlaps with himself”, whereas if it is with another speaker, they both typically overlap with themselves”
+5. {Disfmarker} : “an example of “overlapping zone” is that in a 15-second time window the speaker's mouth appears to be open, allowing multiple objects to vibrate”
+6. {Disfmarker} : “You can also perform techniques such as energy detection on close-talk mikes to reduce the effects of echoes”
+7. {Disfmarker} : “It is also possible to get extra data by having people attend seminars.”
+8. {Disfmarker} : “People are getting more active.”
+9. {Disfmarker} : “We have a lot of potential for exploring different topics at conferences and workshops.”
+Answer key:
+1. 4.
+2. 6.
+3. 2.
+4. 6.
+5. 3.
+6. 8.
+7. 9.
+8. 2.

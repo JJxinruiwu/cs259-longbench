@@ -1,0 +1,212 @@
+{
+  "timestamp": "2025-12-03T17:35:06.904711",
+  "model_name": "meta-llama/Llama-3.2-1B-Instruct",
+  "max_new_tokens": 128,
+  "temperature": 0.5,
+  "rougeL": 0.14774840352766538,
+  "rouge1": 0.225151345319251,
+  "rouge2": 0.04512975426364506,
+  "rougeLsum": 0.15606173670385792,
+  "per_sample_scores": [
+    {
+      "sample_id": 0,
+      "rougeL": 0.2191780821917808
+    },
+    {
+      "sample_id": 1,
+      "rougeL": 0.16410256410256413
+    },
+    {
+      "sample_id": 10,
+      "rougeL": 0.19277108433734938
+    },
+    {
+      "sample_id": 11,
+      "rougeL": 0.17258883248730963
+    },
+    {
+      "sample_id": 12,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 13,
+      "rougeL": 0.058252427184466014
+    },
+    {
+      "sample_id": 14,
+      "rougeL": 0.14213197969543148
+    },
+    {
+      "sample_id": 15,
+      "rougeL": 0.15492957746478872
+    },
+    {
+      "sample_id": 16,
+      "rougeL": 0.17733990147783252
+    },
+    {
+      "sample_id": 17,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 18,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 19,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 2,
+      "rougeL": 0.14364640883977903
+    },
+    {
+      "sample_id": 20,
+      "rougeL": 0.13953488372093023
+    },
+    {
+      "sample_id": 21,
+      "rougeL": 0.15873015873015872
+    },
+    {
+      "sample_id": 22,
+      "rougeL": 0.1226993865030675
+    },
+    {
+      "sample_id": 23,
+      "rougeL": 0.1492537313432836
+    },
+    {
+      "sample_id": 24,
+      "rougeL": 0.13714285714285712
+    },
+    {
+      "sample_id": 25,
+      "rougeL": 0.21052631578947367
+    },
+    {
+      "sample_id": 26,
+      "rougeL": 0.128
+    },
+    {
+      "sample_id": 27,
+      "rougeL": 0.12698412698412698
+    },
+    {
+      "sample_id": 28,
+      "rougeL": 0.15920398009950248
+    },
+    {
+      "sample_id": 29,
+      "rougeL": 0.17218543046357618
+    },
+    {
+      "sample_id": 3,
+      "rougeL": 0.1358024691358025
+    },
+    {
+      "sample_id": 30,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 31,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 32,
+      "rougeL": 0.4375
+    },
+    {
+      "sample_id": 33,
+      "rougeL": 0.19251336898395724
+    },
+    {
+      "sample_id": 34,
+      "rougeL": 0.24203821656050953
+    },
+    {
+      "sample_id": 35,
+      "rougeL": 0.16494845360824742
+    },
+    {
+      "sample_id": 36,
+      "rougeL": 0.17610062893081763
+    },
+    {
+      "sample_id": 37,
+      "rougeL": 0.14444444444444443
+    },
+    {
+      "sample_id": 38,
+      "rougeL": 0.14388489208633093
+    },
+    {
+      "sample_id": 39,
+      "rougeL": 0.13888888888888887
+    },
+    {
+      "sample_id": 4,
+      "rougeL": 0.1475409836065574
+    },
+    {
+      "sample_id": 40,
+      "rougeL": 0.19540229885057472
+    },
+    {
+      "sample_id": 41,
+      "rougeL": 0.2912621359223301
+    },
+    {
+      "sample_id": 42,
+      "rougeL": 0.20100502512562812
+    },
+    {
+      "sample_id": 43,
+      "rougeL": 0.22360248447204967
+    },
+    {
+      "sample_id": 44,
+      "rougeL": 0.1875
+    },
+    {
+      "sample_id": 45,
+      "rougeL": 0.0
+    },
+    {
+      "sample_id": 46,
+      "rougeL": 0.16483516483516483
+    },
+    {
+      "sample_id": 47,
+      "rougeL": 0.11320754716981132
+    },
+    {
+      "sample_id": 48,
+      "rougeL": 0.141025641025641
+    },
+    {
+      "sample_id": 49,
+      "rougeL": 0.1830065359477124
+    },
+    {
+      "sample_id": 5,
+      "rougeL": 0.17094017094017092
+    },
+    {
+      "sample_id": 6,
+      "rougeL": 0.21176470588235294
+    },
+    {
+      "sample_id": 7,
+      "rougeL": 0.1764705882352941
+    },
+    {
+      "sample_id": 8,
+      "rougeL": 0.17241379310344826
+    },
+    {
+      "sample_id": 9,
+      "rougeL": 0.11764705882352941
+    }
+  ]
+}

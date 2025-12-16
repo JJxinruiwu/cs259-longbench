@@ -1,0 +1,17 @@
+Based on the document, the decision regarding the microphone procedures was:
+
+1. The decision was to use two separate microphones for each participant, one for each channel.
+
+2. The decision was to use the same receiver for both microphones.
+
+3. The decision was to use a different radio for transmitting the audio signals.
+
+4. The decision was to use a different receiver for receiving the audio signals.
+
+5. The decision was to use a different transmitter for transmitting the audio signals.
+
+6. The decision was to use a different receiver for receiving the audio signals.
+
+So the main decisions were:
+
+1. Use two separate microphones for each

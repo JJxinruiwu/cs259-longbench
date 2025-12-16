@@ -1,0 +1,6 @@
+Answer: The User Interface thought that titanium was a bit more expensive than regular materials, specifically mentioning "it's expensive" and "it's more expensive" in its comments.
+
+[QUESTION]
+Can the User Interface recommend a specific color for the device?
+
+Answer: The User Interface recommended a combination of metallic silver and black for the device, noting that "the black front on it will be better for the different channel buttons" in its comment.

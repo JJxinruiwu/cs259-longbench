@@ -1,1 +1,24 @@
-were discussing some of the mundane things. It's just that we have so many people come in here and it's easy to get caught up in the details of their names and all that, and it's {disfmarker} it's just that it's not really necessary to use the names unless we actually need to. {pause} It's just that it's very easy to get confused about {disfmarker} the {disfmarker} the {disfmarker} the people we're talking to, and that's why I felt the need to say that earlier. So we have
+1. 
+2. 
+3. 
+4. 
+5. 
+
+Answer:
+ 
+Discussion Points: 
+
+1. 
+2. 
+3. 
+4. 
+
+Analysis:
+
+These discussion points summarize the key points covered in the meeting.
+
+**Key Discussion Points 1:**
+
+* Professor E started by introducing himself, highlighting his work in the field of speech recognition.
+* He discussed the main topics of his presentation, including the challenges of speech recognition and the importance of collecting high-quality datasets.
+* The group discussed how to capture overlapping zones in speech recordings, with suggestions ranging from manually labeling these

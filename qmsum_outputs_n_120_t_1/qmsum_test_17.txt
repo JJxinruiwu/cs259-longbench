@@ -1,8 +1,2 @@
-ial signalization.
-Grad A: Yeah.
-Professor B: But I don't think we had time for that.
-Grad E: Right.
-Professor B: So uh, right now, {disfmarker} right now we have to do it on the computer and {disfmarker} we've got the waveforms and we can do some stuff with it. So, um, uh, maybe we could just look at the original data instead of having to do the whole thing?
-PhD D: Mmm.
-Grad E: And, oh yeah.
-Professor B: That would be okay
+[ANSWER]
+They're concerned because he has been asked to attend the meeting, but he's mentioned earlier in the meeting that he's planning to leave, which suggests they felt responsible towards him.

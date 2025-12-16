@@ -1,0 +1,9 @@
+A. All the overlap events that occurred in the 12-minute sample were considered.
+B. Three hundred overlaps were recorded in 12 minutes.
+C. There are about 300 overlaps that are considered speech, and these are divided into three categories: two people talking, one person talking with a different noise, and the overlap zone.
+D. The amount of overlaps in 12 minutes is twelve hundred.
+E. The amount of overlaps in 12 minutes is thirty-five hundred.
+
+The correct answer is C. There are about 300 overlaps that are considered speech, and these are divided into three categories: two people talking, one person talking with a different noise, and the overlap zone.
+
+PhD A stated that, "I think {disfmarker} we need to consider the time delay, uh that is in the satellite connection or something and then there's a echo." This statement is related to the concept of block echo cancellation.

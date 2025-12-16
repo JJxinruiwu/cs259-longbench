@@ -1,0 +1,45 @@
+[ Answer ]
+
+Because they wanted the target audience to be the people who would be the most likely to buy the device. The remote control was being designed for the TV remote control, and they thought that people who watched TV would be the most likely to buy this device, as they would be the ones who had it most often. [answer: to sell and target the existing TV remote control market]
+
+[QUESTION]
+What was the main technical requirement of the device?
+
+[Answer]
+
+The main technical requirement of the device was to provide a simple action, such as volume up, down, or off. The device would require an infrared communication system to transmit the data between the device and the TV remote control. [answer: simple actions]
+
+[QUESTION]
+How would the remote control work in terms of the interaction between the remote control and the TV?
+
+[Answer]
+
+The remote control would have a basic interface, such as keys or buttons, to interact with the TV remote control. The remote control would not require speech recognition, as it was targeting users who primarily watch TV and do not use their remote controls to control other devices. [answer: basic interface]
+
+[QUESTION]
+What was the purpose of the "training" process?
+
+[Answer]
+
+The training process was used to train the speech recognition system to recognize different user commands and interactions with the remote control. The training would help the system to improve its accuracy and effectiveness in recognizing user commands. [answer: training the speech recognition system]
+
+[QUESTION]
+How expensive was the device?
+
+[Answer]
+
+The device was expected to be affordable and cost-effective, with a price of $12.00. The device was designed to be a budget-friendly option for consumers who were looking for a basic remote control to control their TV. [answer: affordable]
+
+[QUESTION]
+Should the device be equipped with a speaker?
+
+[Answer]
+
+Yes, the device should be equipped with a speaker to make it more user-friendly. The speaker would provide an auditory response when the remote control is used, allowing the user to determine if the remote control is working correctly. [answer: yes]
+
+[QUESTION]
+Would the device require automatic on/off control?
+
+[Answer]
+
+No, the device did not require automatic on/off control. The remote control would only be controlled by the TV, and the user would need to switch it on and off manually. [answer: no]

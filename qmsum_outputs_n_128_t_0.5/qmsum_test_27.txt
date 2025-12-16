@@ -1,0 +1,19 @@
+ANSWER]
+The conclusion is that the semantic specification includes:
+- a {disfmarker} a mental space (mental space)
+- a {disfmarker} a set of focused elements (focused elements)
+- a {disfmarker} a set of possible meanings (possible meanings)
+
+and, "we'll get to the specifics of how the mental space works" in the next stage.
+
+[QUESTION]
+Who was the author of the paper?
+
+ANSWER]
+Robert Fauconnier
+
+[QUESTION]
+How did the author propose to proceed on the topic of semantic specification?
+
+ANSWER]
+To separate the problem of defining the semantic

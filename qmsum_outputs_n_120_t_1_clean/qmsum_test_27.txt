@@ -1,0 +1,10 @@
+(Grad B)
+Answer to be sent via [email address]
+Relevant:
+Grad B: "We're considering how to implement something"
+Grad F: "that involves {disfmarker} a way of representing, uh, entities and other components within the discourse".
+Grad E: "and how the notation, uh, influences how we deal with those concepts"
+Answer for Grad B:
+To clarify semantic specification and the concept of form-constraint in the context of this meeting.
+The topic was the integration of linguistic concepts and tools, including cognitive science perspectives.
+There was a discussion about the

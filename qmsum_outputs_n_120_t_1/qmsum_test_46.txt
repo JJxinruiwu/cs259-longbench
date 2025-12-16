@@ -1,7 +1,14 @@
-'m being honest.
-Project Manager: Not. {vocalsound}
-Marketing: I told you this is a {disfmarker} it's going to work out.
-User Interface: {vocalsound}
-Industrial Designer: Yeah.
-Marketing: Right.
-Project Manager: I just want to get out of here. {vocalsound} Let's move on to the {disfmarker} next part of this project, and uh, it's not going to be {disfmarker} as easy as we thought. {vocalsound} It's going to take more
+What are the issues that arose in previous discussions?  
+
+The review includes:
+* Problems related to teamwork, communication, and understanding of project objectives
+* Issues with team cohesion and conflicts
+* Disparities in opinions regarding changes to the project's timeline and scope
+* Concerns about project budget and quality
+* Technical difficulties with design and development work
+
+Reviewers, John and Mary, share their insights:
+
+"Teamwork was a challenge; we disagreed about timelines, milestones, and key activities. I think everyone wants the same things but struggles to agree."
+
+Key issues include the disagreements over:

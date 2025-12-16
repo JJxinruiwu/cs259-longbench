@@ -1,0 +1,12 @@
+Answer: The marketing thought they should aim at young people because they believe that younger people are more likely to be interested in new devices and have a higher likelihood of making a purchase decision based on their initial impressions and experiences.
+
+[QUESTION]
+What are the main functions that the marketing team wants to achieve?
+
+Answer: The marketing team wants to achieve the following main functions:
+
+  * Provide simple desires into simple actions
+  * Make a click, similar to a touch screen
+  * Ask for power and volume
+  * Include two nice features into the device (power on and off, volume)
+  * Give users simple desires to find

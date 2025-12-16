@@ -1,0 +1,17 @@
+How many euros were allocated in the project budget?
+
+[A] 2,000 euros
+[B] 5,000 euros
+[C] 10,000 euros
+[D] 12,000 euros
+
+[B] 5,000 euros
+
+The project manager stated that the total project budget is 5,000 euros, and the team had 1 euro left over. The question asks how many euros were allocated in the project budget. Based on the project manager's statement, 5,000 euros were allocated in the project budget, and 1 euro was left over. Therefore, the correct answer is (B) 5,000 euros.
+
+The other options are incorrect because:
+
+[C] 10,000 euros is too high
+[D] 12,000 euros is too high
+
+The correct answer is (B) 5,000 euros.

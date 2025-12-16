@@ -1,0 +1,12 @@
+INDUSTRIAL DESIGNER:
+We need to come up with design concepts for a universal remote control.
+USER INTERFACE:
+We want the remote control to have only three basic functions, like power, volume, and switching on/off.
+PROJECT MANAGER:
+The ideal remote control will cost $12-15 and be compact, with minimal complexity.
+MARKETING EXPERT:
+Automatically on/off switch, and optional voice recognition and gesture recognition, which would solve problems of frequent battery replacement.
+USER INTERFACE:
+Optional speaker integration, like "Hello, phone" notification.
+PROJECT MANAGER:
+To achieve the desired

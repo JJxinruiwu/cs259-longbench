@@ -1,0 +1,6 @@
+Answer: The professor thought that echoes and reverberation were not important, as the processing for this re-synthesis has to be restricted to trying to get it back to the original, according to some equation.
+
+[QUIZZES]
+
+Question: What are the main findings of the study?
+Answer: The study finds that the neural network is capable of recognizing speech with high accuracy, but there are limitations to its ability to distinguish between speech and non-speech tones, such as rumbling and background noise.

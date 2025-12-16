@@ -1,0 +1,5 @@
+[disfmarker]
+The decision was not to equip the new SRI researchers with electronic amplifiers or specialized condenser microphones, nor did they opt for wireless mikes. Instead, they would simply pass the sound waves through a metal plate placed on the surface of their mouths.
+The correct procedure involves placing the subject's lips in proximity to an audio capture device (as mentioned previously), however the rest of the details surrounding the exact mechanism of how the microphone transfers vibrations into electrical signals seem not to exist.
+[COMMENT]
+We were instructed not to share the specifics of the microphone design and functionality with

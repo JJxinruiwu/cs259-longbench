@@ -1,0 +1,8 @@
+[ANSWER]
+Because he realized that the evaluation criteria was based on the assumption that users would interact with the product in a certain way, and he wanted to ensure that his own team would follow the correct guidelines. He believed that if they deviated from the expected behavior, it would lead to a negative experience for the users.
+
+[KEY TAKEAWAYS]
+
+*  The project involved creating a remote control for a banana.
+*  The team used a variety of tools and technologies to create the remote control, including a whiteboard digital pen.
+*  The remote control featured multiple functions, including scrolling, muting, and voice recognition

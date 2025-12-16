@@ -1,0 +1,11 @@
+USER INTERACTION SUMMARY
+
+* The project manager decided that the design of the remote control should be a {disfmarker}
+* The project manager decided that the remote control should be adaptable with two switches
+* The project manager decided that the remote control should have a history of past actions
+* The project manager decided that the remote control should allow user recording of sequence of actions
+* The project manager decided that the remote control should support customization with a user coach or user requirements specifications
+* The project manager decided to utilize marketing expertise as the user requirement specifications or {vocalsound} M_E_
+
+ANSWER
+Design of the remote control should be an {disfmarker} - adaptable remote control that can record and save sequence of actions. The remote control will have two switches and will allow user customization with a user coach or user requirements specifications, in order to make decisions about which are important features to include or exclude in the design. The remote control will be designed with a history of past actions and will allow user recording of sequence of actions. The remote control should also be adaptable with a user coach or user requirements specifications to allow for customization based on user preferences. The remote control will utilize marketing expertise as the user requirement specifications to ensure that the final product meets the needs and expectations of the target market.

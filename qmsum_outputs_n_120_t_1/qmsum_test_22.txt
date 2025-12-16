@@ -1,8 +1,11 @@
-six was a fair score. {vocalsound} I agree.
-Marketing: I agree. So there's the evaluation of the {disfmarker} the new design.
-Industrial Designer: {vocalsound} We'll take note of the note of them, we'll put them in in a minute.
-Marketing: Okay.
-Project Manager: Test it out. {vocalsound}
-Marketing: So, do you want to make the new design {vocalsound}
-Industrial Designer: {vocalsound} I'm in.
-User Interface: {vocalsound
+What items on this list are related to financing?
+
+The following are the key topics related to financing mentioned throughout the project:
+
+1. **Costs**: 6 times (e.g., "the project costs", "$100,000").
+2. **Financing sources**:
+	* Initial investment: $50,000.
+	* Working capital funding: $200,000.
+	* Grants and subsidies: unmentioned.
+3. **Budget constraints**: Mentioned multiple times, e.g., "we had a limited budget".
+4. **Timing discussions**: Timeframes mentioned several times, e

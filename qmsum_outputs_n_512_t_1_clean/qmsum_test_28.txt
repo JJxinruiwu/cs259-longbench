@@ -1,0 +1,13 @@
+minutes.
+**Summary**
+The meeting was attended by Graduates, Dr. Thompson (presenter), Dr. Patel (Dr. Thompson's colleague), Ph.D. students, and Dr. Felton.
+1. The topic included the project on Speaker Recognition in Acoustic Systems (SRAS) using Neural Networks.
+2. The group discussed various aspects of the project including:
+* Alignment (e.g., soft targets, embedded training)
+* Hidden Unit Size (30 vs. 80)
+3. Dr. Patterson presented his observations on how SRAS benefits from using posterior features
+4. A debate emerged regarding the role of embeddings in learning representations
+**Action Items**
+* Dr. Felton to investigate possible modifications to align with the study by Dr. Patterson (e.g., incorporating pre-trained embeddings)
+* Dr. Thompson to communicate with Dr. Patterson on further alignment ideas
+* Discuss with graduate students to incorporate the insights gained from the research into their projects.

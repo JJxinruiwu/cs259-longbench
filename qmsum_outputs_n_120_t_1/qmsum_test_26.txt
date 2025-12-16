@@ -1,5 +1,0 @@
-} Yeah.
-Marketing: {vocalsound}
-Project Manager: {vocalsound} {vocalsound} {gap} Okay, um well I think this is a pretty good uh uh idea.
-Marketing: It's a good uh uh uh uh uh uh uh idea. And uh that's {gap} all for now.
-Project Manager: Yeah. The end. {vocalsound} Thank you. {vocalsound} The end. {vocalsound}

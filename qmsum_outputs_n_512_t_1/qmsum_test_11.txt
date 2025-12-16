@@ -1,0 +1,41 @@
+Sammy Benjo the market expert would like to know about this concept.
+
+[REDDOT]
+ Project Manager: {vocalsound} Mm-hmm, we have some discussion about speech recognition.
+Marketing: {vocalsound}
+User Interface: uh we can have some s simple speech recogniser on our D_S_B_ chip.
+Project Manager: {vocalsound} That's right.
+Marketing: {vocalsound} {vocalsound} It's not possible if we make it work {vocalsound} {vocalsound} like we mentioned.
+Industrial Designer: Yes, it's difficult because speech recogniser is a very complex feature to develop and it is expensive. Mm.
+User Interface: {vocalsound} Oh yeah.
+Marketing: Yeah, maybe in the next uh step if we make it work, we can implement it.
+Project Manager: {vocalsound} And uh do you see something else?
+Marketing: No.
+User Interface: Uh, should it be equipped with the uh, with uh speakers?
+Marketing: {vocalsound} {vocalsound} Speakers in the remote cont,
+User Interface: Like, you want to find it, you shout
+Marketing: Oh yeah.
+Project Manager: Uh yeah
+User Interface: control,
+Project Manager: that's {disfmarker} and it answers is I'm here? Or {disfmarker}
+Marketing: It just beeps.
+User Interface: Just beeps?
+Marketing: That would be enough.
+Project Manager: Or maybe you want to phone him.
+Marketing: Something very cheap.
+Project Manager: Since now all {disfmarker}
+Industrial Designer: Yeah yeah yeah.
+Marketing: But that's ex that's expensive. Uh.
+Project Manager: yeah? Think
+Industrial Designer: Yeah, especially the power, it really consumes
+Project Manager: Uh-huh.
+Industrial Designer: because it should be all the time on and {disfmarker}
+Project Manager: And uh {disfmarker}
+Marketing: Well I I heard of devices where you just uh whistle them and and they {disfmarker}
+Project Manager: And it's answered.
+Industrial Designer: Yeah.
+Marketing: because of the the frequency they they just answer to that.
+Industrial Designer: Yeah.
+User Interface: I can't whistle. No, no, I can't.
+Marketing: You can't whistle. Uh-huh.
+Project Manager: {vocalsound} Clap clap clap it's

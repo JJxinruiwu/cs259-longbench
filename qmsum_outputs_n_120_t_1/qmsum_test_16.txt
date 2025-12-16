@@ -1,6 +1,6 @@
-got a pretty good idea of where we're going.
-Marketing: {vocalsound} Mm. {vocalsound} {vocalsound} {vocalsound}
-Project Manager: 'Kay. Right. Okay, so the marketing people are all done. Okay, I'm done. {vocalsound} I'm done. 'Kay.
-Marketing: Right.
-Industrial Designer: Mm. {vocalsound}
-Project Manager: Mm. It's been pretty great working with all of you guys. It's been a pleasure to be part of
+?
+MARKETING: Ah, yeah! The group talked about how the color scheme of the TV remote was key. They discussed the importance of including colors on the TV remote.
+
+PROJECT MANAGER: {vocalsound} Yeah, that's right! According to Sarah from Marketing, the group decided to use red and black for the Television Remote, with the slogan "Fashion in Electronics".
+
+INDUSTRIAL DESIGNER: I was told to {vocalsound} uh design the remote with the fashion element in mind, um yes?{vocalsound} We need to

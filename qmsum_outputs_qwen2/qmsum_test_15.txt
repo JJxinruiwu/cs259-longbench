@@ -1,0 +1,6 @@
+Based on the document, the professor thinks that echoes and reverberation are important in understanding speech. Specifically:
+
+- Echoes occur when the voice is not perfectly balanced, leading to a distorted sound pattern.
+- Reverb occurs when the sound waves travel through a medium (such as air) and return to their original position.
+
+So the main concern is that echoes and reverberation can reveal details about the speech environment, such as the presence of loudspeakers or the distance between speakers. The doc suggests that understanding these echoes and reverberation can improve speech recognition and assist in understanding speech patterns in noisy environments.

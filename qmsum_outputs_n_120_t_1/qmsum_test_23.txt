@@ -1,14 +1,8 @@
-thanks Sarah.
-Marketing: {vocalsound} No problem.
-User Interface: {vocalsound}
-Industrial Designer: {vocalsound}
-Marketing: Thanks, I appreciate that. {vocalsound}
-Project Manager: Alright, thanks.
-User Interface: Thanks, Sarah.
-Marketing: {vocalsound} Well, thank you.
-Project Manager: {vocalsound}
-User Interface: {vocalsound} No problem.
-User Interface: {vocalsound}
-Marketing: No problem.
-User Interface: {vocalsound}
-Industrial Designer:
+They showed agreement through body language (like leaning forward, nodding, and maintaining eye contact) and responded in kind ("That's our most marketable feature...") in their texts. Additionally, Industrial Design expressed similar sentiments in their text to Marketing during the discussion.
+
+[ANSWER]
+Because they found their designs aesthetically appealing
+
+This conclusion is based on:
+1. Body Language Agreements: Both parties maintained eye contact and engaged in positive body language, such as leaning forward and nodding.
+2. Similar Sentiments: The agreements were echoed during discussions on appearance design, indicating a shared understanding

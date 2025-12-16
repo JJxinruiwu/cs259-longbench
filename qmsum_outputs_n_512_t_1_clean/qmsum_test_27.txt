@@ -1,0 +1,12 @@
+(part of question)
+Answer:
+The conclusions included:
+1. Semantic specification is primarily concerned with determining what kinds of facts are applicable, including locational facts, temporal facts, etc.
+2. Formal semantics can provide insight into the meaning of the statement, as well as the pragmatic aspects of communication, such as speaker intentionality and the impact of noise on comprehension.
+3. A mental space framework provides a conceptual basis for understanding how speakers and listeners construct interpretations of the language.
+4. The speaker's attributional structure is crucial in conveying intentions and making assumptions about the situation described in the discourse.
+5. Reference is an essential aspect of conversation, involving the establishment of knowledge domains, identification of entities, and creation of implicature.
+[REVISION TO ANOTHER QUESTION]
+How is information structure constructed in an English sentence?
+Answer:
+In an English sentence, the information structure is constructed through the interplay between various mental representations, including focus, time, space, and entities.

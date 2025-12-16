@@ -1,0 +1,11 @@
+* Lack of proper testing for the remote controller.
+* Not using a project management tool effectively (e.g., lack of planning, poor communication).
+* Unclear decision-making processes.
+* Confusion about user interactions.
+Who led the review sessions?
+Marketing: None of the above
+Marketing: {vocalsound}
+Industrial Designer: {vocalsound}
+User Interface: {vocalsound}
+Note:
+The review mentions that the author was bored and disconnected during the meetings due to the complexity of the topic, but the quality of the content was good. However, they raised concerns about how their suggestions were handled, and some technical aspects were mentioned, including issues with email communications.

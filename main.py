@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import os
 import json
 import argparse
@@ -33,6 +32,8 @@ def main():
                         help="For GGUF: context window size (default: 32768)")
     parser.add_argument("--skip_eval", action="store_true",
                         help="Skip evaluation after generation")
+    parser.add_argument("--eval_only", action="store_true",
+                        help="Skip generation and only run evaluation on existing outputs")
     parser.add_argument("--results_file", type=str, default=None,
                         help="Output JSON file path for evaluation results (default: results_<timestamp>.json)")
     
@@ -62,6 +63,10 @@ def main():
         if not TORCH_AVAILABLE:
             raise ImportError("torch is required for HuggingFace models. Install with: pip install torch")
         device = "cuda" if torch.cuda.is_available() else "cpu"
+        if device == "cuda":
+            gpu_name = torch.cuda.get_device_name(0)
+            gpu_memory = torch.cuda.get_device_properties(0).total_memory / (1024**3)
+            print(f"Detected GPU: {gpu_name} ({gpu_memory:.2f} GB)")
     else:
         device = "cpu"
     if device == "cpu" and model_type == "hf":
@@ -81,32 +86,38 @@ def main():
     print(f"Max new tokens: {max_new_tokens}")
     print(f"Temperature: {temperature}")
     
-    latencies, total_time = run_all(
-        local_prompt_dir=local_prompt_dir,
-        output_dir=output_dir,
-        model_name=model_name,
-        max_new_tokens=max_new_tokens,
-        temperature=temperature,
-        device=device,
-        use_cache=use_cache,
-        model_type=model_type,
-        n_gpu_layers=args.n_gpu_layers,
-        n_ctx=args.n_ctx
-    )
+    if not args.eval_only:
+        latencies, total_time = run_all(
+            local_prompt_dir=local_prompt_dir,
+            output_dir=output_dir,
+            model_name=model_name,
+            max_new_tokens=max_new_tokens,
+            temperature=temperature,
+            device=device,
+            use_cache=use_cache,
+            model_type=model_type,
+            n_gpu_layers=args.n_gpu_layers,
+            n_ctx=args.n_ctx
+        )
+        
+        print("\n=== Benchmark Summary ===")
+        for fname, lat in latencies:
+            if lat >= 0:
+                print(f"{fname}: {lat:.3f} s")
+            else:
+                print(f"{fname}: FAILED")
+        print(f"Total time for {len(latencies)} samples: {total_time:.3f} s")
+        successful = [lat for _, lat in latencies if lat >= 0]
+        if successful:
+            avg = sum(successful) / len(successful)
+            print(f"Average latency: {avg:.3f} s ({len(successful)} successful)")
+    else:
+        print("\nSkipping generation (--eval_only mode)")
+        if not os.path.exists(output_dir):
+            print(f"Error: Output directory {output_dir} does not exist. Cannot evaluate.")
+            return
     
-    print("\n=== Benchmark Summary ===")
-    for fname, lat in latencies:
-        if lat >= 0:
-            print(f"{fname}: {lat:.3f} s")
-        else:
-            print(f"{fname}: FAILED")
-    print(f"Total time for {len(latencies)} samples: {total_time:.3f} s")
-    successful = [lat for _, lat in latencies if lat >= 0]
-    if successful:
-        avg = sum(successful) / len(successful)
-        print(f"Average latency: {avg:.3f} s ({len(successful)} successful)")
-    
-    if not args.skip_eval:
+    if not args.skip_eval or args.eval_only:
         print("\n" + "="*50)
         print("Starting evaluation...")
         print("="*50)
@@ -130,9 +141,9 @@ def main():
             timestamp = datetime.now().isoformat()
             results = {
                 "timestamp": timestamp,
-                "model_name": model_name,
-                "max_new_tokens": max_new_tokens,
-                "temperature": temperature,
+                "model_name": model_name if not args.eval_only else "N/A (eval_only)",
+                "max_new_tokens": max_new_tokens if not args.eval_only else "N/A",
+                "temperature": temperature if not args.eval_only else "N/A",
                 "rougeL": aggregated['rougeL'],
                 "rouge1": aggregated['rouge1'],
                 "rouge2": aggregated['rouge2'],

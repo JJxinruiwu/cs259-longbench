@@ -1,0 +1,1 @@
+Answer: The general discussion was about using echo cancellation and spectrogram analysis to handle overlapping speech in recognition tasks.

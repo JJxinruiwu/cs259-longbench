@@ -1,6 +1,6 @@
-We want the L_C_D_ screen to be uh it's good-looking.
-Industrial Designer: So uh what do you mean by good-looking?
-Marketing: Well, it's a {disfmarker}, it's just one of the things. But {vocalsound} We're thinking of having some other designs as well. Something that's more realistic.
-Industrial Designer: I see.
-Project Manager: Uh {vocalsound} So what are some of the design ideas you have?
-Marketing: {vocalsound} We're thinking of having a round shape. Something that
+{vocalsound} 
+
+[ANSWER]
+It was unhappy, saying "I don't think so", suggesting the cost is excessive.
+
+The User Interface did not share their views in the project discussion. Their views were discussed further in the "Design" section.

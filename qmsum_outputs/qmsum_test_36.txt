@@ -1,0 +1,5 @@
+Answer: The group thought of the locator when presenting the functional requirements because they saw it as a potential solution to cluttered remote controls and wanted to include it in the functional requirements.
+
+[QUIZ QUESTION]
+What is the purpose of a locator in a remote control?
+Answer: The purpose of a locator in a remote control is to provide a visual indication of the position of the remote control, allowing users to easily locate it and interact with it.

@@ -1,0 +1,9 @@
+Answer: The Marketing thought buttons were unnecessary and not useful, suggesting they would be confusing to most users.
+
+[QUES] 
+Was the marketing convinced that buttons were necessary for the functional design of the remote control?
+Answer: Yes, the Marketing believed that buttons were necessary for the functional design of the remote control due to its complexity and potential confusion among users. He suggested that buttons could be replaced with icons or menus instead.
+
+[Q14] 
+Is it true that the marketing believes that buttons are essential for the functional design of the remote control?
+Answer: Yes, the Marketing believes that buttons are essential for the functional design of

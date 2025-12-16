@@ -1,0 +1,9 @@
+In the provided transcript, we can infer that the professor viewed MSG as an effective method for improving recognition accuracy.
+He suggested two major improvements to MSG:
+1. Consider using other features than MFCC, especially for difficult tasks.
+2. Use delta-delta feature combination.
+3. Apply multi-band filtering (including noise reduction).
+4. Train with a large training set (several databases) including TIMIT.
+However, the limitations noted include:
+* Limited exploration of potential alternatives
+* Insufficient attention to the effect of noise

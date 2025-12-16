@@ -1,0 +1,27 @@
+.
+
+The meeting was called to discuss the following agenda items:
+- 4 agenda items requested by Jane
+- 1 agenda item involving transcription status
+- 1 agenda item on disk issues
+- 1 agenda item on tandem recognition system
+- 1 agenda item on embedded training
+- 1 agenda item on front-end features
+
+The meeting involved:
+- Grad A presenting on the status of the tandem recognition system
+- Prof. B presenting on the transcription status
+- Prof. F presenting on the disk issues
+- Prof. D discussing the use of tandem recognition and embedded training
+- Grad A responding to questions and addressing concerns about the tandem recognition system
+
+The meeting concluded with Grad A stating that the system was "almost there" and that the next step would be to train the network.
+
+Some key points from the meeting included:
+- The tandem recognition system was being developed using the MIP protocol and the HLAA recognition architecture.
+- The use of hidden units in the network was expected to provide a more efficient representation of the input data.
+- The network was expected to improve performance on tasks such as recognition and text-to-speech synthesis.
+- The embedded training of the network was expected to provide an improvement in performance on tasks such as recognition and text-to-speech synthesis.
+- The front-end features of the network were expected to provide an improvement in performance on tasks such as text-to-speech synthesis.
+
+Overall, the meeting discussed the progress of the tandem recognition system and the potential for improvements in performance on various tasks using embedded training.

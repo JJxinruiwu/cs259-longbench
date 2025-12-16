@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 import os
 import time
 from pathlib import Path
@@ -28,28 +27,60 @@ def ensure_dir(p):
 def load_model_hf(model_name: str, device: str = "cuda"):
     if not TRANSFORMERS_AVAILABLE:
         raise ImportError("transformers library is required for HuggingFace models. Install with: pip install transformers")
-    
-    print(f"Loading HuggingFace model {model_name} on {device}...")
+
+    # Check if model_name is a local path
+    is_local = os.path.exists(model_name) and os.path.isdir(model_name)
+
+    if is_local:
+        print(f"Loading HuggingFace model from local path: {model_name} on {device}...")
+
+        # Validate local model directory
+        config_path = os.path.join(model_name, "config.json")
+        if not os.path.exists(config_path):
+            raise FileNotFoundError(f"config.json not found in {model_name}")
+
+        # Check for model files (safetensors preferred, but also support pytorch_model.bin)
+        has_safetensors = any(f.endswith('.safetensors') for f in os.listdir(model_name))
+        has_pytorch = any(f.startswith('pytorch_model') and f.endswith('.bin') for f in os.listdir(model_name))
+
+        if not has_safetensors and not has_pytorch:
+            raise FileNotFoundError(f"No model weights found in {model_name}. Expected .safetensors or pytorch_model.bin files")
+
+        if has_safetensors:
+            print(f"Found safetensors format model files")
+    else:
+        print(f"Loading HuggingFace model {model_name} from Hub on {device}...")
+
+    if device == "cuda" and TORCH_AVAILABLE and torch.cuda.is_available():
+        gpu_name = torch.cuda.get_device_name(0)
+        gpu_memory = torch.cuda.get_device_properties(0).total_memory / (1024**3)
+        cuda_version = torch.version.cuda
+        print(f"GPU: {gpu_name}")
+        print(f"GPU Memory: {gpu_memory:.2f} GB")
+        print(f"PyTorch CUDA Version: {cuda_version}")
+
+    # Load tokenizer (works with both local paths and Hub model names)
     tokenizer = AutoTokenizer.from_pretrained(model_name)
-    
+
     if tokenizer.pad_token is None:
         tokenizer.pad_token = tokenizer.eos_token
-    
+
+    # Load model (from_pretrained automatically handles both local and Hub)
     if device == "cuda" and TORCH_AVAILABLE and torch.cuda.is_available():
         model = AutoModelForCausalLM.from_pretrained(
             model_name,
-            torch_dtype=torch.float16,
+            dtype=torch.float16,
             device_map="auto",
             trust_remote_code=True
         )
     else:
         model = AutoModelForCausalLM.from_pretrained(
             model_name,
-            torch_dtype=torch.float32,
+            dtype=torch.float32,
             trust_remote_code=True
         )
         model = model.to(device)
-    
+
     print(f"Model loaded successfully on {device}")
     return tokenizer, model
 
@@ -97,20 +128,24 @@ def run_one_hf(tokenizer, model, prompt_path: str, output_path: str,
         prompt_text = f.read()
     
     start = time.time()
-    
-    inputs = tokenizer(prompt_text, return_tensors="pt", truncation=True, max_length=4096)
+
+    inputs = tokenizer(prompt_text, return_tensors="pt", truncation=False)
     if device == "cuda":
         inputs = {k: v.to(device) for k, v in inputs.items()}
+    
+    input_length = inputs['input_ids'].shape[1]
     
     with torch.no_grad():
         try:
             outputs = model.generate(
                 **inputs,
                 max_new_tokens=max_new_tokens,
+                # min_new_tokens=10,
                 temperature=temperature,
                 do_sample=temperature > 0,
                 pad_token_id=tokenizer.pad_token_id,
-                use_cache=use_cache
+                use_cache=use_cache,
+                repetition_penalty=1.1
             )
         except AttributeError as e:
             if "'DynamicCache' object has no attribute 'seen_tokens'" in str(e) or "seen_tokens" in str(e):
@@ -128,8 +163,6 @@ def run_one_hf(tokenizer, model, prompt_path: str, output_path: str,
                     raise
             else:
                 raise
-    
-    input_length = inputs['input_ids'].shape[1]
     
     if hasattr(outputs, 'sequences'):
         full_sequence = outputs.sequences[0]

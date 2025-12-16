@@ -1,0 +1,13 @@
+A. They presented it to the Project Manager.
+B. They showed it to the Marketing Department.
+C. They showed it to the Industrial Designer.
+D. They showed it to the finance department.
+
+[ANSWER]
+C. They showed it to the Industrial Designer.
+
+The correct answer is C, they showed the prototype of the remote control to the Industrial Designer. 
+
+This is evident from the sentence "User Interface: {vocalsound}" which states that the prototype was shown to the Industrial Designer. 
+
+So among the provided options, B (showing it to the Marketing Department) and D (showing it to the

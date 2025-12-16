@@ -1,0 +1,9 @@
+Based on the document, the conclusion on semantic specification is:
+
+The conclusion on semantic specification is that the goal of the semantic side of constructions is to fill out more and more of the bindings needed in order to come up with the final one. 
+
+Specifically, the document states:
+
+"Semantic specification is the goal of the semantic side of constructions. It is the goal of constructing the semantic specification of a construction. The semantic specification provides the final result of the construction." 
+
+So the conclusion is that semantic specification is the goal of constructing the semantic specification of a construction. The document suggests that semantic specification is the goal of constructing the final result

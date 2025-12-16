@@ -1,0 +1,5 @@
+A) Buttons are unnecessary
+B) Buttons are necessary
+C) Buttons are optional
+
+ANSWER: B) Buttons are necessary

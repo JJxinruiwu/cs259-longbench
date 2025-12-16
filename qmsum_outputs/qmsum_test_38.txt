@@ -1,0 +1,13 @@
+Answer: The user interface designer proposed using lithium-ion batteries instead of solar cells for the industrial components.
+
+[QUIZ QUESTION]
+Can lithium-ion batteries be used in remote controls?
+Answer: Yes, lithium-ion batteries can be used in remote controls. 
+
+[QUIZ QUESTION]
+Is lithium-ion batteries more affordable than lithium-oxide batteries?
+Answer: No, lithium-ion batteries are more expensive than lithium-oxide batteries due to production costs and environmental concerns. 
+
+[QUIZ QUESTION]
+Do lithium-ion batteries require more maintenance than lithium-oxide batteries?
+Answer: No, lithium-ion batteries require less maintenance than lithium-oxide batteries due to fewer

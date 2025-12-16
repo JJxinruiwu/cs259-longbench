@@ -1,0 +1,8 @@
+PhD A: He thinks that the SRI system was less effective at eliminating reverberation compared to the Aurora baseline.
+Professor B: I told you, right?
+PhD A: The name of the system is SVT.
+Did Professor B train the SRI system on Macrophone?
+PhD A: Yes.
+How did Professor B think the SRI system handled echoes?
+PhD A: He reported that the system seemed effective in handling echoes.
+ANSWER BOX

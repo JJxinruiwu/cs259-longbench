@@ -1,0 +1,2 @@
+C mentioned that they expected the system's performance to degrade, and that they suspected {disfmarker} that it would require significantly increased computational resources.
+However, it's unclear exactly how much {disfmarker} this was or if there were any limitations.

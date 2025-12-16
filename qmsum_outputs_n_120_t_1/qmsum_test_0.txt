@@ -1,7 +1,20 @@
-some functions on the screen that users can access through the remote control. The remote control can be turned upside down and backwards.
-User Interface: {vocalsound} And it can {disfmarker} be placed on any surface.
-Marketing: {vocalsound}
-Industrial Designer: Mm, yes.
-User Interface: {vocalsound} And it's going to be made out of titanium, which is a really good material, it's durable and it's lightweight.
-Marketing: Mm-hmm.
-User Interface: {vocalsound} I'm going to have
+INDUSTRIAL DESIGNER:
+The remote control will be designed as simple, with minimal components.
+
+MARKETING EXPERT (SAMMY BENJO):
+Targeted to young people. Focus on ease of use, simplicity.
+
+PROJECT MANAGER:
+Focuses on usability principles, user interface concept, communication interface development techniques.
+They discuss automation of on/off, customizable volume, and gesture recognition
+
+MUSER INTERFACE DESIGNERS:
+
+Discuss various concepts such as:
+
+* Customized on/off switches
+* Gesture recognition
+* Automatic on-off controls
+* Gesture-activated controls
+
+It appears they brainstormed some

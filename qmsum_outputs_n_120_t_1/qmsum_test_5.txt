@@ -1,6 +1,4 @@
-Manager: Uh, okay, double curved is okay.
-Marketing: We had some uh uh a different design, but uh that uh that uh this one is uh is a good option, we think.
-Project Manager: Okay, thank you.
-Marketing: Thanks. So, uh how do you see this product working with uh a regular user?
-Project Manager: So it's okay, yes.
-Industrial Designer: We can get it into, uh it can go on a phone, an e-reader, or other devices, so it can be {disfmarker} right there with you. That way,
+The user interface described it as having "two buttons" and "the screen was full of icons", etc.
+
+Answer:
+The user interface introduced the prototype by describing its appearance, saying that "it's not fancy", but made sure it was shown in style. When the prototype was presented, it appeared to be a typical remote control with two buttons - a button up and a button down. The remote control was wrapped in rubber, contained a regular color, and included pull-down tabs on both the lower-left and upper-right corners.

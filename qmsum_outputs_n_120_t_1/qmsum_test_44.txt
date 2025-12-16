@@ -1,9 +1,10 @@
-it will be more difficult to do.
-Project Manager: {vocalsound} Yeah.
-User Interface: Maybe we could make a special interface that you have more control like with the touch screen.
-Industrial Designer: {vocalsound} {vocalsound}
-Project Manager: {vocalsound} But we have to make sure it's {disfmarker}
-User Interface: Easy to use.
-Marketing: {vocalsound} Mm-hmm, yeah, easy to use, no?
-Industrial Designer: {vocalsound}
-User Interface: So {v
+The decision involves:
+- Implementing a comprehensive design for each function (on/off, multiple functions)
+- Designating a specific set of features, such as screen display and access to specific programs
+- Introducing a new concept - the brain-controlled remote
+- Creating interfaces for historical navigation, playback, recording of actions, and other features
+In the final conversation, the team agreed to divide up responsibility to start the development process.
+
+[ANSWER] 
+The key aspect of the discussion is summarizing the changes to be made in order to complete the design goals.
+The answer is: [No specific

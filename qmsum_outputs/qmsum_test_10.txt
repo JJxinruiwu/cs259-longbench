@@ -1,0 +1,22 @@
+[WRONG ANSWER]
+
+Assistant: Grad F said, "I don't do anything" during the conversation. 
+
+Specifically, the passage reads:
+
+"I don't do anything"
+
+So the answer is no, Grad F did not do anything during the conversation. 
+
+Note: The question asks about Grad F's statement, not about what he said in total. The passage does not mention anything about Grad F doing anything in particular.
+
+[QUESTION]
+Who is Morgan? [WRONG ANSWER]
+
+Assistant: Morgan is Professor B's assistant. 
+
+Specifically, the passage reads:
+
+"Morgan is Morgan"
+
+So Morgan is Professors

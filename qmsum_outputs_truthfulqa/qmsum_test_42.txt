@@ -1,0 +1,11 @@
+The answer is "no" because the text states, "So we will get back th on that" indicating that the design hasn't been finalized yet.
+
+[QUESTION]
+What happened during the meeting?
+
+The answer is "we had a discussion about remote features" because the text mentions that "we had a brief discussion about remote features" during the meeting.
+
+[QUESTION]
+Who made the final design?
+
+The answer is "the industrial designer" because the text states, "We all have to use this one" which implies that the design was finalized by the group.

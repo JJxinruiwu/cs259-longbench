@@ -1,8 +1,2 @@
-the {disfmarker} one I'm not {disfmarker} I'm not looking at this.
-PhD A: I'm not looking at this.
-Grad E: And I'm not looking at this.
-PhD C: yeah.
-Grad E: I've got to show you some of the other ones.
-Grad F: I mean.
-Grad E: I 'll show you the whole {disfmarker}
-PhD C: I mean I just want to show you that even though {disfmarker} there's a lot of error {disfmarker} there's also
+Postdoc G mentioned that they would make Andreas' mikes available, and they would not require {disfmarker} specific identification {vocalsound}. Mike is the correct procedure for microphone usage.
+When {vocalsound} is used in the context of a SLP (speech-language pathology) evaluation, it typically requires direct access to the patient. However, with our current system, [vocalsound] appears to require {disfmarker} direct identification of the patient. The decision on the procedure was that the microphone shall be available to all transcribers for the purposes

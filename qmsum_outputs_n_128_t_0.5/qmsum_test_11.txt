@@ -1,0 +1,4 @@
+Answer:
+The group discussed the feasibility of implementing speech recognition in a remote control, specifically in a universal remote control designed for television (T_V_) applications. They considered various approaches, including gesture recognition, voice commands, and manual typing, and concluded that it was not feasible within the proposed budget of 12 Euros. They also explored the potential for incorporating a microphone or speaker in the remote control to enable voice commands.
+
+However, the group did consider the concept of "clap" as a universal command, suggesting that it could be used to convey a request or action, such as asking the remote control to turn on or off. While

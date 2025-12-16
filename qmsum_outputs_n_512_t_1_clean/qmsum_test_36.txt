@@ -1,0 +1,22 @@
+They saw this in Charmed where a character was yelling "Hey Sky, change to Sky!" (marketing)
+they realized they would lose track of their T_V_ if it wasn't stuck nearby. (user interface)
+It made the TV to realize that "Hey Sky, turn off". (project manager)
+It would be like a code that the TV could recognize and change the channel accordingly. (marketing)
+ANSWER KEY
+*What is the main requirement for the remote control?: Simple use, easy-to-use design
+*Who is the target market?: Younger people who do not need buttons and/or voice recognition. They want to look young, trendy, and comfortable while viewing TV programs.
+*How will the product differentiate from existing products: Using a beeper button, a remote control attachment to T_V_, and incorporating a voice-activated remote control.
+*Any potential solutions: Utilizing components concept, and perhaps including voice-activated capabilities.
+*Other notable items: Utilizing sunbathing technology, locating remotes closer to the viewers.
+KEY
+[v] = Voice Recognition
+[ch] = Channel Number Switching
+[s] = Sunbathing Technology
+[b] = Bearer Button
+[d] = Desktop Positioning
+[w] = Working Outlines
+{ } = Task Description
+[f] = Functionality Documentation
+[demand] = Demand Documents
+[t] = Time Documents
+[ technical] = Technical Details

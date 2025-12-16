@@ -1,0 +1,11 @@
+Answer: The system would be involved in several demos, including:
+
+1) The application of the belief-net to the German and English domains, focusing on the construction parser and semantic analysis.
+
+2) The development of a formalization framework for the construction parser, aiming to unify and standardize existing approaches.
+
+3) The creation of a corpus of construction-related texts and annotations, providing training data for the construction parser.
+
+4) The implementation of the construction parser in a distributed environment, enabling parallel processing and scalability.
+
+5) The development of a system for generating construction-related documents, including annotations and templates, for use in various applications.

@@ -1,0 +1,9 @@
+Answer: Based on the doc, the professor did not think about clustering. He mentioned that he was interested in using the phone target and the target from the data itself to train a neural net for the full band. However, he did not consider clustering as a method to achieve robustness.
+
+So the correct answer is:
+
+The professor did not think about clustering. He mentioned that he was interested in using the phone target and the target from the data itself to train a neural net for the full band. However, he did not consider clustering as a method to achieve robustness. 
+
+The relevant parts of the doc are:
+
+"Professor A
